@@ -38,20 +38,14 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 
 ### Published
 1. **Jindong Li**, Qianli Xing, Qi Wang*, Yi Chang. CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection. Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023. (ECML-PKDD, CORE A, CCF B)  [PDF](https://arxiv.org/abs/2405.02359)  [Code](https://github.com/jindongli-Ai/CVTGAD)
-
 2. Runliang Niu, **Jindong Li**, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang*. ScreenAgent: Multimodal Large Language Model-driven Computer Control Agent. International Joint Conference on Artificial Intelligence, 2024. (IJCAI, CORE A*, CCF A)  [PDF](https://arxiv.org/abs/2402.07945)  [Code](https://github.com/niuzaisheng/ScreenAgent)
 
 ### Under Review
 1. **Jindong Li**, Yixin Liu, Qianli Xing, Qi Wang*, Yi Chang, Shirui Pan. No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion. Neural Networks (NN, CORE A, CCF B)  [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)  [Code](https://github.com/jindongli-Ai/CANNON)
-
 2. Rui Cao, **Jindong Li***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. Scientific Reports (SR, JCR Q2)  [Code](https://github.com/jindongli-Ai/DiffRSG)
-
 3. Yali Fu+, **Jindong Li+**, Jiahong Liu, Qianli Xing, Qi Wang*, Irwin King. HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. The Web Conference, 2025. (WWW, CORE A*, CCF A)[PDF](https://arxiv.org/abs/2407.02057)  [Code](https://github.com/Yali-F/HC-GLAD)
-
 4. Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. The Web Conference, 2025. (WWW, CORE A*, CCF A)  [PDF](https://arxiv.org/abs/2407.00383)  [Code](https://github.com/Goldenhorns/FANFOLD)
-
 5. Yang Ai, Qiang Bai, **Jindong Li**, Xi Yang*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration. Association for the Advancement of Artificial Intelligence, 2025. (AAAI, CORE A*, CCF A)  [PDF](https://arxiv.org/pdf/2312.02877v2)
-
 6. Qi Wang+*, **Jindong Li+**, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang*, Chengqi Zhang. Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond. ACM Transactions on Information Systems (TOIS, CORE A*, CCF A)  [GitHub](https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey)
 
 ### In Preparation
@@ -85,5 +79,34 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 | 8  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (17th place) | 2024 |
 | 9  | Kaggle | 1 Silver Medal, 3 Bronze Medals | 2022-2023 |
 | 10 | LeetCode | Contest Rating top 1% | 2021-2023 |
+
+
+## TECHNICAL ACCOUNTS
+
+- Kaggle: [HomePage](https://www.kaggle.com/ac123321)
+- LeetCode: [HomePage1](https://leetcode.cn/u/xinghe_xinghe/) | [HomePage2](https://leetcode.cn/u/hanxin_hanxin/)
+- Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/)
+- NowCoder: [HomePage](https://www.nowcoder.com/users/116877070)
+- CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe)
+- CSDN: [HomePage](https://blog.csdn.net/weixin_46645827?spm=1000.2115.3001.5343)
+
+## HONORS AND AWARDS
+
+| No | Institution | Award | Year |
+|----|-------------|-------|------|
+| 1  | NUDT | Outstanding Student at the college level | 2012, 2014 |
+| 2  | NUDT | Outstanding Student at the university level | 2014 |
+| 3  | NUDT | Academic scholarship (student can only receive once during college) | 2014 |
+| 4  | NUDT | Outstanding Graduate at the college level | 2015 |
+| 5  | NUDT | Outstanding Graduate at the university level (0.2% in NUDT) | 2015 |
+| 6  | NUDT | Citation of Class Three Merit (0.2% in NUDT) | 2015 |
+| 7  | JLU | Academic scholarship | 2022 |
+| 8  | JLU | Academic scholarship | 2023 |
+
+## SKILLS
+
+- **Language**: IELTS Overall Band Score 6.5 (Listening: 6.0, Reading: 7.0, Writing: 6.0, Speaking: 6.5) — 2023.11
+- **Programming Languages**: Proficient in Python, C++, Java. Also experienced with C, Go, MySQL.
+- **Deep Learning Tools**: PyTorch, TensorFlow
 
 
