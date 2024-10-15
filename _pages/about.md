@@ -15,20 +15,20 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 ## INFORMATION
 - **Naive Place**: Shandong
 - **Tel**: 15964596889
-- **E-mail**: [jdli21@mails.jlu.edu.cn](mailto:jdli21@mails.jlu.edu.cn)  [jindong.li.mail@gmail.com](mailto:jindong.li.mail@gmail.com)
+- **E-mail**: [jdli21@mails.jlu.edu.cn](mailto:jdli21@mails.jlu.edu.cn) &nbsp;&nbsp; [jindong.li.mail@gmail.com](mailto:jindong.li.mail@gmail.com)
 - **WeChat**: alwaysbeakindperson
 - **Google Scholar**: [https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN)
 - **GitHub**: [https://github.com/jindongli-Ai](https://github.com/jindongli-Ai)
 
 ## EDUCATION
 
-### Jilin University (JLU)  985
+### Jilin University (JLU) &nbsp;&nbsp; 985
 - **M.E. in Computer Science and Technology**
 - Supervisor: [Assistant Prof. Qi Wang](http://sai.jlu.edu.cn/info/1094/3453.htm)
 - Research Topic: *Graph Data Mining, Unsupervised Learning, Large Language Models*
 - Academic performance: *avg. score: 85.02*
 
-### National University of Defense Technology (NUDT) 985
+### National University of Defense Technology (NUDT) &nbsp;&nbsp; 985
 - **B.E. in Electronic Engineering**
 - Academic performance: *avg. score: 82.4  rank: 2/115*
 - *(I have a valid passport and successfully traveled to Europe in 2023, with no issues obtaining a visa)*
@@ -41,12 +41,12 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 2. Runliang Niu, **Jindong Li**, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang*. ScreenAgent: Multimodal Large Language Model-driven Computer Control Agent. International Joint Conference on Artificial Intelligence, 2024. (IJCAI, CORE A*, CCF A)  [[PDF]](https://arxiv.org/abs/2402.07945)  [[CODE]](https://github.com/niuzaisheng/ScreenAgent)
 
 ### Under Review
-1. **Jindong Li**, Yixin Liu, Qianli Xing, Qi Wang*, Yi Chang, Shirui Pan. No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion. Neural Networks (NN, CORE A, CCF B)  [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)  [Code](https://github.com/jindongli-Ai/CANNON)
-2. Rui Cao, **Jindong Li***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. Scientific Reports (SR, JCR Q2)  [Code](https://github.com/jindongli-Ai/DiffRSG)
-3. Yali Fu+, **Jindong Li+**, Jiahong Liu, Qianli Xing, Qi Wang*, Irwin King. HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. The Web Conference, 2025. (WWW, CORE A*, CCF A)[PDF](https://arxiv.org/abs/2407.02057)  [Code](https://github.com/Yali-F/HC-GLAD)
-4. Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. The Web Conference, 2025. (WWW, CORE A*, CCF A)  [PDF](https://arxiv.org/abs/2407.00383)  [Code](https://github.com/Goldenhorns/FANFOLD)
-5. Yang Ai, Qiang Bai, **Jindong Li**, Xi Yang*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration. Association for the Advancement of Artificial Intelligence, 2025. (AAAI, CORE A*, CCF A)  [PDF](https://arxiv.org/pdf/2312.02877v2)
-6. Qi Wang+*, **Jindong Li+**, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang*, Chengqi Zhang. Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond. ACM Transactions on Information Systems (TOIS, CORE A*, CCF A)  [GitHub](https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey)
+1. **Jindong Li**, Yixin Liu, Qianli Xing, Qi Wang*, Yi Chang, Shirui Pan. No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion. Neural Networks (NN, CORE A, CCF B)  [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)  [[CODE]](https://github.com/jindongli-Ai/CANNON)
+2. Rui Cao, **Jindong Li***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. Scientific Reports (SR, JCR Q2)  [[CODE]](https://github.com/jindongli-Ai/DiffRSG)
+3. Yali Fu+, **Jindong Li+**, Jiahong Liu, Qianli Xing, Qi Wang*, Irwin King. HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. The Web Conference, 2025. (WWW, CORE A*, CCF A)[[PDF]](https://arxiv.org/abs/2407.02057)  [[CODE]](https://github.com/Yali-F/HC-GLAD)
+4. Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. The Web Conference, 2025. (WWW, CORE A*, CCF A)  [[PDF]](https://arxiv.org/abs/2407.00383)  [[CODE]](https://github.com/Goldenhorns/FANFOLD)
+5. Yang Ai, Qiang Bai, **Jindong Li**, Xi Yang*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration. arXiv Preprint. [[PDF]](https://arxiv.org/pdf/2312.02877v2)
+6. Qi Wang+*, **Jindong Li+**, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang*, Chengqi Zhang. Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond. arXiv Preprint.  [[GITHUB]](https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey)
 
 ### In Preparation
 1. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation.
