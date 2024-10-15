@@ -1,49 +1,84 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# Jindong Li (李金栋)
+![Jindong Li](jindongli.png)
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! I am a student focusing on artificial intelligence. I obtained a Bachelor's degree in Electronic Engineering from the National University of Defense Technology and a Master's degree in Computer Science and Technology from the College of Artificial Intelligence at Jilin University.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detection, Multimodal Learning, Large Language Models (LLMs), Domain Adaptation, Unsupervised Learning, Few-Shot Learning, Machine Learning, Deep Learning.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## INFORMATION
+- **Naive Place**: Shandong
+- **Tel**: 15964596889
+- **E-mail**: [jdli21@mails.jlu.edu.cn](mailto:jdli21@mails.jlu.edu.cn) | [jindong.li.mail@gmail.com](mailto:jindong.li.mail@gmail.com)
+- **WeChat**: alwaysbeakindperson
+- **Google Scholar**: [https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN)
+- **GitHub**: [https://github.com/jindongli-Ai](https://github.com/jindongli-Ai)
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## EDUCATION
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+### Jilin University (JLU)  985
+- **M.E. in Computer Science and Technology**
+- Supervisor: [Assistant Prof. Qi Wang](http://sai.jlu.edu.cn/info/1094/3453.htm)
+- Research Topic: *Graph Data Mining, Unsupervised Learning, Large Language Models*
+- Academic performance: *avg. score: 85.02*
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### National University of Defense Technology (NUDT) 985
+- **B.E. in Electronic Engineering**
+- Academic performance: *avg. score: 82.4  rank: 2/115*
+- *(I have a valid passport and successfully traveled to Europe in 2023, with no issues obtaining a visa)*
 
-**Markdown generator**
+## PAPERS
+*(+: co-first author, *: corresponding author)*
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+### Published
+1. **Jindong Li**, Qianli Xing, Qi Wang*, Yi Chang. CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection. Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023. (ECML-PKDD, CORE A, CCF B)  
+   [PDF](https://arxiv.org/abs/2405.02359) | [Code](https://github.com/jindongli-Ai/CVTGAD)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+2. Runliang Niu, **Jindong Li**, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang*. ScreenAgent: Multimodal Large Language Model-driven Computer Control Agent. International Joint Conference on Artificial Intelligence, 2024. (IJCAI, CORE A*, CCF A)  
+   [PDF](https://arxiv.org/abs/2402.07945) | [Code](https://github.com/niuzaisheng/ScreenAgent)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+### Under Review
+1. **Jindong Li**, Yixin Liu, Qianli Xing, Qi Wang*, Yi Chang, Shirui Pan. No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion. Neural Networks (NN, CORE A, CCF B)  
+   [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833) | [Code](https://github.com/jindongli-Ai/CANNON)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+2. Rui Cao, **Jindong Li***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. Scientific Reports (SR, JCR Q2)  
+   [Code](https://github.com/jindongli-Ai/DiffRSG)
+
+3. Yali Fu+, **Jindong Li+**, Jiahong Liu, Qianli Xing, Qi Wang*, Irwin King. HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. The Web Conference, 2025. (WWW, CORE A*, CCF A)  
+   [PDF](https://arxiv.org/abs/2407.02057) | [Code](https://github.com/Yali-F/HC-GLAD)
+
+4. Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. The Web Conference, 2025. (WWW, CORE A*, CCF A)  
+   [PDF](https://arxiv.org/abs/2407.00383) | [Code](https://github.com/Goldenhorns/FANFOLD)
+
+5. Yang Ai, Qiang Bai, **Jindong Li**, Xi Yang*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration. Association for the Advancement of Artificial Intelligence, 2025. (AAAI, CORE A*, CCF A)  
+   [PDF](https://arxiv.org/pdf/2312.02877v2)
+
+6. Qi Wang+*, **Jindong Li+**, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang*, Chengqi Zhang. Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond. ACM Transactions on Information Systems (TOIS, CORE A*, CCF A)  
+   [GitHub](https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey)
+
+### In Preparation
+1. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation.
+2. Wenyu Liu, **Jindong Li**, Run Tan, Haoji Wang, Yali Fu, Qichuan Tian*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism.
+3. **Jindong Li+**, Xiyu Hu+, Qi Wang*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
+4. **Jindong Li+**, Yali Fu+, Qianli Xing, Qi Wang*. Graph Prompt Learning and Kolmogorov-Arnold Networks for Unsupervised Graph-Level Anomaly Detection.
+5. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
+
+## WORK EXPERIENCE
+
+### Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab)  2023.09-2023.12
+- **Research Intern**
+- Mentor: [Bin Wang](https://wangbindl.github.io/) and [Linke Ouyang](https://scholar.google.com/citations?user=rDaVSiAAAAAJ&hl=zh-CN)
+- Topic: Multimodal Large Language Models (MLLMs), Data Engine
+- Responsibilities:
+  - Evaluation of MLLMs
+  - Multimodal (OCR mainly) models/approaches
+
+## COMPETITION EXPERIENCE
+
+| No | Competition                                                 | Award                              | Year  |
+|----|-------------------------------------------------------------|------------------------------------|-------|
+| 1  | NUDT Intelligent Automobile Race                            | First Prize (1st place)            | 2014  |
+| 2  | Hunan Province Intelligent Automobile Race of College Students | Second Prize                      | 2014  |
+| 3  | NUDT Electronic Design Competition Quadcopter Autonomous Aircraft Group | Third Prize (2nd place)            | 2014  |
+| 4  | “LanQiao Cup” Programming Competition Graduate Group        | Jilin, First Prize (2nd place)     | 2022  |
+| 5  | “LanQiao Cup” Programming Competition Graduate Group        | National Finals, Second Prize (11th place) | 2022  |
+| 6  | “LanQiao Cup” Programming Competition Graduate Group        | Jilin, Second Prize (5th place)    | 2023  |
