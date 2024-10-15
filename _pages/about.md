@@ -37,8 +37,8 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 *(+: co-first author, *: corresponding author)*
 
 ### Published
-1. **Jindong Li**, Qianli Xing, Qi Wang*, Yi Chang. CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection. Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023. (ECML-PKDD, CORE A, CCF B)  [PDF](https://arxiv.org/abs/2405.02359)  [Code](https://github.com/jindongli-Ai/CVTGAD)
-2. Runliang Niu, **Jindong Li**, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang*. ScreenAgent: Multimodal Large Language Model-driven Computer Control Agent. International Joint Conference on Artificial Intelligence, 2024. (IJCAI, CORE A*, CCF A)  [PDF](https://arxiv.org/abs/2402.07945)  [Code](https://github.com/niuzaisheng/ScreenAgent)
+1. **Jindong Li**, Qianli Xing, Qi Wang*, Yi Chang. CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection. Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023. (ECML-PKDD, CORE A, CCF B)  [[PDF]](https://arxiv.org/abs/2405.02359)  [[CODE]](https://github.com/jindongli-Ai/CVTGAD)
+2. Runliang Niu, **Jindong Li**, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang*. ScreenAgent: Multimodal Large Language Model-driven Computer Control Agent. International Joint Conference on Artificial Intelligence, 2024. (IJCAI, CORE A*, CCF A)  [[PDF]](https://arxiv.org/abs/2402.07945)  [[CODE]](https://github.com/niuzaisheng/ScreenAgent)
 
 ### Under Review
 1. **Jindong Li**, Yixin Liu, Qianli Xing, Qi Wang*, Yi Chang, Shirui Pan. No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion. Neural Networks (NN, CORE A, CCF B)  [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)  [Code](https://github.com/jindongli-Ai/CANNON)
