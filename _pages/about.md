@@ -34,7 +34,7 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 - *(I have a valid passport and successfully traveled to Europe in 2023, with no issues obtaining a visa)*
 
 ## PAPERS
-*(+: co-first author, *: corresponding author)*
+*(+: co-first author, \*: corresponding author)*
 
 ### Published
 1. **Jindong Li**, Qianli Xing, Qi Wang\*, Yi Chang. CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection. *Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023. (ECML-PKDD, CORE A, CCF B)*  [[PDF]](https://arxiv.org/abs/2405.02359)  [[CODE]](https://github.com/jindongli-Ai/CVTGAD)
