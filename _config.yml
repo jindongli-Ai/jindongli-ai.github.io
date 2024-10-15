@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jindong Li (李金栋)"
+title                    : "Jindong Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jindong Li (李金栋)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am finding a Ph.D. position"
+  location         : "China"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jdli21@mails.jlu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
