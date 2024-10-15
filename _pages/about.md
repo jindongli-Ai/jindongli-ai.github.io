@@ -71,11 +71,16 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 
 ## COMPETITION EXPERIENCE
 
-| No | Competition                                                 | Award                              | Year  |
-|----|-------------------------------------------------------------|------------------------------------|-------|
-| 1  | NUDT Intelligent Automobile Race                            | First Prize (1st place)            | 2014  |
-| 2  | Hunan Province Intelligent Automobile Race of College Students | Second Prize                      | 2014  |
-| 3  | NUDT Electronic Design Competition Quadcopter Autonomous Aircraft Group | Third Prize (2nd place)            | 2014  |
-| 4  | “LanQiao Cup” Programming Competition Graduate Group        | Jilin, First Prize (2nd place)     | 2022  |
-| 5  | “LanQiao Cup” Programming Competition Graduate Group        | National Finals, Second Prize (11th place) | 2022  |
-| 6  | “LanQiao Cup” Programming Competition Graduate Group        | Jilin, Second Prize (5th place)    | 2023  |
+| No | Competition | Award | Date |
+|----|-------------|-------|------|
+| 1  | NUDT Intelligent Automobile Race | First Prize (1st place) | 2014 |
+| 2  | Hunan Province Intelligent Automobile Race of College Students | Second Prize | 2014 |
+| 3  | NUDT Electronic Design Competition Quadcopter Autonomous Aircraft Group | Third Prize (2nd place) | 2014 |
+| 4  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (2nd place) | 2022 |
+| 5  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (11th place) | 2022 |
+| 6  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, Second Prize (5th place) | 2023 |
+| 7  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (3rd place) | 2024 |
+| 8  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (17th place) | 2024 |
+| 9  | Kaggle | 1 Silver Medal, 3 Bronze Medals | 2022-2023 |
+| 10 | LeetCode | Contest Rating top 1% | 2021-2023 |
+
