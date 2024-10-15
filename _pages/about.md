@@ -65,6 +65,9 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 - Responsibilities:
   - Evaluation of MLLMs
   - Multimodal (OCR mainly) models/approaches
+### Jilin University  2024.07-2024.10
+- **Research Assistant**
+- Mentor: Yi Chang and Qi Wang
 
 ## COMPETITION EXPERIENCE
 
