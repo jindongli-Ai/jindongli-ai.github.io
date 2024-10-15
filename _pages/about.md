@@ -48,13 +48,14 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 4. Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang\*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. The Web Conference, 2025. (WWW, CORE A*, CCF A)  [[PDF]](https://arxiv.org/abs/2407.00383)  [[CODE]](https://github.com/Goldenhorns/FANFOLD)
 5. Yang Ai, Qiang Bai, **Jindong Li**, Xi Yang*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration. arXiv Preprint. [[PDF]](https://arxiv.org/pdf/2312.02877v2)
 6. Qi Wang+\*, **Jindong Li+**, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang\*, Chengqi Zhang. Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond. arXiv Preprint.  [[GITHUB]](https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey)
+7. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation.
+8. Wenyu Liu, **Jindong Li**, Run Tan, Haoji Wang, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism.
 
 ### In Preparation
-1. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation.
-2. Wenyu Liu, **Jindong Li**, Run Tan, Haoji Wang, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism.
-3. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
-4. **Jindong Li+**, Yali Fu+, Qianli Xing, Qi Wang\*. Graph Prompt Learning and Kolmogorov-Arnold Networks for Unsupervised Graph-Level Anomaly Detection.
-5. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
+1. **Jindong Li+,\***, Yongguang Li+. Next Generation CLIP-based Domain Adaptation: A Survey. 
+2. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
+3. **Jindong Li+**, Yali Fu+, Qianli Xing, Qi Wang\*. Graph Prompt Learning and Kolmogorov-Arnold Networks for Unsupervised Graph-Level Anomaly Detection.
+4. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
 
 ## WORK EXPERIENCE
 
@@ -68,7 +69,7 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 
 ## COMPETITION EXPERIENCE
 
-| No | Competition | Award | Date |
+| No | Competition | Award | Year |
 |----|-------------|-------|------|
 | 1  | NUDT Intelligent Automobile Race | First Prize (1st place) | 2014 |
 | 2  | Hunan Province Intelligent Automobile Race of College Students | Second Prize | 2014 |
@@ -106,7 +107,7 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 
 ## SKILLS
 
-- **Language**: IELTS Overall Band Score 6.5 (Listening: 6.0, Reading: 7.0, Writing: 6.0, Speaking: 6.5) — 2023.11
+- **Language**: IELTS Overall Band Score 6.5 (Listening: 6.0, Reading: 7.0, Writing: 6.0, Speaking: 6.5) &nbsp;&nbsp;&nbsp; 2023.11
 - **Programming Languages**: Proficient in Python, C++, Java. Also experienced with C, Go, MySQL.
 - **Deep Learning Tools**: PyTorch, TensorFlow
 
