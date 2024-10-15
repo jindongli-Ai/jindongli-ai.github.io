@@ -52,7 +52,7 @@ My research interests include: Data Mining, Graph Learning (GNNs), Anomaly Detec
 8. Wenyu Liu, **Jindong Li**, Run Tan, Haoji Wang, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism.
 
 ### In Preparation
-1. **Jindong Li+,\***, Yongguang Li+. Next Generation CLIP-based Domain Adaptation: A Survey. 
+1. **Jindong Li+,\***, Yongguang Li+. A Survey of CLIP-based Domain Adaptation: Review and Beyond. 
 2. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
 3. **Jindong Li+**, Yali Fu+, Qianli Xing, Qi Wang\*. Graph Prompt Learning and Kolmogorov-Arnold Networks for Unsupervised Graph-Level Anomaly Detection.
 4. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
