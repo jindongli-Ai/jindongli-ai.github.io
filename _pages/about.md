@@ -48,7 +48,7 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 5. Yang Ai, Qiang Bai, **Jindong Li**, Xi Yang\*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration. *arXiv Preprint.* [[PDF]](https://arxiv.org/pdf/2312.02877v2)
 6. Qi Wang+\*, **Jindong Li+**, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang\*, Chengqi Zhang. Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond. *arXiv Preprint.*  [[GITHUB]](https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey)
 7. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation. *arXiv Preprint.*
-8. Wenyu Liu, **Jindong Li**, Run Tan, Haoji Wang, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism. *arXiv Preprint.*
+8. Wenyu Liu, **Jindong Li**, Run Tan, Haoji Wang, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism. *arXiv Preprint.* [[PDF]](https://arxiv.org/abs/2410.11580) [[CODE]](https://arxiv.org/abs/2410.11580)
 
 ### In Preparation
 1. **Jindong Li+\***, Yongguang Li+. A Survey of CLIP-based Domain Adaptation: Review and Beyond. 
