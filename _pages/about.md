@@ -18,7 +18,7 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 - **Naive Place**: Shandong
 - **Tel**: 15964596889
 - **E-mail**: [jdli21@mails.jlu.edu.cn](mailto:jdli21@mails.jlu.edu.cn) &nbsp;&nbsp; [jindong.li.mail@gmail.com](mailto:jindong.li.mail@gmail.com)
-- **WeChat**: alwaysbeakindperson
+- **WeChat**: alwaysbeakindperson &nbsp;&nbsp;*(means: always be a kind person)*
 - **Google Scholar**: [https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN)
 - **GitHub**: [https://github.com/jindongli-Ai](https://github.com/jindongli-Ai)
 
