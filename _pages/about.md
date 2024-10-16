@@ -12,6 +12,9 @@ Hello! I am a student focusing on artificial intelligence. I obtained a Master's
 
 My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detection, Multimodal Learning, Large Language Models (LLMs), Domain Adaptation, Unsupervised Learning, Few-Shot Learning, Machine Learning, Deep Learning.*
 
+<span style="color: blue;">I am looking for a Ph.D. position</span>
+
+
 ## INFORMATION
 - **Naive Place**: Shandong
 - **Tel**: 15964596889
