@@ -60,7 +60,7 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 
 ## WORK EXPERIENCE
 
-### Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab)  2023.09-2023.12
+### Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2023.09-2023.12*
 - **Research Intern**
 - Mentor: [Bin Wang](https://wangbindl.github.io/) and [Linke Ouyang](https://scholar.google.com/citations?user=rDaVSiAAAAAJ&hl=zh-CN)
 - Topic: Multimodal Large Language Models (MLLMs), Data Engine
@@ -68,7 +68,7 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
   - Evaluation of MLLMs
   - Multimodal (OCR mainly) models/approaches
   
-### Jilin University  2024.07-2024.10
+### Jilin University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2024.07-2024.10*
 - **Research Assistant**
 - Mentor: Yi Chang and Qi Wang
 
