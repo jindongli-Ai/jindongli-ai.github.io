@@ -24,13 +24,13 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 
 ## EDUCATION
 
-### Jilin University (JLU) &nbsp;&nbsp; 985
+### Jilin University (JLU) &nbsp;&nbsp; *985*
 - **M.E. in Computer Science and Technology**
 - Supervisor: [Assistant Prof. Qi Wang](http://sai.jlu.edu.cn/info/1094/3453.htm)
 - Research Topic: *Graph Data Mining, Unsupervised Learning, Large Language Models*
 - Academic performance: *avg. score: 85.02*
 
-### National University of Defense Technology (NUDT) &nbsp;&nbsp; 985
+### National University of Defense Technology (NUDT) &nbsp;&nbsp; *985*
 - **B.E. in Electronic Engineering**
 - Academic performance: *avg. score: 82.4  rank: 2/115*
 - *(I have a valid passport and successfully traveled to Europe in 2023, with no issues obtaining a visa)*
