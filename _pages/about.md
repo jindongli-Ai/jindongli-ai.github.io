@@ -45,39 +45,28 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 *(+: co-first author, \*: corresponding author)*
 
 ### Published
-[1] **Jindong Li**, [Qianli Xing](https://scholar.google.com/citations?hl=zh-CN&user=cUqTniYAAAAJ), Qi Wang\*, [Yi Chang](http://www.yichang-cs.com/). CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection. *Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023. (ECML-PKDD, CORE A, CCF B)*  [[PDF]](https://arxiv.org/abs/2405.02359)  [[CODE]](https://github.com/jindongli-Ai/CVTGAD)
-
-[2] Runliang Niu, **Jindong Li**, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, [Yi Chang](http://www.yichang-cs.com/), Qi Wang\*. ScreenAgent: Multimodal Large Language Model-driven Computer Control Agent. *International Joint Conference on Artificial Intelligence, 2024. (IJCAI, CORE A\*, CCF A)*  [[PDF]](https://arxiv.org/abs/2402.07945)  [[CODE]](https://github.com/niuzaisheng/ScreenAgent)
+1. **Jindong Li**, [Qianli Xing](https://scholar.google.com/citations?hl=zh-CN&user=cUqTniYAAAAJ), Qi Wang\*, [Yi Chang](http://www.yichang-cs.com/). CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection. *Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 2023. (ECML-PKDD, CORE A, CCF B)*  [[PDF]](https://arxiv.org/abs/2405.02359)  [[CODE]](https://github.com/jindongli-Ai/CVTGAD)
+2. Runliang Niu, **Jindong Li**, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, [Yi Chang](http://www.yichang-cs.com/), Qi Wang\*. ScreenAgent: Multimodal Large Language Model-driven Computer Control Agent. *International Joint Conference on Artificial Intelligence, 2024. (IJCAI, CORE A\*, CCF A)*  [[PDF]](https://arxiv.org/abs/2402.07945)  [[CODE]](https://github.com/niuzaisheng/ScreenAgent)
 
 ### Under Review
-[1] Qi Wang+\*, **Jindong Li+**, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, [Guodong Long](https://scholar.google.com/citations?user=Pl8m7hMAAAAJ&hl=zh-CN&oi=ao), [Yi Chang](https://scholar.google.com/citations?hl=zh-CN&user=drEkR50AAAAJ)\*, [Chengqi Zhang](https://scholar.google.com/citations?user=B6lBmqEAAAAJ&hl=zh-CN&oi=ao). Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond.  [[GITHUB]](https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey)
-
-[2] **Jindong Li**, [Yixin Liu](https://scholar.google.com/citations?hl=zh-CN&user=auBZ-HsAAAAJ), Qianli Xing, Qi Wang\*, Yi Chang, [Shirui Pan](https://scholar.google.com/citations?hl=zh-CN&user=frWRJN4AAAAJ). No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion. *Neural Networks (NN, CORE A, CCF B)*  [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)  [[CODE]](https://github.com/jindongli-Ai/CANNON)
-
-[3] Yali Fu+, **Jindong Li+**, Jiahong Liu, Qianli Xing, Qi Wang\*, [Irwin King](https://scholar.google.com/citations?hl=zh-CN&user=MXvC7tkAAAAJ). HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. *The Web Conference, 2025. (WWW, CORE A\*, CCF A)*  [[PDF]](https://arxiv.org/abs/2407.02057)  [[CODE]](https://github.com/Yali-F/HC-GLAD)
-
-[4] Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang\*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. *The Web Conference, 2025. (WWW, CORE A\*, CCF A)*  [[PDF]](https://arxiv.org/abs/2407.00383)  [[CODE]](https://github.com/Goldenhorns/FANFOLD)
-
-[5] Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. *Scientific Reports (SR, JCR Q2)*  [[CODE]](https://github.com/jindongli-Ai/DiffRSG)
-
-[6] Yang Ai, Qiang Bai, **Jindong Li**, Xi Yang\*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration.  [[PDF]](https://arxiv.org/abs/2312.02877v2)
-
-[7] Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation. [[PDF]](https://arxiv.org/abs/2410.15811)
-
-[8] Wenyu Liu, **Jindong Li**, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism. *IEEE Journal Of Selected Topics In Applied Earth Observations And Remote Sensing (J-STARS, JCR Q1)* [[PDF]](https://arxiv.org/abs/2410.11580) [[CODE]](https://github.com/WenyuLiu6/LCD-Net)
+1. Qi Wang+\*, **Jindong Li+**, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, [Guodong Long](https://scholar.google.com/citations?user=Pl8m7hMAAAAJ&hl=zh-CN&oi=ao), [Yi Chang](https://scholar.google.com/citations?hl=zh-CN&user=drEkR50AAAAJ)\*, [Chengqi Zhang](https://scholar.google.com/citations?user=B6lBmqEAAAAJ&hl=zh-CN&oi=ao). Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond.  [[GITHUB]](https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey)
+2. **Jindong Li**, [Yixin Liu](https://scholar.google.com/citations?hl=zh-CN&user=auBZ-HsAAAAJ), Qianli Xing, Qi Wang\*, Yi Chang, [Shirui Pan](https://scholar.google.com/citations?hl=zh-CN&user=frWRJN4AAAAJ). No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion. *Neural Networks (NN, CORE A, CCF B)*  [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)  [[CODE]](https://github.com/jindongli-Ai/CANNON)
+3. Yali Fu+, **Jindong Li+**, Jiahong Liu, Qianli Xing, Qi Wang\*, [Irwin King](https://scholar.google.com/citations?hl=zh-CN&user=MXvC7tkAAAAJ). HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. *The Web Conference, 2025. (WWW, CORE A\*, CCF A)*  [[PDF]](https://arxiv.org/abs/2407.02057)  [[CODE]](https://github.com/Yali-F/HC-GLAD)
+4. Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang\*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. *The Web Conference, 2025. (WWW, CORE A\*, CCF A)*  [[PDF]](https://arxiv.org/abs/2407.00383)  [[CODE]](https://github.com/Goldenhorns/FANFOLD)
+5. Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. *Scientific Reports (SR, JCR Q2)*  [[CODE]](https://github.com/jindongli-Ai/DiffRSG)
+6. Yang Ai, Qiang Bai, **Jindong Li**, Xi Yang\*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration.  [[PDF]](https://arxiv.org/abs/2312.02877v2)
+7. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation. [[PDF]](https://arxiv.org/abs/2410.15811)
+8. Wenyu Liu, **Jindong Li**, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism. *IEEE Journal Of Selected Topics In Applied Earth Observations And Remote Sensing (J-STARS, JCR Q1)* [[PDF]](https://arxiv.org/abs/2410.11580) [[CODE]](https://github.com/WenyuLiu6/LCD-Net)
 
 ### In Preparation
-[1] **Jindong Li\***, Yongguang Li, Yali Fu, Qi Wang. A Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
-
-[2] **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
-
-[3] **Jindong Li+**, Yali Fu+, Yongguang Li, Qi Wang\*. Graph Prompt Learning and Kolmogorov-Arnold Networks for Unsupervised Graph-Level Anomaly Detection.
-
-[4] Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
+1. **Jindong Li\***, Yongguang Li, Yali Fu, Qi Wang. A Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
+2. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
+3. **Jindong Li+**, Yali Fu+, Yongguang Li, Qi Wang\*. Graph Prompt Learning and Kolmogorov-Arnold Networks for Unsupervised Graph-Level Anomaly Detection.
+4. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
 
 ## WORK EXPERIENCE
 
-### [1] Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2023.09-2023.12*
+### 1. Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2023.09-2023.12*
 - **Research Intern**
 - Mentor: [Bin Wang](https://wangbindl.github.io/) and [Linke Ouyang](https://scholar.google.com/citations?user=rDaVSiAAAAAJ&hl=zh-CN)
 - Topic: Multimodal Large Language Models (MLLMs), Data Engine
@@ -85,7 +74,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   - Evaluation of MLLMs
   - Multimodal (OCR mainly) models/approaches
   
-### [2] Jilin University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2024.07-2024.10*
+### 2. Jilin University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2024.07-2024.10*
 - **Research Assistant**
 - Mentor: Yi Chang and Qi Wang
 
