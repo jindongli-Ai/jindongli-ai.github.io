@@ -49,7 +49,7 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 4. Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang\*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. *The Web Conference, 2025. (WWW, CORE A\*, CCF A)*  [[PDF]](https://arxiv.org/abs/2407.00383)  [[CODE]](https://github.com/Goldenhorns/FANFOLD)
 5. Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. *Scientific Reports (SR, JCR Q2)*  [[CODE]](https://github.com/jindongli-Ai/DiffRSG)
 6. Yang Ai, Qiang Bai, **Jindong Li**, Xi Yang\*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration.  [[PDF]](https://arxiv.org/pdf/2312.02877v2)
-7. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation. 
+7. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation. [[PDF]](https://arxiv.org/pdf/2410.15811)
 8. Wenyu Liu, **Jindong Li**, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism. *IEEE Journal Of Selected Topics In Applied Earth Observations And Remote Sensing (J-STARS, JCR Q1)* [[PDF]](https://arxiv.org/abs/2410.11580) [[CODE]](https://github.com/WenyuLiu6/LCD-Net)
 
 ### In Preparation
