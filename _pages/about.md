@@ -23,12 +23,11 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 - **GitHub**: [https://github.com/jindongli-Ai](https://github.com/jindongli-Ai)
 
 ## TECHNICAL ACCOUNTS
-- Kaggle: [HomePage](https://www.kaggle.com/ac123321)
-- LeetCode: [HomePage1](https://leetcode.cn/u/xinghe_xinghe/) &nbsp;&nbsp; [HomePage2](https://leetcode.cn/u/hanxin_hanxin/)
-- Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/)
-- NowCoder: [HomePage](https://www.nowcoder.com/users/116877070)
-- CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe)
-- CSDN: [HomePage](https://blog.csdn.net/weixin_46645827?spm=1000.2115.3001.5343)
+
+Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](https://leetcode.cn/u/xinghe_xinghe/) | LeetCode2: [HomePage](https://leetcode.cn/u/hanxin_hanxin/) | Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/)
+---|---|---|---
+NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe) | CSDN: [HomePage](https://blog.csdn.net/weixin_46645827?spm=1000.2115.3001.5343)
+
 
 ## EDUCATION
 ### Jilin University (JLU) &nbsp;&nbsp; *985*
