@@ -22,8 +22,15 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 - **Google Scholar**: [https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN)
 - **GitHub**: [https://github.com/jindongli-Ai](https://github.com/jindongli-Ai)
 
-## EDUCATION
+## TECHNICAL ACCOUNTS
+- Kaggle: [HomePage](https://www.kaggle.com/ac123321)
+- LeetCode: [HomePage1](https://leetcode.cn/u/xinghe_xinghe/) &nbsp;&nbsp; [HomePage2](https://leetcode.cn/u/hanxin_hanxin/)
+- Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/)
+- NowCoder: [HomePage](https://www.nowcoder.com/users/116877070)
+- CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe)
+- CSDN: [HomePage](https://blog.csdn.net/weixin_46645827?spm=1000.2115.3001.5343)
 
+## EDUCATION
 ### Jilin University (JLU) &nbsp;&nbsp; *985*
 - **M.E. in Computer Science and Technology**
 - Supervisor: [Assistant Prof. Qi Wang](http://sai.jlu.edu.cn/info/1094/3453.htm)
@@ -87,15 +94,6 @@ My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detec
 | 9  | Kaggle | 1 Silver Medal, 3 Bronze Medals | 2022-2023 |
 | 10 | LeetCode | Contest Rating top 1% | 2021-2023 |
 
-
-## TECHNICAL ACCOUNTS
-
-- Kaggle: [HomePage](https://www.kaggle.com/ac123321)
-- LeetCode: [HomePage1](https://leetcode.cn/u/xinghe_xinghe/) &nbsp;&nbsp; [HomePage2](https://leetcode.cn/u/hanxin_hanxin/)
-- Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/)
-- NowCoder: [HomePage](https://www.nowcoder.com/users/116877070)
-- CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe)
-- CSDN: [HomePage](https://blog.csdn.net/weixin_46645827?spm=1000.2115.3001.5343)
 
 ## HONORS AND AWARDS
 
