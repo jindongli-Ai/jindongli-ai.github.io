@@ -59,7 +59,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 8. Wenyu Liu, **Jindong Li**, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism. *IEEE Journal Of Selected Topics In Applied Earth Observations And Remote Sensing (J-STARS, JCR Q1)* [[PDF]](https://arxiv.org/abs/2410.11580) [[CODE]](https://github.com/WenyuLiu6/LCD-Net)
 
 ### In Preparation
-1. **Jindong Li\***, Yongguang Li, Yali Fu, Qi Wang. A Comprehensive Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
+1. **Jindong Li\***, Yongguang Li, Yali Fu, Yixin Liu, Qi Wang. A Comprehensive Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
 2. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
 3. **Jindong Li+**, Yali Fu+, Yongguang Li, Qi Wang\*. Graph Prompt Learning and Kolmogorov-Arnold Networks for Unsupervised Graph-Level Anomaly Detection.
 4. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
