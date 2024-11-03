@@ -74,7 +74,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   - Evaluation of MLLMs
   - Multimodal (OCR mainly) models/approaches
   
-### 2. Jilin University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2024.07-2024.10*
+### 2. Jilin University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2024.07-2024.11*
 - **Research Assistant**
 - Mentor: Yi Chang and Qi Wang
 
