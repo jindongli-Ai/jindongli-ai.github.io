@@ -60,11 +60,9 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 ### In Preparation
 1. **Jindong Li\***, Yongguang Li, Yali Fu, Yixin Liu, Qi Wang. A Comprehensive Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. *ACM Transactions on Information Systems (TOIS)*  [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
-2. **Jindong Li\***, Yali Fu, Qiang Zhang, Zhouhua Peng. Large language models (LLMs) for Maritime Applications: A Comprehensive Review.
-3. **Jindong Li+**, Qiang Zhang+, Yali Fu, Zhouhua Peng*. A Comprehensive Survey on Vision-Language Models (VLMs) for Maritime Control Systems.
-4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
-5. **Jindong Li+**, Yali Fu+, Yongguang Li, Qi Wang\*. Graph Prompt Learning and Kolmogorov-Arnold Networks for Unsupervised Graph-Level Anomaly Detection.
-6. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
+2. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
+3. **Jindong Li+**, Yali Fu+, Qi Wang\*. Graph Prompt Learning and Kolmogorov-Arnold Networks for Unsupervised Graph-Level Anomaly Detection.
+4. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
 
 ## WORK EXPERIENCE
 
