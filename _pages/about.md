@@ -12,7 +12,7 @@ Hello! I am a student focusing on artificial intelligence. I obtained a Master's
 
 My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detection, Multimodal Learning, Large Language Models (LLMs), Domain Adaptation, Unsupervised Learning, Few-Shot Learning, Machine Learning, Deep Learning.*
 
-<span style="background-color: yellow; color: blue; padding: 2px;">I am seeking a Ph.D. position and hope to find a professor with an available opportunity. I promise to live up to expectations and work diligently.</span>
+<!-- <span style="background-color: yellow; color: blue; padding: 2px;">I am seeking a Ph.D. position and hope to find a professor with an available opportunity. I promise to live up to expectations and work diligently.</span> -->
 
 ## INFORMATION
 - **Naive Place**: Shandong
