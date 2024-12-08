@@ -10,9 +10,16 @@ redirect_from:
 
 Hello! I am a student focusing on artificial intelligence. I obtained a Master's degree in Computer Science and Technology from the College of Artificial Intelligence at Jilin University, and a Bachelor's degree in Electronic Engineering from the National University of Defense Technology.
 
-My research interests include *Data Mining, Graph Learning (GNNs), Anomaly Detection, Multimodal Learning, Large Language Models (LLMs), Domain Adaptation, Unsupervised Learning, Few-Shot Learning, Machine Learning, Deep Learning.*
+My research interests include Deep Learning (DL), with a focus on:
+- Large Language Models (LLMs)
+- Geometric Learning with LLM, Geometric Foundation Model, Geometric Alignment
+- Graph Learning (GNNs)
+- Anomaly Detection (AD)
+- Recommender System (RecSys)
+- Multimodal Learning, Vision-Language model
+- Domain Generalization (DG) and Domain Adaptation (DA)
+- Unsupervised Learning, Few-Shot Learning
 
-<!-- <span style="background-color: yellow; color: blue; padding: 2px;">I am seeking a Ph.D. position and hope to find a professor with an available opportunity. I promise to live up to expectations and work diligently.</span> -->
 
 ## INFORMATION
 - **Naive Place**: Shandong
