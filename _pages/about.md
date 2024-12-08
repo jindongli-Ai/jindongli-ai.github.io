@@ -16,7 +16,7 @@ My research interests include Deep Learning (DL), with a focus on:
 - Graph Learning (GNNs)
 - Anomaly Detection (AD)
 - Recommender System (RecSys)
-- Multimodal Learning, Vision-Language model
+- Multimodal Learning (MM), Vision-Language model (VLM)
 - Domain Generalization (DG) and Domain Adaptation (DA)
 - Unsupervised Learning, Few-Shot Learning
 
