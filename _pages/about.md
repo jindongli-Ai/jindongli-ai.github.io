@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a student focusing on artificial intelligence. I obtained a Master's degree in Computer Science and Technology from the College of Artificial Intelligence at Jilin University, and a Bachelor's degree in Electronic Engineering from the National University of Defense Technology.
 
-My research interests include Deep Learning (DL), with a focus on:
+My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs)
 - Geometric Learning with LLM, Geometric Foundation Model, Geometric Alignment
 - Graph Learning (GNNs)
@@ -66,9 +66,9 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 8. Wenyu Liu, **Jindong Li**, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism. *IEEE Journal Of Selected Topics In Applied Earth Observations And Remote Sensing (J-STARS, JCR Q1)* [[PDF]](https://arxiv.org/abs/2410.11580) [[CODE]](https://github.com/WenyuLiu6/LCD-Net)
 
 ### In Preparation
-1. **Jindong Li\***, Yongguang Li, Yali Fu, Yixin Liu, Qi Wang, Yi Chang. A Comprehensive Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. *ACM Transactions on Information Systems (TOIS)*  [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
-2. **Jindong Li**, Yali Fu, Qi Wang. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting)
-3. **Jindong Li**, Yali Fu, Qi Wang. A survey on Large Language Models (LLMs)-based Multi-Agent Collaboration.
+1. **Jindong Li**, Yongguang Li, Yali Fu, Yixin Liu, Qi Wang, Menglin Yang*, Yi Chang. A Comprehensive Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. *ACM Transactions on Information Systems (TOIS)*  [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
+2. **Jindong Li**, Yali Fu, Qi Wang, Menglin Yang*. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting)
+3. **Jindong Li**, Yali Fu, Qi Wang, Menglin Yang*. A survey on Large Language Models (LLMs)-based Multi-Agent Collaboration.
 4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
 5. **Jindong Li+**, Yali Fu+, Qi Wang\*. Graph Mamba and Graph Prompt Learning for Unsupervised Graph-Level Anomaly Detection.
 6. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
