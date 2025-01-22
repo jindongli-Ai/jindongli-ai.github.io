@@ -68,7 +68,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 ### In Preparation
 1. **Jindong Li**, Yongguang Li, Yali Fu, Yixin Liu, Qi Wang, Menglin Yang\*, Yi Chang. A Comprehensive Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. *ACM Transactions on Information Systems (TOIS)*  [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
 2. **Jindong Li**, Yali Fu, Qi Wang, Menglin Yang*. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting)
-3. **Jindong Li**, Yali Fu, Qi Wang, Menglin Yang*. A survey on Large Language Models (LLMs)-based Multi-Agent Collaboration.
+3. **Yanlong Li**, Jindong Li, Qi Wang, Menglin Yang, He Kong, Shengsheng Wang. Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation.
 4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
 5. **Jindong Li+**, Yali Fu+, Qi Wang\*, Menglin Yang. Graph Mamba and Graph Prompt Learning for Unsupervised Graph-Level Anomaly Detection.
 6. Rui Cao+, **Jindong Li+**, Shijie Xue+, Qi Wang\*, Yi Chang. Kolmogorov-Arnold Networks for Node-Level Anomaly Detection.
