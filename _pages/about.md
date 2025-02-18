@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am a student focusing on artificial intelligence. I obtained a Master's degree in Computer Science and Technology from the College of Artificial Intelligence at Jilin University, and a Bachelor's degree in Electronic Engineering from the National University of Defense Technology.
+Hello! I am currently a Ph.D. student at Thrust of Artificial Intelligence at HKUSTGZ, under the supervision of Prof. [Yang Menglin](https://yangmenglin.site/). I obtained a Master's degree in Computer Science and Technology from the College of Artificial Intelligence at JLU, and a Bachelor's degree in Electronic Engineering from NUDT.
 
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs)
