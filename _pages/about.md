@@ -67,7 +67,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 8. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation. [[PDF]](https://arxiv.org/abs/2410.15811) [[CODE]](https://github.com/ethanAiJLu/CDBN)
 
 ### In Preparation
-1. **Jindong Li**, Yongguang Li, Yali Fu, Yixin Liu, Qi Wang, Menglin Yang\*, Yi Chang. A Comprehensive Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
+1. **Jindong Li**, Yongguang Li, Yali Fu, Yixin Liu, Qi Wang, Menglin Yang\*. A Comprehensive Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
 2. **Jindong Li**, Yali Fu, Qi Wang, Menglin Yang*. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting)
 
 4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
