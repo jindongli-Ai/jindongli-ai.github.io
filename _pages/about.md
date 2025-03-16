@@ -70,11 +70,11 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 6. Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. [[CODE]](https://github.com/jindongli-Ai/DiffRSG)
 7. Yang Ai, **Jindong Li**, Qiang Bai, Xi Yang\*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration.  [[PDF]](https://arxiv.org/abs/2312.02877v2) [[CODE]](https://github.com/Ruye-aa/DIPR)
 8. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation. [[PDF]](https://arxiv.org/abs/2410.15811) [[CODE]](https://github.com/ethanAiJLu/CDBN)
-9. Yongguang Li, **Jindong Li**, Qi Wang*, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang. Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering. [[PDF]]()
+<!-- 9. Yongguang Li, **Jindong Li**, Qi Wang*, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang. Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering. [[PDF]]() -->
 
 ### In Preparation
 1. **Jindong Li**, Yongguang Li, Yali Fu, Yixin Liu, Qi Wang, Menglin Yang\*. A Comprehensive Survey on CLIP-Powered Domain Generalization and Adaptation: Review and Beyond. [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
-2. **Jindong Li+**, Yali Fu+, Qi Wang\*, Qianli Xing. Graph Mamba for Unsupervised Graph-Level Anomaly Detection.
+2. Yali Fu+, **Jindong Li+**, Qi Wang\*, Qianli Xing. Graph Mamba for Unsupervised Graph-Level Anomaly Detection.
 3. **Jindong Li**, Yali Fu, Qi Wang. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting)
 4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
    
