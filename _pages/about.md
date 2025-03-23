@@ -70,7 +70,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 6. Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. [[CODE]](https://github.com/jindongli-Ai/DiffRSG)
 7. Yang Ai, **Jindong Li**, Qiang Bai, Xi Yang\*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration.  [[PDF]](https://arxiv.org/abs/2312.02877v2) [[CODE]](https://github.com/Ruye-aa/DIPR)
 8. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation. [[PDF]](https://arxiv.org/abs/2410.15811) [[CODE]](https://github.com/ethanAiJLu/CDBN)
-9. Yali Fu, **Jindong Li**, Qi Wang\*, Qianli Xing. GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model. [[PDF]]()
+9. Yali Fu+, **Jindong Li+**, Qi Wang\*, Qianli Xing. GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model. [[PDF]]()
 <!-- 9. Yongguang Li, **Jindong Li**, Qi Wang*, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang. Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering. [[PDF]]() -->
 
 
