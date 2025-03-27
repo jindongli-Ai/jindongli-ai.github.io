@@ -77,8 +77,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 ### In Preparation
 1. **Jindong Li**, Yongguang Li, Yali Fu, Yixin Liu, Jiahong Liu, Qi Wang, Menglin Yang\*, Irwin King. CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
 2. **Jindong Li+**, Yali Fu+, Mengling Yang*. Bridging Multiple Modality to Large Language Models: A Survey on Discrete Tokenization. [[GITHUB]]()
-3. **Jindong Li**, Yali Fu, Qi Wang. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting)
-4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection.
+<!-- 3. **Jindong Li**, Yali Fu, Qi Wang. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting) -->
+<!-- 4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. -->
    
 
 ## WORK EXPERIENCE
