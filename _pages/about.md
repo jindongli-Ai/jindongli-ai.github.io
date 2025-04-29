@@ -42,6 +42,12 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 ## EDUCATION
+
+### Hong Kong University of Science and Technology (HKUST(Guangzhou))
+- **Ph.D. in Artificial Intelligence**
+- Supervisor: [Assistant Prof. Menglin Yang](https://yangmenglin.site/)
+
+
 ### Jilin University (JLU) &nbsp;&nbsp; *985*
 - **M.E. in Computer Science and Technology**
 - Supervisor: [Associate Prof. Qi Wang](http://sai.jlu.edu.cn/info/1094/3453.htm)
