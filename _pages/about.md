@@ -75,7 +75,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/CVTGAD.png" alt="CVTGAD" width="250">
   <div>
     <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
-    <b>Jindong Li</b>, Qianli Xing, Qi Wang*, Yi Chang<br>
+    <b>Jindong Li</b>, Qianli Xing, Qi Wang*, Yi Chang.<br>
     <i>Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
     <a href="https://arxiv.org/abs/2405.02359">PDF</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">CODE</a> 
   </div>
@@ -86,11 +86,25 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="250">
   <div>
     <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
-    Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang.<br>
+    Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang*.<br>
     <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
     <a href="https://arxiv.org/pdf/2402.07945">PDF</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">CODE</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
   </div>
 </div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/LCD-Net.png" alt="LCD-Net" width="250">
+  <div>
+    <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
+    Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian<br>
+    <i>Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
+    <a href="https://arxiv.org/abs/2405.02359">PDF</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">CODE</a> 
+  </div>
+</div>
+
+
+
 
 3. Wenyu Liu, **Jindong Li**, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (J-STARS, JCR Q1)* [[PDF]](https://ieeexplore.ieee.org/document/10897814) [[arXiv]](https://arxiv.org/abs/2410.11580) [[CODE]](https://github.com/WenyuLiu6/LCD-Net)
 
