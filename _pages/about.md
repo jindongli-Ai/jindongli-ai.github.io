@@ -256,6 +256,15 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 | 10 | LeetCode | Contest Rating top 1% | 2021-2023 |
 
 
+<p align="center">
+  <img src="./assets/Car.png" width="45%" style="margin-right:10px;"/>
+  <img src="./assets/quadrotor.png" width="45%"/>
+</p>
+
+
+
+
+
 ## HONORS AND AWARDS
 
 | No | Institution | Award | Year |
