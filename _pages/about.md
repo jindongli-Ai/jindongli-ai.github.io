@@ -206,9 +206,18 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 </div>
 
 
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/DIPR.png" alt="DIPR" width="250">
+  <div>
+    <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
+    Yang Ai, <b>Jindong Li</b>, Qiang Bai, Xi Yang*.<br>
+    <i>arXiv Preprint.</i><br>
+    <a href="https://arxiv.org/abs/2312.02877v2">PDF</a> | <a href="https://github.com/Ruye-aa/DIPR">CODE</a>
+  </div>
+</div>
 
-10. Yang Ai, **Jindong Li**, Qiang Bai, Xi Yang\*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration.  [[PDF]](https://arxiv.org/abs/2312.02877v2) [[CODE]](https://github.com/Ruye-aa/DIPR)
-11. Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. [[CODE]](https://github.com/jindongli-Ai/DiffRSG)
+
+1. Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation. [[CODE]](https://github.com/jindongli-Ai/DiffRSG)
 
 
 ### In Preparation
