@@ -265,8 +265,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/Car.jpg" alt="Car" width="45%">
-  <img src="/images/quadrotor.jpg" alt="Quadrotor" width="45%">
+  <img src="/images/Car.jpg" alt="Car" width="35%">
+  <img src="/images/quadrotor.jpg" alt="Quadrotor" width="35%">
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
