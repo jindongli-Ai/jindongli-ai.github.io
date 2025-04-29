@@ -88,7 +88,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang*.<br>
     <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
-    <a href="https://arxiv.org/pdf/2402.07945">PDF</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">CODE</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
+    <a href="https://arxiv.org/abs/2402.07945">PDF</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">CODE</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
   </div>
 </div>
 
