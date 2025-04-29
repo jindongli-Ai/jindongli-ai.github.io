@@ -48,9 +48,13 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 - Research Topic: *Graph Data Mining, Unsupervised Learning, Large Language Models*
 - Academic performance: *avg. score: 85.02*
 
+### The Nanchang Army College
+- **B.E. in Commmand**
+- Academic performance: *avg. score: 86.8 &nbsp; rank: 3/98*
+
 ### National University of Defense Technology (NUDT) &nbsp;&nbsp; *985*
 - **B.E. in Electronic Engineering**
-- Academic performance: *avg. score: 82.4  rank: 2/115*
+- Academic performance: *avg. score: 82.4 &nbsp; rank: 2/115*
 - *(I have a valid passport and successfully traveled to Europe in 2023, with no issues obtaining a visa)*
 
 ## PAPERS
