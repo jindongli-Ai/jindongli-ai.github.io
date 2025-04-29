@@ -98,8 +98,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
     Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian<br>
-    <i>Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
-    <a href="https://arxiv.org/abs/2405.02359">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">CODE</a> 
+    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (J-STARS, JCR Q1), 2025.</i><br>
+    <a href="[https://arxiv.org/abs/2405.02359](https://ieeexplore.ieee.org/document/10897814)">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">CODE</a> 
   </div>
 </div>
 
