@@ -97,7 +97,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/LCD-Net.png" alt="LCD-Net" width="250">
   <div>
     <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
-    Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian<br>
+    Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian*<br>
     <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (J-STARS, JCR Q1), 2025.</i><br>
     <a href="https://ieeexplore.ieee.org/document/10897814">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">CODE</a> 
   </div>
@@ -111,7 +111,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/LLM-RecSys-Survey.png" alt="LLM-RecSys-Survey" width="250">
   <div>
     <b style="color: #0A1624;">Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond</b><br>
-    Qi Wang+, <b>Jindong Li+</b>, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang, Chengqi Zhang.<br>
+    Qi Wang+*, <b>Jindong Li+</b>, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang, Chengqi Zhang.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2410.19744">PDF</a> | <a href="https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey">GitHub</a> | <a href="https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA">机器学习与推荐算法</a>
   </div>
@@ -129,8 +129,19 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 </div>
 
 
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/Cogito.png" alt="Cogito" width="250">
+  <div>
+    <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
+    Yanlong Li, <b>Jindong Li</b>, Qi Wang, Menglin Yang, He Kong, Shengsheng Wang.<br>
+    <i>arXiv Preprint.</i><br>
+    <a href="https://arxiv.org/abs/2501.18653">PDF</a> | <a href="https://github.com/doc0318/Cogito">CODE</a> | <a href="[https://github.com/doc0318/Cogito](https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html)">TechXplore</a>
+  </div>
+</div>
 
-2. **Jindong Li**, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Qi Wang, Menglin Yang\*, Irwin King. CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey. [[PDF]](https://arxiv.org/abs/2504.14280)  [[GITHUB]](https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation)
+
+
+
 3. Yanlong Li, **Jindong Li**, Qi Wang, Menglin Yang, He Kong, Shengsheng Wang. Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation. [[PDF]](https://arxiv.org/abs/2501.18653)  [[CODE]](https://github.com/doc0318/Cogito) [[TechXplore]](https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html)
 4. **Jindong Li**, [Yixin Liu](https://scholar.google.com/citations?hl=zh-CN&user=auBZ-HsAAAAJ), Qianli Xing, Qi Wang\*, Yi Chang, [Shirui Pan](https://scholar.google.com/citations?hl=zh-CN&user=frWRJN4AAAAJ). No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion.  [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)  [[CODE]](https://github.com/jindongli-Ai/CANNON)
 5. Yali Fu+, **Jindong Li+**, Jiahong Liu, Qianli Xing, Qi Wang\*, [Irwin King](https://scholar.google.com/citations?hl=zh-CN&user=MXvC7tkAAAAJ). HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. [[PDF]](https://arxiv.org/abs/2407.02057)  [[CODE]](https://github.com/Yali-F/HC-GLAD)
