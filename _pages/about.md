@@ -257,8 +257,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <p align="center">
-  <img src="./assets/Car.png" width="45%" style="margin-right:10px;"/>
-  <img src="./assets/quadrotor.png" width="45%"/>
+  <img src="/images/Car.png" width="45%" style="margin-right:10px;"/>
+  <img src="/images/quadrotor.png" width="45%"/>
 </p>
 
 
