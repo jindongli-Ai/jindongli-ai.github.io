@@ -54,7 +54,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 ## EDUCATION
 
-### Hong Kong University of Science and Technology (HKUST(Guangzhou))
+### Hong Kong University of Science and Technology (HKUST-GZ)
 - **Ph.D. in Artificial Intelligence**
 - Supervisor: [Assistant Prof. Menglin Yang](https://yangmenglin.site/)
 
