@@ -77,7 +77,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
     <b>Jindong Li</b>, Qianli Xing, Qi Wang*, Yi Chang<br>
     <i>Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
-    <a href="[https://arxiv.org/pdf/2402.07945](https://arxiv.org/abs/2405.02359)">PDF</a> | <a href="[https://github.com/niuzaisheng/ScreenAgent](https://github.com/jindongli-Ai/CVTGAD)">CODE</a> 
+    <a href="https://arxiv.org/abs/2405.02359">PDF</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">CODE</a> 
   </div>
 </div>
 
