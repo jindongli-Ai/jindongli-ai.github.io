@@ -269,6 +269,14 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/quadrotor.jpg" alt="Quadrotor" width="45%">
 </div>
 
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/蓝桥杯省一2022.jpg" alt="蓝桥杯省一2022" width="20%">
+  <img src="/images/蓝桥杯国二2022.jpg" alt="蓝桥杯国二2022" width="20%">
+  <img src="/images/蓝桥杯省二2023.jpg" alt="蓝桥杯省二2023" width="20%">
+  <img src="/images/蓝桥杯省一2024.jpg" alt="蓝桥杯省一2024" width="20%">
+  <img src="/images/蓝桥杯国二2024.jpg" alt="蓝桥杯国二2024" width="20%">
+</div>
+
 
 
 
