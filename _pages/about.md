@@ -171,9 +171,19 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   </div>
 </div>
 
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/FANFOLD.png" alt="FANFOLD" width="250">
+  <div>
+    <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
+    Rui Cao+, Shijie Xue+, <b>Jindong Li+</b>, Qianli Xing, Qi Wang*, Yi Chang<br>
+    <i>arXiv Preprint.</i><br>
+    <a href="https://arxiv.org/abs/2407.00383">PDF</a> | <a href="https://github.com/Goldenhorns/FANFOLD">CODE</a>
+  </div>
+</div>
 
-6. Yali Fu+, **Jindong Li+**, Qi Wang\*, Qianli Xing. GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model. [[PDF]](https://arxiv.org/abs/2503.17903) [[CODE]](https://github.com/Yali-F/GLADMamba)
-7. Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang\*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. [[PDF]](https://arxiv.org/abs/2407.00383)  [[CODE]](https://github.com/Goldenhorns/FANFOLD)
+
+
+
 8. Yongguang Li, **Jindong Li**, Qi Wang*, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang. CLIP for Source-Free Open-Set Domain Adaptation. [[PDF]](https://arxiv.org/abs/2504.14224)
 9. Yongguang Li+, Yueqi Cao+, **Jindong Li**, Qi Wang, Shengsheng Wang\*. Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation. [[PDF]](https://arxiv.org/abs/2410.15811) [[CODE]](https://github.com/ethanAiJLu/CDBN)
 10. Yang Ai, **Jindong Li**, Qiang Bai, Xi Yang\*. DIRP: Efficient Point Cloud Registration via Dynamic Iteration.  [[PDF]](https://arxiv.org/abs/2312.02877v2) [[CODE]](https://github.com/Ruye-aa/DIPR)
