@@ -256,10 +256,11 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 | 10 | LeetCode | Contest Rating top 1% | 2021-2023 |
 
 
-<p align="center">
-  <img src="/images/Car.png" width="45%" style="margin-right:10px;"/>
-  <img src="/images/quadrotor.png" width="45%"/>
-</p>
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/Car.png" alt="Car" width="45%">
+  <img src="/images/quadrotor.png" alt="Quadrotor" width="45%">
+</div>
+
 
 
 
