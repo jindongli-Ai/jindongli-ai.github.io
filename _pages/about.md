@@ -111,7 +111,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/LLM-RecSys-Survey.png" alt="LLM-RecSys-Survey" width="250">
   <div>
     <b style="color: #0A1624;">Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond</b><br>
-    Qi Wang+, <b>Jindong Li+, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang, Chengqi Zhang.</b>, <br>
+    Qi Wang+, <b>Jindong Li+</b>, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang, Chengqi Zhang.</b>, <br>
     <i>arXiv Prepring.</i><br>
     <a href="https://arxiv.org/abs/2410.19744">PDF</a> | <a href="https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey">GitHub</a> | <a href="https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA">机器学习与推荐算法</a>
   </div>
