@@ -133,7 +133,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/Cogito.png" alt="Cogito" width="250">
   <div>
     <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
-    Yanlong Li, <b>Jindong Li</b>, Qi Wang, Menglin Yang, He Kong, Shengsheng Wang.<br>
+    Yanlong Li, <b>Jindong Li</b>, Qi Wang*, Menglin Yang, He Kong, Shengsheng Wang.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2501.18653">PDF</a> | <a href="https://github.com/doc0318/Cogito">CODE</a> | <a href="https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html">TechXplore</a>
   </div>
