@@ -154,12 +154,22 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
   <div>
     <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
-    Yali Fu+, <b>Jindong Li</b>, Jiahong Liu, Qianli Xing, Qi Wang*, Irwin King.<br>
+    Yali Fu+, <b>Jindong Li+</b>, Jiahong Liu, Qianli Xing, Qi Wang*, Irwin King.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2407.02057">PDF</a> | <a href="https://github.com/Yali-F/HC-GLAD">CODE</a>
   </div>
 </div>
 
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
+  <div>
+    <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
+    Yali Fu+, <b>Jindong Li+</b>, Qi Wang*, Qianli Xing.<br>
+    <i>arXiv Preprint.</i><br>
+    <a href="https://arxiv.org/abs/2503.17903">PDF</a> | <a href="https://github.com/Yali-F/GLADMamba">CODE</a>
+  </div>
+</div>
 
 
 6. Yali Fu+, **Jindong Li+**, Qi Wang\*, Qianli Xing. GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model. [[PDF]](https://arxiv.org/abs/2503.17903) [[CODE]](https://github.com/Yali-F/GLADMamba)
