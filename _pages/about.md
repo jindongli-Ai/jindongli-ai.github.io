@@ -99,14 +99,11 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
     Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian<br>
     <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (J-STARS, JCR Q1), 2025.</i><br>
-    <a href="[https://arxiv.org/abs/2405.02359](https://ieeexplore.ieee.org/document/10897814)">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">CODE</a> 
+    <a href="https://ieeexplore.ieee.org/document/10897814">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">CODE</a> 
   </div>
 </div>
 
 
-
-
-3. Wenyu Liu, **Jindong Li**, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian\*. LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (J-STARS, JCR Q1)* [[PDF]](https://ieeexplore.ieee.org/document/10897814) [[arXiv]](https://arxiv.org/abs/2410.11580) [[CODE]](https://github.com/WenyuLiu6/LCD-Net)
 
 ### arXiv Preprint
 1. Qi Wang+\*, **Jindong Li+**, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, [Rui Li](https://scholar.google.com/citations?user=y5Ew65YAAAAJ&hl=zh-CN), [Guodong Long](https://scholar.google.com/citations?user=Pl8m7hMAAAAJ&hl=zh-CN&oi=ao), [Yi Chang](https://scholar.google.com/citations?hl=zh-CN&user=drEkR50AAAAJ)\*, [Chengqi Zhang](https://scholar.google.com/citations?user=B6lBmqEAAAAJ&hl=zh-CN&oi=ao). Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond.  [[PDF]](https://arxiv.org/abs/2410.19744) [[GITHUB]](https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey) [[机器学习与推荐算法]](https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA)
