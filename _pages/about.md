@@ -140,10 +140,17 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 </div>
 
 
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/CANNON.png" alt="CANNON" width="250">
+  <div>
+    <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
+    Jindong Li, Yixin Liu, Qianli Xing, Qi Wang*.<br>
+    <i>arXiv Preprint.</i><br>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">PDF</a> | <a href="https://github.com/jindongli-Ai/CANNON">CODE</a>
+  </div>
+</div>
 
 
-3. Yanlong Li, **Jindong Li**, Qi Wang, Menglin Yang, He Kong, Shengsheng Wang. Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation. [[PDF]](https://arxiv.org/abs/2501.18653)  [[CODE]](https://github.com/doc0318/Cogito) [[TechXplore]](https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html)
-4. **Jindong Li**, [Yixin Liu](https://scholar.google.com/citations?hl=zh-CN&user=auBZ-HsAAAAJ), Qianli Xing, Qi Wang\*, Yi Chang, [Shirui Pan](https://scholar.google.com/citations?hl=zh-CN&user=frWRJN4AAAAJ). No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion.  [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833)  [[CODE]](https://github.com/jindongli-Ai/CANNON)
 5. Yali Fu+, **Jindong Li+**, Jiahong Liu, Qianli Xing, Qi Wang\*, [Irwin King](https://scholar.google.com/citations?hl=zh-CN&user=MXvC7tkAAAAJ). HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. [[PDF]](https://arxiv.org/abs/2407.02057)  [[CODE]](https://github.com/Yali-F/HC-GLAD)
 6. Yali Fu+, **Jindong Li+**, Qi Wang\*, Qianli Xing. GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model. [[PDF]](https://arxiv.org/abs/2503.17903) [[CODE]](https://github.com/Yali-F/GLADMamba)
 7. Rui Cao+, Shijie Xue+, **Jindong Li+**, Qianli Xing, Qi Wang\*, Yi Chang. FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection. [[PDF]](https://arxiv.org/abs/2407.00383)  [[CODE]](https://github.com/Goldenhorns/FANFOLD)
