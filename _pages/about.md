@@ -45,7 +45,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/kaggle.png" alt="Kaggle" width="40%">
   <img src="/images/leetcode.png" alt="LeetCode" width="30%">
   <img src="/images/leetcode-2.png" alt="LeetCode" width="15%">
-  <img src="/images/leetcode-2-1.png" alt="LeetCode" width="10%">
+  <img src="/images/leetcode-2-1.png" alt="LeetCode" width="11%">
 </div>
 
 
