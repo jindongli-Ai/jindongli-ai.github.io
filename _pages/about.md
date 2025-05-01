@@ -42,9 +42,9 @@ Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](http
 NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe) | CSDN: [HomePage](https://blog.csdn.net/weixin_46645827?spm=1000.2115.3001.5343)
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/kaggle.png" alt="Kaggle" width="35%">
-  <img src="/images/leetcode.png" alt="LeetCode" width="37%">
-  <img src="/images/leetcode-2.png" alt="LeetCode" width="18%">
+  <img src="/images/kaggle.png" alt="Kaggle" width="40%">
+  <img src="/images/leetcode.png" alt="LeetCode" width="30%">
+  <img src="/images/leetcode-2.png" alt="LeetCode" width="15%">
   <img src="/images/leetcode-2-1.png" alt="LeetCode" width="10%">
 </div>
 
