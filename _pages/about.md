@@ -125,11 +125,10 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <a href="https://arxiv.org/abs/2410.19744">PDF</a> | 
     <a href="https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey">GitHub</a> | 
     <a href="https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA">机器学习与推荐算法</a> |
-    <img src="https://img.shields.io/github/stars/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=yellow" alt="GitHub Stars" style="vertical-align: middle;">
+    <img src="https://img.shields.io/github/stars/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
     <img src="https://img.shields.io/github/forks/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
 </div>
-
 
 
 
@@ -139,9 +138,14 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
     <b>Jindong Li</b>, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang*, Irwin King.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2504.14280">PDF</a> | <a href="https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation">GitHub</a>
+    <a href="https://arxiv.org/abs/2504.14280">PDF</a> | 
+    <a href="https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation">GitHub</a> |
+    <img src="https://img.shields.io/github/stars/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=yellow" alt="GitHub Stars" style="vertical-align: middle;">
+    <img src="https://img.shields.io/github/forks/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
 </div>
+
+
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
