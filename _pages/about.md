@@ -122,9 +122,15 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <b style="color: #0A1624;">Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond</b><br>
     Qi Wang+*, <b>Jindong Li+</b>, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang, Chengqi Zhang.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2410.19744">PDF</a> | <a href="https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey">GitHub</a> | <a href="https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA">机器学习与推荐算法</a>
+    <a href="https://arxiv.org/abs/2410.19744">PDF</a> | 
+    <a href="https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey">GitHub</a> | 
+    <a href="https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA">机器学习与推荐算法</a> |
+    <img src="https://img.shields.io/github/stars/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=yellow" alt="GitHub Stars" style="vertical-align: middle;">
+    <img src="https://img.shields.io/github/forks/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
 </div>
+
+
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
