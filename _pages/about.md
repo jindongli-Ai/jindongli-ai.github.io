@@ -44,6 +44,9 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/kaggle.png" alt="Kaggle" width="50%">
   <img src="/images/leetcode-2.png" alt="LeetCode" width="25%">
+</div>
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/leetcode.png" alt="LeetCode" width="50%">
   <img src="/images/leetcode-2-1.png" alt="LeetCode" width="17%">
 </div>
