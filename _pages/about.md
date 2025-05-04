@@ -302,7 +302,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 | 3  | NUDT | Academic scholarship (student can only receive once during college) | 2014 |
 | 4  | NUDT | Outstanding Graduate at the college level | 2015 |
 | 5  | NUDT | Outstanding Graduate at the university level (0.2% in NUDT) | 2015 |
-| 6  | NUDT | Citation of Class Three Merit (三等功, 0.2% in NUDT) | 2015 |
+| 6  | NUDT | Citation of Class Three Merit (三等功) | 2015 |
 | 7  | JLU | Academic scholarship | 2022 |
 | 8  | JLU | Academic scholarship | 2023 |
 
