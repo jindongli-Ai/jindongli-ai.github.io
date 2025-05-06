@@ -140,6 +140,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2504.14280">PDF</a> | 
     <a href="https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation">GitHub</a> |
+    <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a> |
     <img src="https://img.shields.io/github/stars/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=yellow" alt="GitHub Stars" style="vertical-align: middle;">
     <img src="https://img.shields.io/github/forks/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
