@@ -24,6 +24,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - Multimodal Learning (MM), Vision-Language model (VLM)
 - Domain Generalization (DG) and Domain Adaptation (DA)
 - Unsupervised Learning, Few-Shot Learning
+- Continual Learning (Incremental Learning)
 
 
 ## INFORMATION
