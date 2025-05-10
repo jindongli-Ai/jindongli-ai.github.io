@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hello! I am currently a Ph.D. student at Thrust of Artificial Intelligence at [HKUST-GZ](https://www.hkust-gz.edu.cn/), under the supervision of Prof. [Menglin Yang](https://yangmenglin.site/). I obtained a Master's degree in Computer Science and Technology from the School of Artificial Intelligence at JLU, and a Bachelor's degree in Electronic Engineering from NUDT.
+Hello! I am currently a Ph.D. student at Thrust of Artificial Intelligence at [HKUST-GZ](https://www.hkust-gz.edu.cn/), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/). I obtained a Master's degree in Computer Science and Technology from the School of Artificial Intelligence at JLU, and a Bachelor's degree in Electronic Engineering from NUDT.
 
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs)
@@ -58,7 +58,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 ### Hong Kong University of Science and Technology (HKUST-GZ)
 - **Ph.D. in Artificial Intelligence**
-- Supervisor: [Assistant Prof. Menglin Yang](https://yangmenglin.site/)
+- Supervisor: [Assistant Prof. Menglin Yang](https://yangmenglinsite.github.io/)
 
 
 ### Jilin University (JLU) &nbsp;&nbsp; *985*
