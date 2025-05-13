@@ -208,7 +208,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/CLIPXpert.png" alt="CLIPXpert" width="250">
   <div>
-    <b style="color: #0A1624;">CLIP for Source-Free Open-Set Domain Adaptation</b><br>
+    <b style="color: #0A1624;">Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering.
+</b><br>
     Yongguang Li, <b>Jindong Li</b>, Qi Wang*, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2504.14224">PDF</a>
