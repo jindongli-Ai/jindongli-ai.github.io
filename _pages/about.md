@@ -30,7 +30,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 ## INFORMATION
 - **E-mail**: [jli839@connect.hkust-gz.edu.cn](mailto:jli839@connect.hkust-gz.edu.cn)
 - **WeChat**: alwaysbeakindperson &nbsp;&nbsp;*(means: always be a kind person)*
-- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#FFA500">75</font>
+- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#FFA500">76</font>
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jindongli-Ai)
 
 
