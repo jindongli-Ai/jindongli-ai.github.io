@@ -113,6 +113,15 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   </div>
 </div>
 
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
+  <div>
+    <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
+    Yali Fu+, <b>Jindong Li+</b>, Qi Wang*, Qianli Xing.<br>
+    <i>Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2025.</i><br>
+    <a href="https://arxiv.org/abs/2503.17903">PDF</a> | <a href="https://github.com/Yali-F/GLADMamba">CODE</a>
+  </div>
+</div>
 
 
 ### arXiv Preprint
@@ -149,7 +158,6 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 
-
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/Cogito.png" alt="Cogito" width="250">
   <div>
@@ -182,16 +190,6 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   </div>
 </div>
 
-
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
-  <div>
-    <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
-    Yali Fu+, <b>Jindong Li+</b>, Qi Wang*, Qianli Xing.<br>
-    <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2503.17903">PDF</a> | <a href="https://github.com/Yali-F/GLADMamba">CODE</a>
-  </div>
-</div>
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
