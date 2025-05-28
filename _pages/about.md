@@ -86,7 +86,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
     <b>Jindong Li</b>, Qianli Xing, Qi Wang*, Yi Chang.<br>
-    <i>Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
+    <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
     <a href="https://arxiv.org/abs/2405.02359">PDF</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">CODE</a> 
   </div>
 </div>
@@ -118,7 +118,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
     Yali Fu+, <b>Jindong Li+</b>, Qi Wang*, Qianli Xing.<br>
-    <i>Joint European Conference on Machine Learning and Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2025.</i><br>
+    <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2025.</i><br>
     <a href="https://arxiv.org/abs/2503.17903">PDF</a> | <a href="https://github.com/Yali-F/GLADMamba">CODE</a>
   </div>
 </div>
