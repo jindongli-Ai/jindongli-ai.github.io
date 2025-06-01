@@ -67,7 +67,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 - Research Topic: *Graph Data Mining, Unsupervised Learning, Large Language Models*
 - Academic performance: *avg. score: 85.02*
 
-### The Nanchang Army College
+### The Nc Army College
 - **B.E. in Commmand**
 - Academic performance: *avg. score: 86.8 &nbsp; rank: 3/98*
 
@@ -264,8 +264,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 | No | Competition | Award | Year |
 |----|-------------|-------|------|
-| 1  | NUDT Intelligent Automobile Race | First Prize (1st place) | 2014 |
-| 2  | Hunan Province Intelligent Automobile Race of College Students | Second Prize | 2014 |
+| 1  | NUDT Intelligent Automobile Race | First Prize (1st place) |  |
+| 2  | Hunan Province Intelligent Automobile Race of College Students | Second Prize |  |
 | 3  | NUDT Electronic Design Competition Quadcopter Autonomous Aircraft Group | Third Prize (2nd place) | 2014 |
 | 4  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (2nd place) | 2022 |
 | 5  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (11th place) | 2022 |
@@ -296,16 +296,16 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 ## HONORS AND AWARDS
 
-| No | Institution | Award | Year |
-|----|-------------|-------|------|
-| 1  | NUDT | Outstanding Student at the college level | 2012, 2014 |
-| 2  | NUDT | Outstanding Student at the university level | 2014 |
-| 3  | NUDT | Academic scholarship (student can only receive once during college) | 2014 |
-| 4  | NUDT | Outstanding Graduate at the college level | 2015 |
-| 5  | NUDT | Outstanding Graduate at the university level (0.2% in NUDT) | 2015 |
-| 6  | NUDT | Citation of Class Three Merit (三等功) | 2015 |
-| 7  | JLU | Academic scholarship | 2022 |
-| 8  | JLU | Academic scholarship | 2023 |
+| No | Institution | Award |
+|----|-------------|-------|
+| 1  | NUDT | Outstanding Student at the college level |
+| 2  | NUDT | Outstanding Student at the university level |
+| 3  | NUDT | Academic scholarship (student can only receive once during college) |
+| 4  | NUDT | Outstanding Graduate at the college level |
+| 5  | NUDT | Outstanding Graduate at the university level (0.2% in NUDT) |
+| 6  | NUDT | Citation of Class Three Merit (三等功) |
+| 7  | JLU | Academic scholarship |
+| 8  | JLU | Academic scholarship |
 
 ## SKILLS
 
