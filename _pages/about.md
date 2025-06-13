@@ -241,7 +241,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 ### In Preparation
-2. **Jindong Li+**, Yali Fu+, Mengling Yang*, Jiahong Liu, Linxiao Cao, Irwin King. Bridging Multiple Modality to Large Language Models: A Survey on Discrete Tokenization. [[GITHUB]](https://github.com/jindongli-Ai/Discrete-Tokenization-Survey)
+2. **Jindong Li+**, Yali Fu+, Jiahong Liu, Linxiao Cao, Mengling Yang*, Irwin King. Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey. [[GITHUB]](https://github.com/jindongli-Ai/Discrete-Tokenization-Survey)
 <!-- 3. **Jindong Li**, Yali Fu, Qi Wang. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting) -->
 <!-- 4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. -->
    
