@@ -250,7 +250,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 **Jindong Li+**, Yali Fu+, Mengling Yang*. 
 [[GITHUB]](https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey)
 
-**[3] A Multimodal Benchmark for Printed Circuit Board Placement and Routing.** <br>
+**[3] A Multimodal Benchmark for PCB Placement and Routing.** <br>
 **Jindong Li**, Mengling Yang*. 
 [[GITHUB]](https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey)
 
