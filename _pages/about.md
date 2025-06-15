@@ -30,7 +30,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 ## INFORMATION
 - **E-mail**: [jli839@connect.hkust-gz.edu.cn](mailto:jli839@connect.hkust-gz.edu.cn)
 - **WeChat**: alwaysbeakindperson &nbsp;&nbsp;*(means: always be a kind person)*
-- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#FFA500">93</font>
+- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#FFA500">94</font>
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jindongli-Ai)
 
 
@@ -247,6 +247,10 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 [[GITHUB]](https://github.com/jindongli-Ai/Discrete-Tokenization-Survey)
 
 **[2] A Survey on LLM Implicit Reasoning.** <br>
+**Jindong Li+**, Yali Fu+, Mengling Yang*. 
+[[GITHUB]](https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey)
+
+**[3] A  Benchmark of Print Circuit Board Placement and Routing.** <br>
 **Jindong Li+**, Yali Fu+, Mengling Yang*. 
 [[GITHUB]](https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey)
 
