@@ -252,7 +252,6 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 
 **[3] A Multimodal Benchmark for PCB Placement and Routing.** <br>
 **Jindong Li**, Mengling Yang*. 
-[[GITHUB]](https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey)
 
 
 <!-- 3. **Jindong Li**, Yali Fu, Qi Wang. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting) -->
