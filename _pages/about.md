@@ -229,7 +229,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/DIPR.png" alt="DIPR" width="250">
   <div>
-    [9] b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
+    [9] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
     Yang Ai, <b>Jindong Li</b>, Qiang Bai, Xi Yang*.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2312.02877v2">PDF</a> | <a href="https://github.com/Ruye-aa/DIPR">CODE</a>
