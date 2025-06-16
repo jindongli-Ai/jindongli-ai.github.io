@@ -278,14 +278,14 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 |----|-------------|-------|------|
 | 1  | NUDT Intelligent Automobile Race | First Prize (1st place) |  |
 | 2  | Hunan Province Intelligent Automobile Race of College Students | Second Prize |  |
-| 3  | NUDT Electronic Design Competition Quadcopter Autonomous Aircraft Group | Third Prize (2nd place) | 2014 |
-| 4  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (2nd place) | 2022 |
+| 3  | NUDT Electronic Design Competition Quadcopter Autonomous Aircraft Group | Third Prize (2nd place) |  |
+| 4  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (2nd place) |  |
 | 5  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (11th place) | 2022 |
 | 6  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, Second Prize (5th place) | 2023 |
 | 7  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (3rd place) | 2024 |
 | 8  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (17th place) | 2024 |
-| 9  | Kaggle | 1 Silver Medal, 3 Bronze Medals | 2022-2023 |
-| 10 | LeetCode | Contest Rating top 1% | 2021-2023 |
+| 9  | Kaggle | 1 Silver Medal, 3 Bronze Medals |  |
+| 10 | LeetCode | Contest Rating top 1% |  |
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
