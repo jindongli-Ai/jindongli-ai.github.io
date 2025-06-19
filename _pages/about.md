@@ -12,16 +12,18 @@ Hello! I am currently a Ph.D. student at Thrust of Artificial Intelligence at [H
 
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs)
-  -  LLM Agent
+  -  LLM Agent, Multi-Agent
   -  Retrieval-Augmented Generation(RAG), GraphRAG
   -  Code Generation
   -  LLM Editing
   -  others
+- Multimodal Learning (MM), Vision-Language model (VLM)
+- Electronic Design Assistant (EDA)
+- AI-Generated Content (AIGC)
 - Geometric Learning with LLM, Geometric Foundation Model, Geometric Alignment
 - Graph Learning (GNNs)
 - Anomaly Detection (AD)
 - Recommender System (RecSys)
-- Multimodal Learning (MM), Vision-Language model (VLM)
 - Domain Generalization (DG) and Domain Adaptation (DA)
 - Unsupervised Learning, Few-Shot Learning
 - Continual Learning (Incremental Learning)
