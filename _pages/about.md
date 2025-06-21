@@ -245,7 +245,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 
 ### In Preparation
 [1] **Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey.** <br>
-**Jindong Li+**, Yali Fu+, Jiahong Liu, Linxiao Cao, Mengling Yang*, Irwin King. 
+**Jindong Li+**, Yali Fu+, Jiahong Liu, Linxiao Cao, Wei Ji, Irwin King, Ming-Hsuan Yang, Mengling Yang*. 
 [[GITHUB]](https://github.com/jindongli-Ai/Discrete-Tokenization-Survey)
 
 [2] **A Survey on LLM Implicit Reasoning.** <br>
