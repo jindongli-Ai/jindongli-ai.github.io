@@ -249,7 +249,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 [[GITHUB]](https://github.com/jindongli-Ai/Discrete-Tokenization-Survey)
 
 [2] **A Survey on LLM Implicit Reasoning.** <br>
-**Jindong Li+**, Yali Fu+, Mengling Yang*. 
+**Jindong Li+**, Yali Fu+, Jiahong Liu, Irwin King, Mengling Yang*. 
 [[GITHUB]](https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey)
 
 [3] **A Multimodal Benchmark for PCB Placement and Routing.** <br>
