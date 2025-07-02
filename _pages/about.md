@@ -252,7 +252,11 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 **Jindong Li+**, Yali Fu+, Jiahong Liu, Irwin King, Mengling Yang*. 
 [[GITHUB]](https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey)
 
-[3] **A Multimodal Benchmark for PCB Placement and Routing.** <br>
+[3] **A Survey on LLM Symbolic Reasoning.** <br>
+**Jindong Li+**, Yali Fu+, Yang Yang, Yutao Yue, Mengling Yang*. 
+[[GITHUB]](https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey)
+
+[4] **A Multimodal Benchmark for PCB Placement and Routing.** <br>
 **Jindong Li**, Mengling Yang*. 
 
 
