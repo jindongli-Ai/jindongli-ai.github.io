@@ -264,6 +264,15 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 <!-- 4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. -->
    
 
+
+## Academic Service
+- Reviewer, International World Wide Web Conference (WWW)
+- Reviewer, International Conference on Computer Vision (ICCV)
+- Reviewer, Artificial Intelligence Journal (AIJ)
+
+
+
+
 ## WORK EXPERIENCE
 
 ### 1. Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2023.09-2023.12*
