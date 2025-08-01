@@ -129,7 +129,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 ### arXiv Preprint
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/LLM-RecSys-Survey.png" alt="LLM-RecSys-Survey" width="250">
+  <img src="/images/LLM-Discrete-Tokenization-Survey.png" alt="LLM-RecSys-Survey" width="250">
   <div>
     [1] <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</b><br>
     <b>Jindong Li+</b>, Yali Fu, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang*, Irwin King, Ming-Hsuan Yang.<br>
