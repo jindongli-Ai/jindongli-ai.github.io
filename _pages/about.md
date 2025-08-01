@@ -252,9 +252,12 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   </div>
 </div>
 
+
+<!--
 [11] **DiffRSG: Rules-based Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation.** <br>
 Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 [[CODE]](https://github.com/jindongli-Ai/DiffRSG)
+-->
 
 
 ### In Preparation
