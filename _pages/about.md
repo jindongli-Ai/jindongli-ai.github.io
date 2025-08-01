@@ -32,7 +32,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 ## INFORMATION
 - **E-mail**: [jli839@connect.hkust-gz.edu.cn](mailto:jli839@connect.hkust-gz.edu.cn)
 - **WeChat**: alwaysbeakindperson &nbsp;&nbsp;*(means: always be a kind person)*
-- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#FFA500">102</font>
+- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#FFA500">103</font>
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jindongli-Ai)
 
 
@@ -127,6 +127,20 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 ### arXiv Preprint
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/LLM-RecSys-Survey.png" alt="LLM-RecSys-Survey" width="250">
+  <div>
+    [1] <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</b><br>
+    <b>Jindong Li+</b>, Yali Fu, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang*, Irwin King, Ming-Hsuan Yang.<br>
+    <i>arXiv Preprint.</i><br>
+    <a href="https://arxiv.org/abs/2507.22920">PDF</a> | 
+    <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">GitHub</a> | 
+    <img src="https://img.shields.io/github/stars/jindongli-Ai/LLM-Discrete-Tokenization-Survey?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
+    <img src="https://img.shields.io/github/forks/jindongli-Ai/LLM-Discrete-Tokenization-Survey?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/LLM-RecSys-Survey.png" alt="LLM-RecSys-Survey" width="250">
