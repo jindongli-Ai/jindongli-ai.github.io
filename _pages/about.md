@@ -18,7 +18,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   -  LLM Editing
   -  others
 - Multimodal Learning (MM), Vision-Language model (VLM)
-- Electronic Design Assistant (EDA)
+- Electronic Design Assistant (EDA) _(Seeking Collaborators)_
 - AI-Generated Content (AIGC)
 - Geometric Learning with LLM, Geometric Foundation Model, Geometric Alignment
 - Graph Learning (GNNs)
