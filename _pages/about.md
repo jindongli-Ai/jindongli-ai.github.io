@@ -135,7 +135,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <b>Jindong Li+</b>, Yali Fu+, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang*, Irwin King, Ming-Hsuan Yang.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2507.22920">PDF</a> | 
-    <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">GitHub</a> | 
+    <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">GitHub</a> |
+    <a href="https://mp.weixin.qq.com/s/rDlzbRSEmQqBg-GRP0DTlA">机器之心</a> |
     <img src="https://img.shields.io/github/stars/jindongli-Ai/LLM-Discrete-Tokenization-Survey?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
     <img src="https://img.shields.io/github/forks/jindongli-Ai/LLM-Discrete-Tokenization-Survey?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
