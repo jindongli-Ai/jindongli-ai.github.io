@@ -129,7 +129,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 ### arXiv Preprint
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/LLM-Discrete-Tokenization-Survey.png" alt="LLM-RecSys-Survey" width="250">
+  <img src="/images/LLM-Discrete-Tokenization-Survey.png" alt="LLM-Discrete-Tokenization-Survey" width="250">
   <div>
     [1] <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</b><br>
     <b>Jindong Li+</b>, Yali Fu+, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang*, Irwin King, Ming-Hsuan Yang.<br>
@@ -143,10 +143,27 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 </div>
 
 
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/LLM-Implicit-Reasoning-Survey.png" alt="LLM-Implicit-Reasoning-Survey" width="250">
+  <div>
+    [2] <b style="color: #0A1624;">Implicit Reasoning in Large Language Models: A Comprehensive Survey</b><br>
+    <b>Jindong Li+</b>, Yali Fu+, Li Fan, Jiahong Liu, Yao Shu, Chengwei Qin, Menglin Yang*, Irwin King, Rex Ying.<br>
+    <i>arXiv Preprint.</i><br>
+    <a href="https://arxiv.org/abs/2509.02350">PDF</a> | 
+    <a href="https://github.com/digailab/awesome-llm-implicit-reasoning">GitHub</a> |
+    <img src="https://img.shields.io/github/stars/digailab/awesome-llm-implicit-reasoning?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
+    <img src="https://img.shields.io/github/forks/digailab/awesome-llm-implicit-reasoning?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
+  </div>
+</div>
+
+
+
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/LLM-RecSys-Survey.png" alt="LLM-RecSys-Survey" width="250">
   <div>
-    [2] <b style="color: #0A1624;">Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond</b><br>
+    [3] <b style="color: #0A1624;">Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond</b><br>
     Qi Wang+*, <b>Jindong Li+</b>, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang, Chengqi Zhang.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2410.19744">PDF</a> | 
@@ -162,7 +179,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/CLIP-DG-DA-Survey.png" alt="CLIP-DG-DA-Survey" width="250">
   <div>
-    [3] <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
+    [4] <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
     <b>Jindong Li</b>, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang*, Irwin King.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2504.14280">PDF</a> | 
@@ -178,7 +195,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/Cogito.png" alt="Cogito" width="250">
   <div>
-    [4] <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
+    [5] <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
     Yanlong Li, <b>Jindong Li</b>, Qi Wang*, Menglin Yang, He Kong, Shengsheng Wang.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2501.18653">PDF</a> | <a href="https://github.com/doc0318/Cogito">CODE</a> | <a href="https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html">TechXplore</a>
@@ -189,7 +206,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/CANNON.png" alt="CANNON" width="250">
   <div>
-    [5] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
+    [6] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
     <b>Jindong Li</b>, Yixin Liu, Qianli Xing, Qi Wang*.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">PDF</a> | <a href="https://github.com/jindongli-Ai/CANNON">CODE</a>
@@ -200,7 +217,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
   <div>
-    [6] <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [7] <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
     Yali Fu+, <b>Jindong Li+</b>, Jiahong Liu, Qianli Xing, Qi Wang*, Irwin King.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2407.02057">PDF</a> | <a href="https://github.com/Yali-F/HC-GLAD">CODE</a>
@@ -212,7 +229,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/FANFOLD.png" alt="FANFOLD" width="250">
   <div>
-    [7] <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [8] <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
     Rui Cao+, Shijie Xue+, <b>Jindong Li+</b>, Qianli Xing, Qi Wang*, Yi Chang.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2407.00383">PDF</a> | <a href="https://github.com/Goldenhorns/FANFOLD">CODE</a>
@@ -223,7 +240,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/CLIPXpert.png" alt="CLIPXpert" width="250">
   <div>
-    [8] <b style="color: #0A1624;">Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering.
+    [9] <b style="color: #0A1624;">Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering.
 </b><br>
     Yongguang Li, <b>Jindong Li</b>, Qi Wang*, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
     <i>arXiv Preprint.</i><br>
@@ -235,7 +252,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/CDBN.png" alt="CDBN" width="250">
   <div>
-    [9] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
+    [10] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
     Yongguang Li+, Yueqi Cao+, <b>Jindong Li</b>, Qi Wang, Shengsheng Wang*.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2410.15811">PDF</a> | <a href="https://github.com/ethanAiJLu/CDBN">CODE</a>
@@ -246,7 +263,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/DIPR.png" alt="DIPR" width="250">
   <div>
-    [10] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
+    [11] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
     Yang Ai, <b>Jindong Li</b>, Qiang Bai, Xi Yang*.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2312.02877v2">PDF</a> | <a href="https://github.com/Ruye-aa/DIPR">CODE</a>
@@ -263,11 +280,8 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 
 ### In Preparation
 
-[1] **A Survey on LLM Implicit Reasoning.** <br>
-**Jindong Li+**, Yali Fu+, Jiahong Liu, Irwin King, Mengling Yang*. 
-[[GITHUB]](https://github.com/jindongli-Ai/LLM-Implicit-Reasoning-Survey)
 
-[2] **A Survey on LLM Symbolic Reasoning.** <br>
+[1] **A Survey on LLM Symbolic Reasoning.** <br>
 **Jindong Li+**, Yali Fu+, Yang Yang, Yutao Yue, Mengling Yang*. 
 [[GITHUB]](https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey)
 
