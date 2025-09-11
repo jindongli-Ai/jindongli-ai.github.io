@@ -153,6 +153,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2509.02350">PDF</a> | 
     <a href="https://github.com/digailab/awesome-llm-implicit-reasoning">GitHub</a> |
+    <a href="https://mp.weixin.qq.com/s/YPVtFIFuEDW90CMfKaup_w">PaperWeekly</a> |
     <img src="https://img.shields.io/github/stars/digailab/awesome-llm-implicit-reasoning?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
     <img src="https://img.shields.io/github/forks/digailab/awesome-llm-implicit-reasoning?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
