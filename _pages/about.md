@@ -314,10 +314,13 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 - Responsibilities:
   - Evaluation of MLLMs
   - Multimodal (OCR mainly) models/approaches
-  
+
+<!--
 ### 2. Jilin University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2024.07-2024.11*
 - **Research Assistant**
 - Mentor: Yi Chang and Qi Wang
+-->
+
 
 ## COMPETITION EXPERIENCE
 
