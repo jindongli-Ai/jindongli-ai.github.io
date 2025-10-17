@@ -13,9 +13,9 @@ Hello! I am currently a Ph.D. student at Thrust of Artificial Intelligence at [H
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs)
   -  LLM Agent, Multi-Agent
-  -  Retrieval-Augmented Generation(RAG), GraphRAG
-  -  Code Generation
-  -  LLM Editing
+  -  RAG, GraphRAG
+  -  LLM Implicit Reasoning
+  -  LLM Symbolic Reasoning
   -  others
 - Multimodal Learning (MM), Vision-Language model (VLM)
 - Electronic Design Automation (EDA) ***(Seeking Collaborators)***
