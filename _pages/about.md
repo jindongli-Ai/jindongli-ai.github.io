@@ -89,7 +89,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [1] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
     <b>Jindong Li</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
-    <a href="https://arxiv.org/abs/2405.02359">PDF</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">CODE</a> 
+    <a href="https://arxiv.org/abs/2405.02359">arXiv</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">GitHub</a> 
   </div>
 </div>
 
@@ -100,7 +100,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [2] <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang+.<br>
     <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
-    <a href="https://arxiv.org/abs/2402.07945">PDF</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">CODE</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
+    <a href="https://arxiv.org/abs/2402.07945">arXiv</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">GitHub</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
   </div>
 </div>
 
@@ -111,7 +111,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [3] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
     Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+<br>
     <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (J-STARS, JCR Q1), 2025.</i><br>
-    <a href="https://ieeexplore.ieee.org/document/10897814">PDF</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">CODE</a> 
+    <a href="https://ieeexplore.ieee.org/document/10897814">IEEE</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">GitHub</a> 
   </div>
 </div>
 
@@ -121,7 +121,19 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [4] <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Qi Wang+, Qianli Xing.<br>
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2025.</i><br>
-    <a href="https://arxiv.org/abs/2503.17903">PDF</a> | <a href="https://github.com/Yali-F/GLADMamba">CODE</a>
+    <a href="https://arxiv.org/abs/2503.17903">arXiv</a> | <a href="https://github.com/Yali-F/GLADMamba">GitHub</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/CLIPXpert.png" alt="CLIPXpert" width="250">
+  <div>
+    [5] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models.
+</b><br>
+    Yongguang Li, <b>Jindong Li</b>, Qi Wang+, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
+    <i>AAAI</i><br>
+    <a href="https://arxiv.org/abs/2504.14224">arXiv</a>
   </div>
 </div>
 
@@ -134,7 +146,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [1] <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</b><br>
     <b>Jindong Li*</b>, Yali Fu*, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang+, Irwin King, Ming-Hsuan Yang.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2507.22920">PDF</a> | 
+    <a href="https://arxiv.org/abs/2507.22920">arXiv</a> | 
     <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">GitHub</a> |
     <a href="https://mp.weixin.qq.com/s/rDlzbRSEmQqBg-GRP0DTlA">机器之心</a> |
     <img src="https://img.shields.io/github/stars/jindongli-Ai/LLM-Discrete-Tokenization-Survey?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
@@ -151,7 +163,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [2] <b style="color: #0A1624;">Implicit Reasoning in Large Language Models: A Comprehensive Survey</b><br>
     <b>Jindong Li*</b>, Yali Fu*, Li Fan, Jiahong Liu, Yao Shu, Chengwei Qin, Menglin Yang+, Irwin King, Rex Ying.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2509.02350">PDF</a> | 
+    <a href="https://arxiv.org/abs/2509.02350">arXiv</a> | 
     <a href="https://github.com/digailab/awesome-llm-implicit-reasoning">GitHub</a> |
     <a href="https://mp.weixin.qq.com/s/YPVtFIFuEDW90CMfKaup_w">PaperWeekly</a> |
     <img src="https://img.shields.io/github/stars/digailab/awesome-llm-implicit-reasoning?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
@@ -167,7 +179,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [3] <b style="color: #0A1624;">Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond</b><br>
     Qi Wang*+, <b>Jindong Li*</b>, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang, Chengqi Zhang.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2410.19744">PDF</a> | 
+    <a href="https://arxiv.org/abs/2410.19744">arXiv</a> | 
     <a href="https://github.com/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey">GitHub</a> | 
     <a href="https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA">机器学习与推荐算法</a> |
     <img src="https://img.shields.io/github/stars/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
@@ -183,7 +195,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [4] <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
     <b>Jindong Li</b>, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang+, Irwin King.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2504.14280">PDF</a> | 
+    <a href="https://arxiv.org/abs/2504.14280">arXiv</a> | 
     <a href="https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation">GitHub</a> |
     <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a> |
     <img src="https://img.shields.io/github/stars/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=yellow" alt="GitHub Stars" style="vertical-align: middle;">
@@ -210,7 +222,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [6] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
     <b>Jindong Li</b>, Yixin Liu, Qianli Xing, Qi Wang+.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">PDF</a> | <a href="https://github.com/jindongli-Ai/CANNON">CODE</a>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">SSRN</a> | <a href="https://github.com/jindongli-Ai/CANNON">GitHub</a>
   </div>
 </div>
 
@@ -221,7 +233,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [7] <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Jiahong Liu, Qianli Xing, Qi Wang+, Irwin King.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2407.02057">PDF</a> | <a href="https://github.com/Yali-F/HC-GLAD">CODE</a>
+    <a href="https://arxiv.org/abs/2407.02057">arXiv</a> | <a href="https://github.com/Yali-F/HC-GLAD">GitHub</a>
   </div>
 </div>
 
@@ -233,27 +245,16 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [8] <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
     Rui Cao*, Shijie Xue*, <b>Jindong Li*</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2407.00383">PDF</a> | <a href="https://github.com/Goldenhorns/FANFOLD">CODE</a>
+    <a href="https://arxiv.org/abs/2407.00383">arXiv</a> | <a href="https://github.com/Goldenhorns/FANFOLD">GitHub</a>
   </div>
 </div>
 
-
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/CLIPXpert.png" alt="CLIPXpert" width="250">
-  <div>
-    [9] <b style="color: #0A1624;">Revisiting CLIP for SF-OSDA: Unleashing Zero-Shot Potential with Adaptive Threshold and Training-Free Feature Filtering.
-</b><br>
-    Yongguang Li, <b>Jindong Li</b>, Qi Wang+, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
-    <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2504.14224">PDF</a>
-  </div>
-</div>
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/CDBN.png" alt="CDBN" width="250">
   <div>
-    [10] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
+    [9] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
     Yongguang Li*, Yueqi Cao*, <b>Jindong Li</b>, Qi Wang, Shengsheng Wang+.<br>
     <i>arXiv Preprint.</i><br>
     <a href="https://arxiv.org/abs/2410.15811">PDF</a> | <a href="https://github.com/ethanAiJLu/CDBN">CODE</a>
@@ -264,10 +265,10 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/DIPR.png" alt="DIPR" width="250">
   <div>
-    [11] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
+    [10] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
     Yang Ai, <b>Jindong Li</b>, Qiang Bai, Xi Yang+.<br>
     <i>arXiv Preprint.</i><br>
-    <a href="https://arxiv.org/abs/2312.02877v2">PDF</a> | <a href="https://github.com/Ruye-aa/DIPR">CODE</a>
+    <a href="https://arxiv.org/abs/2312.02877v2">arXiv</a> | <a href="https://github.com/Ruye-aa/DIPR">GitHub</a>
   </div>
 </div>
 
@@ -284,7 +285,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 
 [1] **A Survey on LLM Symbolic Reasoning.** <br>
 **Jindong Li\***, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+. 
-[[GITHUB]](https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey)
+[[GitHub]](https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey)
 
 <!--
 [4] **A Multimodal Benchmark for PCB Placement and Routing.** <br>
