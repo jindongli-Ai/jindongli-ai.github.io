@@ -132,7 +132,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [5] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models.
 </b><br>
     Yongguang Li, <b>Jindong Li</b>, Qi Wang+, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
-    <i>AAAI</i><br>
+    <i>Association for the Advancement of Artificial Intelligence Conference (AAAI, CCF-A), 2026.</i><br>
     <a href="https://arxiv.org/abs/2504.14224">arXiv</a>
   </div>
 </div>
