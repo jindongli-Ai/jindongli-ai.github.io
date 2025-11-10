@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Education"
+permalink: /education/
+author_profile: true
+---
+
+
+
 ## EDUCATION
 
 ### Hong Kong University of Science and Technology (HKUST-GZ)
