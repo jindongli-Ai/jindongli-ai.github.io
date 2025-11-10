@@ -69,7 +69,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 - Research Topic: *Graph Data Mining, Unsupervised Learning, LLMs*
 - Academic performance: *avg. score: 85.02*
 
-### The Nc Army College
+### The xx College
 - **B.E. in Commmand**
 - Academic performance: *avg. score: 86.8 &nbsp; rank: 3/98*
 
