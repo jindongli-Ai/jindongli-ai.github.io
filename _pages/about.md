@@ -69,9 +69,13 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 - Research Topic: *Graph Data Mining, Unsupervised Learning, LLMs*
 - Academic performance: *avg. score: 85.02*
 
+
+<!--
 ### The xx College
 - **B.E. in Commmand**
 - Academic performance: *avg. score: 86.8 &nbsp; rank: 3/98*
+-->
+
 
 ### National University of Defense Technology (NUDT) &nbsp;&nbsp; *985*
 - **B.E. in Electronic Engineering**
