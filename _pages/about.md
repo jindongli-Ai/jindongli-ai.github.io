@@ -295,6 +295,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 
 [1] **A Survey on LLM Symbolic Reasoning.** <br>
 **Jindong Li\***, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+. (2025)
+
 [[GitHub]](https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey)
 
 <!--
