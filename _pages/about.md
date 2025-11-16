@@ -148,6 +148,14 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 </div>
 
 
+[6] **A Survey on LLM Symbolic Reasoning.** <br>
+**Jindong Li\***, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+. <br>
+_AAAI Bridge, 2026._
+
+
+
+
+
 ### arXiv Preprint
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
@@ -292,9 +300,10 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 
 ### In Preparation
 
-
+<!-->
 [1] **A Survey on LLM Symbolic Reasoning.** <br>
 **Jindong Li\***, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+. (2025)
+-->
 
 [[GitHub]](https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey)
 
