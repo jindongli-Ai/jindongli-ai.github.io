@@ -29,6 +29,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - Continual Learning (Incremental Learning)
 
 
+
 ## INFORMATION
 - **E-mail**: [jli839@connect.hkust-gz.edu.cn](mailto:jli839@connect.hkust-gz.edu.cn)
 - **WeChat**: alwaysbeakindperson &nbsp;&nbsp;*(means: always be a kind person)*
@@ -50,8 +51,9 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - **M.E. in Computer Science and Technology**
 - Supervisor: Associate Prof. Qi Wang
 - Research Topic: *Graph Data Mining, Unsupervised Learning, LLMs*
+
 <!--
-- Academic performance: *avg. score: 85.02*
+  Academic performance: *avg. score: 85.02*
 -->
 
 
