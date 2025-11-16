@@ -50,9 +50,9 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - **M.E. in Computer Science and Technology**
 - Supervisor: Associate Prof. Qi Wang
 - Research Topic: *Graph Data Mining, Unsupervised Learning, LLMs*
-  <!--
-  - Academic performance: *avg. score: 85.02*
-  -->
+<!--
+- Academic performance: *avg. score: 85.02*
+-->
 
 
 <!--
