@@ -50,7 +50,9 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - **M.E. in Computer Science and Technology**
 - Supervisor: Associate Prof. Qi Wang
 - Research Topic: *Graph Data Mining, Unsupervised Learning, LLMs*
-- Academic performance: *avg. score: 85.02*
+  <!--
+  - Academic performance: *avg. score: 85.02*
+  -->
 
 
 <!--
@@ -62,9 +64,13 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 ### National University of Defense Technology (NUDT) &nbsp;&nbsp; *985*
 - **B.E. in Electronic Engineering**
-- Academic performance: *avg. score: 82.4 &nbsp; rank: 2/115*
+<!--
+  Academic performance: *avg. score: 82.4 &nbsp; rank: 2/115*
+-->
+- Academic performance: rank 2/115
+- **B.E. in Commmand**
+- Academic performance: rank: 3/98
 - *(I have a valid passport and successfully traveled to Europe in 2023, with no issues obtaining a visa)*
-
 
 
 
