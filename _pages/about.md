@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<!--
+I obtained a Master's degree in Computer Science and Technology from the School of Artificial Intelligence at JLU, and
+-->
 
-Hello! I am currently a Ph.D. student at Thrust of Artificial Intelligence at [HKUST-GZ](https://www.hkust-gz.edu.cn/), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/). I obtained a Master's degree in Computer Science and Technology from the School of Artificial Intelligence at JLU, and a Bachelor's degree in Electronic Engineering from NUDT.
+Hello! I am currently a Ph.D. student at Thrust of Artificial Intelligence at [HKUST-GZ](https://www.hkust-gz.edu.cn/), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/). I obtained a Bachelor's degree from NUDT.
 
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs)
