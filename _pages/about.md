@@ -171,7 +171,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [6] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning.
 </b><br>
     <b>Jindong Li</b>, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+.<br>
-    <a>AAAI 2026 Bridge.</a> |
+    <i>AAAI 2026 Bridge.</i><br>
     <a href="https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey">GitHub</a>
   </div>
 </div>
