@@ -166,7 +166,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/LLM-Symbolic-Reasoning-Survery.png" alt="LLM-Symbolic-Reasoning-Survey" width="250">
+  <img src="/images/LLM-Symbolic-Reasoning-Survey.png" alt="LLM-Symbolic-Reasoning-Survey" width="250">
   <div>
     [6] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning.
 </b><br>
@@ -175,7 +175,6 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <a href="https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey">GitHub</a>
   </div>
 </div>
-
 
 
 
