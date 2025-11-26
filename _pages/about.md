@@ -252,7 +252,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [5] <b style="color: #0A1624;">HyperbolicRAG: Enhancing Retrieval-Augmented Generation with Hyperbolic Representations</b><br>
     Linxiao Cao, Ruitao Wang, <b>Jindong Li</b>, Zhipeng Zhou, Menglin Yang+.<br>
     <i>arXiv Preprint, 2025.</i><br>
-    <a href="https://arxiv.org/abs/2511.18808">PDF</a>
+    <a href="https://arxiv.org/abs/2511.18808">arXiv</a>
   </div>
 </div>
 
@@ -264,7 +264,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [5] <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
     Yanlong Li, <b>Jindong Li</b>, Qi Wang+, Menglin Yang, He Kong, Shengsheng Wang.<br>
     <i>arXiv Preprint, 2025.</i><br>
-    <a href="https://arxiv.org/abs/2501.18653">PDF</a> | <a href="https://github.com/doc0318/Cogito">CODE</a> | <a href="https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html">TechXplore</a>
+    <a href="https://arxiv.org/abs/2501.18653">arXiv</a> | <a href="https://github.com/doc0318/Cogito">CODE</a> | <a href="https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html">TechXplore</a>
   </div>
 </div>
 
@@ -310,7 +310,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [9] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
     Yongguang Li*, Yueqi Cao*, <b>Jindong Li</b>, Qi Wang, Shengsheng Wang+.<br>
     <i>arXiv Preprint, 2024.</i><br>
-    <a href="https://arxiv.org/abs/2410.15811">PDF</a> | <a href="https://github.com/ethanAiJLu/CDBN">CODE</a>
+    <a href="https://arxiv.org/abs/2410.15811">arXiv</a> | <a href="https://github.com/ethanAiJLu/CDBN">GitHub</a>
   </div>
 </div>
 
@@ -336,20 +336,14 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 <!--
 ### In Preparation
 
-[1] **A Survey on LLM Symbolic Reasoning.** <br>
-**Jindong Li\***, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+. (2025)
 
-[[GitHub]](https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey)
-
--->
 
 <!--
-[4] **A Multimodal Benchmark for PCB Placement and Routing.** <br>
-**Jindong Li**, Mengling Yang*. 
+[1] **A Multimodal Benchmark for PCB Placement and Routing.** <br>
+**Jindong Li**, Lianrong Chen, Bin Yang, Jiadong Zhu, Ying Wang, Yuzhe Ma, Mengling Yang+*. 
 -->
 
-<!-- 3. **Jindong Li**, Yali Fu, Qi Wang. Harnessing Large Language Models (LLMs) for Climate Change and Weather Forecasting: A Survey. [[GITHUB]](https://github.com/jindongli-Ai/Survey_on_LLM_for_Climate_Change_and_Weather_Forecasting) -->
-<!-- 4. **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. -->
+<!-- [2] **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. -->
    
 
 
