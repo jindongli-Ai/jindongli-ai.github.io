@@ -198,7 +198,6 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 
-
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/LLM-Implicit-Reasoning-Survey.png" alt="LLM-Implicit-Reasoning-Survey" width="250">
   <div>
@@ -242,6 +241,18 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a> |
     <img src="https://img.shields.io/github/stars/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=yellow" alt="GitHub Stars" style="vertical-align: middle;">
     <img src="https://img.shields.io/github/forks/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
+  </div>
+</div>
+
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/HyperbolicRAG.png" alt="HyperbolicRAG" width="250">
+  <div>
+    [5] <b style="color: #0A1624;">HyperbolicRAG: Enhancing Retrieval-Augmented Generation with Hyperbolic Representations</b><br>
+    Linxiao Cao, Ruitao Wang, <b>Jindong Li</b>, Zhipeng Zhou, Menglin Yang+.<br>
+    <i>arXiv Preprint, 2025.</i><br>
+    <a href="https://arxiv.org/abs/2511.18808">PDF</a>
   </div>
 </div>
 
