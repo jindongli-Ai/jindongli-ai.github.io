@@ -54,11 +54,13 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - Supervisor: [Assistant Prof. Menglin Yang](https://yangmenglinsite.github.io/)
 
 
+<!--
 ### Jilin University (JLU) &nbsp;&nbsp; *985*
 - School of Artificial Intelligence (Dean: Yi Chang)
 - **M.E. in Computer Science and Technology**
 - Supervisor: Associate Prof. Qi Wang
 - Research Topic: *Graph Data Mining, Unsupervised Learning, LLMs*
+-->
 
 <!--
   Academic performance: *avg. score: 85.02*
