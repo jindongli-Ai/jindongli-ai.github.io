@@ -395,6 +395,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
   <img src="/images/quadrotor.jpg" alt="Quadrotor" width="35%">
 </div>
 
+<!--
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/蓝桥杯省一2022.jpg" alt="蓝桥杯省一2022" width="20%">
   <img src="/images/蓝桥杯国二2022.jpg" alt="蓝桥杯国二2022" width="20%">
@@ -402,7 +403,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
   <img src="/images/蓝桥杯省一2024.jpg" alt="蓝桥杯省一2024" width="20%">
   <img src="/images/蓝桥杯国二2024.jpg" alt="蓝桥杯国二2024" width="20%">
 </div>
-
+-->
 
 
 
@@ -418,8 +419,11 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 | 4  | NUDT | Outstanding Graduate at the college level |
 | 5  | NUDT | Outstanding Graduate at the university level (0.2% in NUDT) |
 | 6  | NUDT | Citation of Class Three Merit (三等功) |
+
+<!--
 | 7  | JLU | Academic scholarship |
 | 8  | JLU | Academic scholarship |
+-->
 
 ## SKILLS
 
