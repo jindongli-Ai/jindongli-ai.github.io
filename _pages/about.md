@@ -150,7 +150,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [4] <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Qi Wang+, Qianli Xing.<br>
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2025.</i><br>
-    <a href="https://arxiv.org/abs/2503.17903">arXiv</a> | <a href="https://github.com/Yali-F/GLADMamba">GitHub</a>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-032-05962-8_3">Springer</a> | <a href="https://arxiv.org/abs/2503.17903">arXiv</a> | <a href="https://github.com/Yali-F/GLADMamba">GitHub</a>
   </div>
 </div>
 
