@@ -23,6 +23,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   -  RAG, GraphRAG
   -  LLM Implicit Reasoning
   -  LLM Symbolic Reasoning
+  -  Memory
   -  others
 - Multimodal Learning (MM), Vision-Language model (VLM)
 - Electronic Design Automation (EDA) ***(Seeking Collaborators)***
