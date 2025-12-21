@@ -27,14 +27,13 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   -  others
 - Multimodal Learning (MM), Vision-Language model (VLM)
 - Electronic Design Automation (EDA) ***(Seeking Collaborators)***
-- AI-Generated Content (AIGC)
 - Geometric Learning with LLM, Geometric Foundation Model, Geometric Alignment
 - Graph Learning (GNNs)
 - Anomaly Detection (AD)
 - Recommender System (RecSys)
 - Domain Generalization (DG) and Domain Adaptation (DA)
 - Unsupervised Learning, Few-Shot Learning
-- Continual Learning (Incremental Learning)
+- Continual Learning (Lifelong, Incremental Learning)
 
 
 
