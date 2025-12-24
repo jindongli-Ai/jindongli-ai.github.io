@@ -260,11 +260,21 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 </div>
 
 
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/AL-GNN.png" alt="AL-GNN" width="250">
+  <div>
+    [6] <b style="color: #0A1624;">AL-GNN: Privacy-Preserving and Replay-Free Continual Graph Learning via Analytic Learning</b><br>
+    Xuling Zhang, <b>Jindong Li</b>, Yifei Zhang, Menglin Yang+.<br>
+    <i>arXiv Preprint, 2025.</i><br>
+    <a href="https://arxiv.org/abs/2512.18295">arXiv</a>
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/Cogito.png" alt="Cogito" width="250">
   <div>
-    [6] <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
+    [7] <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
     Yanlong Li, <b>Jindong Li</b>, Qi Wang+, Menglin Yang, He Kong, Shengsheng Wang.<br>
     <i>arXiv Preprint, 2025.</i><br>
     <a href="https://arxiv.org/abs/2501.18653">arXiv</a> | <a href="https://github.com/doc0318/Cogito">CODE</a> | <a href="https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html">TechXplore</a>
@@ -275,7 +285,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/CANNON.png" alt="CANNON" width="250">
   <div>
-    [7] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
+    [8] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
     <b>Jindong Li</b>, Yixin Liu, Qianli Xing, Qi Wang+.<br>
     <i>SSRN Preprint, 2023.</i><br>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">SSRN</a> | <a href="https://github.com/jindongli-Ai/CANNON">GitHub</a>
@@ -286,7 +296,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
   <div>
-    [8] <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [9] <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Jiahong Liu, Qianli Xing, Qi Wang+, Irwin King.<br>
     <i>arXiv Preprint, 2024.</i><br>
     <a href="https://arxiv.org/abs/2407.02057">arXiv</a> | <a href="https://github.com/Yali-F/HC-GLAD">GitHub</a>
@@ -298,7 +308,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/FANFOLD.png" alt="FANFOLD" width="250">
   <div>
-    [9] <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [10] <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
     Rui Cao*, Shijie Xue*, <b>Jindong Li*</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
     <i>arXiv Preprint, 2024.</i><br>
     <a href="https://arxiv.org/abs/2407.00383">arXiv</a> | <a href="https://github.com/Goldenhorns/FANFOLD">GitHub</a>
@@ -310,7 +320,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/CDBN.png" alt="CDBN" width="250">
   <div>
-    [10] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
+    [11] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
     Yongguang Li*, Yueqi Cao*, <b>Jindong Li</b>, Qi Wang, Shengsheng Wang+.<br>
     <i>arXiv Preprint, 2024.</i><br>
     <a href="https://arxiv.org/abs/2410.15811">arXiv</a> | <a href="https://github.com/ethanAiJLu/CDBN">GitHub</a>
@@ -321,7 +331,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/DIPR.png" alt="DIPR" width="250">
   <div>
-    [10] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
+    [12] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
     Yang Ai, <b>Jindong Li</b>, Qiang Bai, Xi Yang+.<br>
     <i>arXiv Preprint, 2023.</i><br>
     <a href="https://arxiv.org/abs/2312.02877v2">arXiv</a> | <a href="https://github.com/Ruye-aa/DIPR">GitHub</a>
