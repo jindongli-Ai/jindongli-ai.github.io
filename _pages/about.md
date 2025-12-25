@@ -80,7 +80,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   Academic performance: *avg. score: 82.4 &nbsp; rank: 2/115*
 -->
 - Academic performance: rank 2/115
-- **B.E. in Commmand**
+- **B.E. in Management**
 - Academic performance: rank: 3/98
 - *(I have a valid passport and successfully traveled to Europe in 2023, with no issues obtaining a visa)*
 
