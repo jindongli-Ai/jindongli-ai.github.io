@@ -158,7 +158,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/CLIPXpert.png" alt="CLIPXpert" width="250">
   <div>
-    [5] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models.
+    [5] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models
 </b><br>
     Yongguang Li, <b>Jindong Li</b>, Qi Wang+, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
     <i>Association for the Advancement of Artificial Intelligence Conference (AAAI, CCF-A), 2026.</i><br>
@@ -170,7 +170,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/LLM-Symbolic-Reasoning-Survey.png" alt="LLM-Symbolic-Reasoning-Survey" width="250">
   <div>
-    [6] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning.
+    [6] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning
 </b><br>
     <b>Jindong Li*</b>, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+.<br>
     <i>AAAI Bridge: Logical and Symbolic Reasoning in Language Models, 2026.</i><br>
