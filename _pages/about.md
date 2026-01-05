@@ -188,7 +188,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [7] <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
     <b>Jindong Li</b>, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang+, Irwin King.<br>
-    <i>Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A), 2025.</i><br>
+    <i>Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A, IF=18.6), 2026.</i><br>
     <a href="https://arxiv.org/abs/2504.14280">arXiv</a> | 
     <a href="https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation">GitHub</a> |
     <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a> |
