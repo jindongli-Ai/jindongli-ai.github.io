@@ -362,10 +362,12 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 
 
 ## Academic Service
-- Reviewer, International World Wide Web Conference (WWW)
-- Reviewer, International Conference on Computer Vision (ICCV)
-- Reviewer, Artificial Intelligence Journal (AIJ)
-- Reviewer, International Conference on Learning Representations (ICLR)
+- Reviewer, International Conference on Learning Representations (ICLR, CCF-A)
+- Reviewer, International Conference on Computer Vision (ICCV, CCF-A)
+- Reviewer, Artificial Intelligence Journal (AIJ, CCF-A)
+- Reviewer, International World Wide Web Conference (WWW, CCF-A)
+- Reviewer, IEEE Transactions on Audio, Speech and Language Processing (TASLP, CCF-B, THU-A)
+
 
 
 
