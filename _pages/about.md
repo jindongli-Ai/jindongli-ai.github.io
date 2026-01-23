@@ -24,6 +24,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   -  LLM Implicit Reasoning
   -  LLM Symbolic Reasoning
   -  Memory
+  -  Personalization
   -  Safety (Jailbreak)
   -  others
 - Multimodal Learning (MM), Vision-Language model (VLM)
