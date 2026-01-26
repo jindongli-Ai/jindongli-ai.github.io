@@ -114,7 +114,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 ### Published
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/CVTGAD.png" alt="CVTGAD" width="250">
+  <img src="/images/2023_ECML-PKDD_CVTGAD.png" alt="CVTGAD" width="250">
   <div>
     [1] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
     <b>Jindong Li</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
@@ -125,7 +125,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/ScreenAgent.png" alt="ScreenAgent" width="250">
+  <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
   <div>
     [2] <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang+.<br>
@@ -136,7 +136,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/LCD-Net.png" alt="LCD-Net" width="250">
+  <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
   <div>
     [3] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
     Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+<br>
@@ -147,7 +147,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/GLADMamba.png" alt="GLADMamba" width="250">
+  <img src="/images/2025_ECML-PKDD_GLADMamba.png" alt="GLADMamba" width="250">
   <div>
     [4] <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Qi Wang+, Qianli Xing.<br>
@@ -158,7 +158,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/CLIPXpert.png" alt="CLIPXpert" width="250">
+  <img src="/images/2026_AAAI_CLIPXpert.png" alt="CLIPXpert" width="250">
   <div>
     [5] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models
 </b><br>
@@ -186,7 +186,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/CLIP-DG-DA-Survey.png" alt="CLIP-DG-DA-Survey" width="250">
+  <img src="/images/2026_TPAMI_CLIP-DG-DA-Survey.png" alt="CLIP-DG-DA-Survey" width="250">
   <div>
     [7] <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
     <b>Jindong Li</b>, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang+, Irwin King.<br>
@@ -197,6 +197,16 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a> |
     <img src="https://img.shields.io/github/stars/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=yellow" alt="GitHub Stars" style="vertical-align: middle;">
     <img src="https://img.shields.io/github/forks/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2026_ICLR_PCB-Bench.png" alt="PCB-Bench" width="250">
+  <div>
+    [8] <b style="color: #0A1624;">PCB-Bench: Benchmarking LLMs for Printed Circuit Board Placement and Routing</b><br>
+    <b>Jindong Li</b>, Lianrong Chen, Bin Yang, Jiadong Zhu, Ying Wang, Yuzhe Ma, Menglin Yang+.<br>
+    <i> International Conference on Learning Representations (ICLR, CCF-A), 2026.</i><br>
   </div>
 </div>
 
