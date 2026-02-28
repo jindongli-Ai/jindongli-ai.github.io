@@ -124,10 +124,9 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [1] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
     <b>Jindong Li</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
-    <a href="https://arxiv.org/abs/2405.02359">arXiv</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">GitHub</a> 
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11">Springer</a> | <a href="https://arxiv.org/abs/2405.02359">arXiv</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">GitHub</a> 
   </div>
 </div>
-
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
@@ -135,7 +134,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [2] <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang+.<br>
     <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
-    <a href="https://arxiv.org/abs/2402.07945">arXiv</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">GitHub</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
+    <a href="https://www.ijcai.org/proceedings/2024/0711">IJCAI</a> | <a href="https://arxiv.org/abs/2402.07945">arXiv</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">GitHub</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
   </div>
 </div>
 
