@@ -212,7 +212,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     <b>Jindong Li*</b>, Lianrong Chen*, Bin Yang*, Jiadong Zhu*, Ying Wang, Yuzhe Ma, Menglin Yang+.<br>
     <i> International Conference on Learning Representations (ICLR, CCF-A), 2026.</i><br>
     <a href="https://openreview.net/forum?id=Q5QLu7XTWx&referrer">OpenReview</a> |
-    <a href="https://github.com/digailab/PCB-Bench">GitHub</a>
+    <a href="https://github.com/digailab/PCB-Bench">GitHub</a> |
+    <a href="https://digailab.github.io/PCB-Bench/">Project Page</a>
   </div>
 </div>
 
