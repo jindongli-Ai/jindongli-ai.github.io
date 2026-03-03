@@ -118,34 +118,48 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 ### Published
 
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2023_ECML-PKDD_CVTGAD.png" alt="CVTGAD" width="250">
-  <div>
-    [1] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
-    <b>Jindong Li</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
-    <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
-    <a href="https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11">Springer</a> | <a href="https://arxiv.org/abs/2405.02359">arXiv</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">GitHub</a> 
-  </div>
-</div>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
+  <img src="/images/2026_TPAMI_CLIP-DG-DA-Survey.png" alt="CLIP-DG-DA-Survey" width="250">
   <div>
-    [2] <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
-    Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang+.<br>
-    <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
-    <a href="https://www.ijcai.org/proceedings/2024/0711">IJCAI</a> | <a href="https://arxiv.org/abs/2402.07945">arXiv</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">GitHub</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
+    [1] <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
+    <b>Jindong Li</b>, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang+, Irwin King.<br>
+    <i>Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A, IF=18.6), 2026.</i><br>
+    <a href="https://ieeexplore.ieee.org/document/11342298/authors#authors">IEEE TPAMI</a> |
+    <a href="https://arxiv.org/abs/2504.14280">arXiv</a> | 
+    <a href="https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation">GitHub</a> |
+    <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a> |
+    <img src="https://img.shields.io/github/stars/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=yellow" alt="GitHub Stars" style="vertical-align: middle;">
+    <img src="https://img.shields.io/github/forks/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
 </div>
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
+  <img src="/images/2026_ICLR_PCB-Bench.png" alt="PCB-Bench" width="250">
   <div>
-    [3] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
-    Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+<br>
-    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (J-STAR, JCR Q1), 2025.</i><br>
-    <a href="https://ieeexplore.ieee.org/document/10897814">IEEE</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">GitHub</a> 
+    [2] <b style="color: #0A1624;">PCB-Bench: Benchmarking LLMs for Printed Circuit Board Placement and Routing</b><br>
+    <b>Jindong Li*</b>, Lianrong Chen*, Bin Yang*, Jiadong Zhu*, Ying Wang, Yuzhe Ma, Menglin Yang+.<br>
+    <i> International Conference on Learning Representations (ICLR, CCF-A), 2026.</i><br>
+    <a href="https://openreview.net/forum?id=Q5QLu7XTWx&referrer">OpenReview</a> |
+    <a href="https://github.com/digailab/PCB-Bench">GitHub</a> |
+    <a href="https://digailab.github.io/PCB-Bench/">Project Page</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/LLM-Symbolic-Reasoning-Survey.png" alt="LLM-Symbolic-Reasoning-Survey" width="250">
+  <div>
+    [3] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning
+</b><br>
+    <b>Jindong Li*</b>, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+.<br>
+    <i>AAAI Bridge: Logical and Symbolic Reasoning in Language Models, 2026.</i><br>
+    <a href="https://www.techrxiv.org/users/1002499/articles/1367055-a-survey-on-llm-symbolic-reasoning">TechRxiv</a> | 
+    <a href="https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey">GitHub</a> |
+    <a href="https://mp.weixin.qq.com/s/UXKNw5P88doGXnTTeBkuKw">PaperWeekly</a>
+    <img src="https://img.shields.io/github/stars/jindongli-Ai/LLM-Symbolic-Reasoning-Survey?color=yellow&cacheSeconds=60" alt="GitHub Stars" style="vertical-align: middle;"> 
+    <img src="https://img.shields.io/github/forks/jindongli-Ai/LLM-Symbolic-Reasoning-Survey?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
 </div>
 
@@ -162,9 +176,20 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2023_ECML-PKDD_CVTGAD.png" alt="CVTGAD" width="250">
+  <div>
+    [5] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
+    <b>Jindong Li</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
+    <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD, CCF-B), 2023.</i><br>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11">Springer</a> | <a href="https://arxiv.org/abs/2405.02359">arXiv</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">GitHub</a> 
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_AAAI_CLIPXpert.png" alt="CLIPXpert" width="250">
   <div>
-    [5] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models
+    [6] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models
 </b><br>
     Yongguang Li, <b>Jindong Li</b>, Qi Wang+, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
     <i>Association for the Advancement of Artificial Intelligence Conference (AAAI, CCF-A), 2026.</i><br>
@@ -174,48 +199,27 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/LLM-Symbolic-Reasoning-Survey.png" alt="LLM-Symbolic-Reasoning-Survey" width="250">
+  <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
   <div>
-    [6] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning
-</b><br>
-    <b>Jindong Li*</b>, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+.<br>
-    <i>AAAI Bridge: Logical and Symbolic Reasoning in Language Models, 2026.</i><br>
-    <a href="https://www.techrxiv.org/users/1002499/articles/1367055-a-survey-on-llm-symbolic-reasoning">TechRxiv</a> | 
-    <a href="https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey">GitHub</a> |
-    <a href="https://mp.weixin.qq.com/s/UXKNw5P88doGXnTTeBkuKw">PaperWeekly</a>
-    <img src="https://img.shields.io/github/stars/jindongli-Ai/LLM-Symbolic-Reasoning-Survey?color=yellow&cacheSeconds=60" alt="GitHub Stars" style="vertical-align: middle;"> 
-    <img src="https://img.shields.io/github/forks/jindongli-Ai/LLM-Symbolic-Reasoning-Survey?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
+    [7] <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
+    Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang+.<br>
+    <i>International Joint Conference on Artificial Intelligence (IJCAI, CCF-A), 2024.</i><br>
+    <a href="https://www.ijcai.org/proceedings/2024/0711">IJCAI</a> | <a href="https://arxiv.org/abs/2402.07945">arXiv</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">GitHub</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
   </div>
 </div>
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2026_TPAMI_CLIP-DG-DA-Survey.png" alt="CLIP-DG-DA-Survey" width="250">
+  <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
   <div>
-    [7] <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
-    <b>Jindong Li</b>, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang+, Irwin King.<br>
-    <i>Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A, IF=18.6), 2026.</i><br>
-    <a href="https://ieeexplore.ieee.org/document/11342298/authors#authors">IEEE TPAMI</a> |
-    <a href="https://arxiv.org/abs/2504.14280">arXiv</a> | 
-    <a href="https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation">GitHub</a> |
-    <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a> |
-    <img src="https://img.shields.io/github/stars/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=yellow" alt="GitHub Stars" style="vertical-align: middle;">
-    <img src="https://img.shields.io/github/forks/jindongli-Ai/Survey_on_CLIP-Powered_Domain_Generalization_and_Adaptation?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
+    [8] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
+    Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+<br>
+    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (J-STAR, JCR Q1), 2025.</i><br>
+    <a href="https://ieeexplore.ieee.org/document/10897814">IEEE</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">GitHub</a> 
   </div>
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2026_ICLR_PCB-Bench.png" alt="PCB-Bench" width="250">
-  <div>
-    [8] <b style="color: #0A1624;">PCB-Bench: Benchmarking LLMs for Printed Circuit Board Placement and Routing</b><br>
-    <b>Jindong Li*</b>, Lianrong Chen*, Bin Yang*, Jiadong Zhu*, Ying Wang, Yuzhe Ma, Menglin Yang+.<br>
-    <i> International Conference on Learning Representations (ICLR, CCF-A), 2026.</i><br>
-    <a href="https://openreview.net/forum?id=Q5QLu7XTWx&referrer">OpenReview</a> |
-    <a href="https://github.com/digailab/PCB-Bench">GitHub</a> |
-    <a href="https://digailab.github.io/PCB-Bench/">Project Page</a>
-  </div>
-</div>
 
 
 
