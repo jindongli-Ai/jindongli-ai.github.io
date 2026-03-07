@@ -62,9 +62,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - **M.E. in Computer Science and Technology**
 - Supervisor: Associate Prof. Qi Wang
 - Research Topic: *Graph Data Mining, Unsupervised Learning, LLMs*
--->
-
-<!--
   Academic performance: *avg. score: 85.02*
 -->
 
@@ -74,6 +71,9 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - **B.E. in Commmand**
 - Academic performance: *avg. score: 86.8 &nbsp; rank: 3/98*
 -->
+
+### Jilin University (JLU) &nbsp;&nbsp; *985*
+- **M.E. in Computer Science and Technology**
 
 
 ### National University of Defense Technology (NUDT) &nbsp;&nbsp; *985*
