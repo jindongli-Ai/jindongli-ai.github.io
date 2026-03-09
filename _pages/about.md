@@ -110,13 +110,13 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 ## PAPERS
 
-**1st author:** TPAMI, ICLR, ECML-PKDD (x2), AAAI Bridge
-
-**2nd author:** AAAI, IJCAI, J-STAR
-
 *(\*: co-first author, \+: corresponding author)*
 
 ### Published
+
+**1st author:** TPAMI, ICLR, ECML-PKDD (x2), AAAI Bridge
+
+**2nd author:** AAAI, IJCAI, J-STAR
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
