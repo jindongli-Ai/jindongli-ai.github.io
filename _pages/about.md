@@ -403,7 +403,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 ## WORK EXPERIENCE
 
 ### 1. Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2023.09-2023.12*
-- **Research Intern**
+- **Research Intern (见习研究员)**
 - Mentor: [Bin Wang](https://wangbindl.github.io/) and [Linke Ouyang](https://scholar.google.com/citations?user=rDaVSiAAAAAJ&hl=zh-CN)
 - Topic: Multimodal Large Language Models (MLLMs), Data Engine
 - Responsibilities:
