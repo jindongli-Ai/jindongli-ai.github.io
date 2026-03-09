@@ -114,9 +114,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 ### Published
 
-**1st author:** TPAMI, ICLR, ECML-PKDD (x2), AAAI Bridge
-
-**2nd author:** AAAI, IJCAI, J-STAR
+- **1st author:** TPAMI, ICLR, ECML-PKDD (x2), AAAI Bridge
+- **2nd author:** AAAI, IJCAI, J-STAR
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
