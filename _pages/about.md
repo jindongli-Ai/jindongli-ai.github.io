@@ -72,8 +72,10 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - Academic performance: *avg. score: 86.8 &nbsp; rank: 3/98*
 -->
 
+<!--
 ### Jilin University (JLU) &nbsp;&nbsp; *985*
 - **M.E. in Computer Science and Technology**
+-->
 
 
 ### National University of Defense Technology (NUDT) &nbsp;&nbsp; *985*
