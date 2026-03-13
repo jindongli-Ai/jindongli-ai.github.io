@@ -38,6 +38,14 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - Continual Learning (Lifelong, Incremental Learning)
 
 
+I have publised several papers as follows:
+|                | Journal | Meeting |
+|----------------|--------|--------|
+| **1st author** | TPAMI (×2)<br> Neural Networks | ICLR<br> ECML-PKDD (×2)<br> AAAI Bridge |
+| **2nd author** | J-STAR | AAAI<br> IJCAI |
+
+
+
 
 ## INFORMATION
 - **E-mail**: [jli839@connect.hkust-gz.edu.cn](mailto:jli839@connect.hkust-gz.edu.cn)
