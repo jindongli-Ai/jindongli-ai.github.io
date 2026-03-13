@@ -50,12 +50,12 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   </thead>
   <tbody>
     <tr>
-      <td><strong>1st author</strong></td>
+      <td>1st author</td>
       <td>TPAMI (×2)<br>Neural Networks</td>
       <td>ICLR<br>ECML-PKDD (×2)<br>AAAI Bridge</td>
     </tr>
     <tr>
-      <td><strong>2nd author</strong></td>
+      <td>2nd author</td>
       <td>J-STAR</td>
       <td>AAAI<br>IJCAI</td>
     </tr>
