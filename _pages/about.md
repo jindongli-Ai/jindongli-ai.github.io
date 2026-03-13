@@ -116,7 +116,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 ### Published
 
-- **1st author:** TPAMI, ICLR, ECML-PKDD (x2), AAAI Bridge
+- **1st author:** TPAMI (x2), ICLR, ECML-PKDD (x2), Neural Networks, AAAI Bridge
 - **2nd author:** AAAI, IJCAI, J-STAR
 
 
