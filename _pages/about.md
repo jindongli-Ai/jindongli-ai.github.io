@@ -39,11 +39,29 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 I have publised several papers as follows:
-|                | Journal | Meeting |
-|----------------|--------|--------|
-| **1st author** | TPAMI (×2)<br> Neural Networks | ICLR<br> ECML-PKDD (×2)<br> AAAI Bridge |
-| **2nd author** | J-STAR | AAAI<br> IJCAI |
+<p>I have published several papers as follows:</p>
 
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Journal</th>
+      <th>Meeting</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>1st author</strong></td>
+      <td>TPAMI (×2)<br>Neural Networks</td>
+      <td>ICLR<br>ECML-PKDD (×2)<br>AAAI Bridge</td>
+    </tr>
+    <tr>
+      <td><strong>2nd author</strong></td>
+      <td>J-STAR</td>
+      <td>AAAI<br>IJCAI</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
