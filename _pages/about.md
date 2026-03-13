@@ -38,7 +38,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - Continual Learning (Lifelong, Incremental Learning)
 
 
-<p>I have published several papers as follows:</p>
+<p>I have published several papers as follows (including papers to appear):</p>
 
 <table>
   <thead>
