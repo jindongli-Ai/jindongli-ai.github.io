@@ -59,6 +59,11 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       <td>J-STAR</td>
       <td>AAAI<br>IJCAI</td>
     </tr>
+    <tr>
+      <td>3rd author</td>
+      <td>Expert Systems with Applications (ESWA)</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
