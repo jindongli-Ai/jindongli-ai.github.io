@@ -51,7 +51,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   <tbody>
     <tr>
       <td>1st author</td>
-      <td>TPAMI (×2)<br>Neural Networks</td>
+      <td>TPAMI (×2)<br>Neural Networks (NN)</td>
       <td>ICLR<br>ECML-PKDD (×2)<br>AAAI Bridge</td>
     </tr>
     <tr>
