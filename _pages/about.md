@@ -76,7 +76,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 ## EDUCATION
 
-### Hong Kong University of Science and Technology (HKUST-GZ)
+### The Hong Kong University of Science and Technology (HKUST-GZ)
 - **Ph.D. in Artificial Intelligence**
 - Supervisor: [Assistant Prof. Menglin Yang](https://yangmenglinsite.github.io/)
 
@@ -179,7 +179,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [3] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning
 </b><br>
-    <b>Jindong Li*</b>, Yali Fu*, Yang Yang, Jiahong Liu, Hongce Zhang, Haoxuan Li, Yutao Yue, Mengling Yang+.<br>
+    <b>Jindong Li*</b>, Yali Fu*, Fengxiang Cheng, Yang Yang, Jiahong Liu, Hongce Zhang, Yutao Yue, Mengling Yang+, Haoxuan Li, Liangming Pan, Zhouchen Lin.<br>
     <i>AAAI Bridge: Logical and Symbolic Reasoning in Language Models, 2026.</i><br>
     <a href="https://www.techrxiv.org/users/1002499/articles/1367055-a-survey-on-llm-symbolic-reasoning">TechRxiv</a> | 
     <a href="https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey">GitHub</a> |
