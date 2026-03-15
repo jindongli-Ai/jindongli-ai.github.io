@@ -148,7 +148,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 - **1st author:** TPAMI (x2), ICLR, ECML-PKDD (x2), Neural Networks, AAAI Bridge
 - **2nd author:** AAAI, IJCAI, J-STAR
-- **3rd author** ESWA
+- **3rd author:** ESWA
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_TPAMI_CLIP-DG-DA-Survey.png" alt="CLIP-DG-DA-Survey" width="250">
