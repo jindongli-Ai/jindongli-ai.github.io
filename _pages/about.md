@@ -241,6 +241,17 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/CDBN.png" alt="CDBN" width="250">
+  <div>
+    [10] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
+    Yongguang Li*, Yueqi Cao*, <b>Jindong Li</b>, Qi Wang, Shengsheng Wang+.<br>
+    <i> Expert Systems With Applications (ESWA), 2026</i><br>
+    <a href="https://arxiv.org/abs/2410.15811">arXiv</a> | <a href="https://github.com/ethanAiJLu/CDBN">GitHub</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
   <div>
     [8] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
@@ -368,18 +379,6 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     Rui Cao*, Shijie Xue*, <b>Jindong Li*</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
     <i>arXiv Preprint, 2024.</i><br>
     <a href="https://arxiv.org/abs/2407.00383">arXiv</a> | <a href="https://github.com/Goldenhorns/FANFOLD">GitHub</a>
-  </div>
-</div>
-
-
-
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/CDBN.png" alt="CDBN" width="250">
-  <div>
-    [10] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
-    Yongguang Li*, Yueqi Cao*, <b>Jindong Li</b>, Qi Wang, Shengsheng Wang+.<br>
-    <i>arXiv Preprint, 2024.</i><br>
-    <a href="https://arxiv.org/abs/2410.15811">arXiv</a> | <a href="https://github.com/ethanAiJLu/CDBN">GitHub</a>
   </div>
 </div>
 
