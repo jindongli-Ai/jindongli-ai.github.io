@@ -69,6 +69,47 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Journal</th>
+      <th>Meeting</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1st author</td>
+      <td>
+        <b>TPAMI</b> <span style="font-size:90%;color:#555;">(2026 ×2)</span><br>
+        <b>Neural Networks (NN)</b> <span style="font-size:90%;color:#555;">(2026)</span>
+      </td>
+      <td>
+        <b>ICLR</b> <span style="font-size:90%;color:#555;">(2026)</span><br>
+        <b>ECML-PKDD</b> <span style="font-size:90%;color:#555;">(2023, 2025)</span><br>
+        <b>AAAI Bridge</b> <span style="font-size:90%;color:#555;">(2026)</span>
+      </td>
+    </tr>
+    <tr>
+      <td>2nd author</td>
+      <td>
+        <b>J-STAR</b> <span style="font-size:90%;color:#555;">(2025)</span>
+      </td>
+      <td>
+        <b>AAAI</b> <span style="font-size:90%;color:#555;">(2026)</span><br>
+        <b>IJCAI</b> <span style="font-size:90%;color:#555;">(2024)</span>
+      </td>
+    </tr>
+    <tr>
+      <td>3rd author</td>
+      <td>
+        <b>ESWA</b> <span style="font-size:90%;color:#555;">(2026)</span>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ## INFORMATION
