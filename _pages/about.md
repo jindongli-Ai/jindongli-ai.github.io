@@ -51,17 +51,19 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   <tbody>
     <tr>
       <td>1st author</td>
-      <td>TPAMI (×2)<br>Neural Networks (NN)</td>
-      <td>ICLR<br>ECML-PKDD (×2)<br>AAAI Bridge</td>
+      <td>TPAMI (2026 ×2)<br>Neural Networks(NN) (2026)</td>
+      <td>ICLR (2026)<br>
+        ECML-PKDD (2023, 2025)<br>
+        AAAI Bridge (2026)</td>
     </tr>
     <tr>
       <td>2nd author</td>
-      <td>J-STAR</td>
-      <td>AAAI<br>IJCAI</td>
+      <td>J-STAR (2025)</td>
+      <td>AAAI (2026)<br>IJCAI (2024)</td>
     </tr>
     <tr>
       <td>3rd author</td>
-      <td>ESWA</td>
+      <td>ESWA (2026)</td>
       <td></td>
     </tr>
   </tbody>
