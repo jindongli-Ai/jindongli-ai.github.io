@@ -286,7 +286,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [10] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
     Yongguang Li*, Yueqi Cao*, <b>Jindong Li</b>, Qi Wang, Shengsheng Wang+.<br>
     <i> Expert Systems With Applications (ESWA, CCF-C, CAS Q1 (中科院1区), IF: 7~8), 2026</i><br>
-    <a href="https://arxiv.org/abs/2410.15811">arXiv</a> | <a href="https://github.com/ethanAiJLu/CDBN">GitHub</a>
+    <a href="https://doi.org/10.1016/j.eswa.2026.132075">ESWA</a> | <a href="https://arxiv.org/abs/2410.15811">arXiv</a> | <a href="https://github.com/ethanAiJLu/CDBN">GitHub</a>
   </div>
 </div>
 
