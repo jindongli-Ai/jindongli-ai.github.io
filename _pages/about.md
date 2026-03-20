@@ -296,7 +296,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
   <div>
     [11] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
-    Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+<br>
+    Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+.<br>
     <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (J-STAR, JCR Q1), 2025.</i><br>
     <a href="https://ieeexplore.ieee.org/document/10897814">IEEE</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">GitHub</a> 
   </div>
@@ -308,7 +308,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/2026_WCCI-IJCNN_HyGROVE.png" alt="HyGROVE" width="250">
   <div>
     [12] <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection</b><br>
-    Xiyu Hu, <b>Jindong Li</b>, Yali Fu, Qi Wang+<br>
+    Xiyu Hu, <b>Jindong Li</b>, Yali Fu, Qi Wang+.<br>
     <i>IEEE WCCI (IJCNN). (CCF-C, THU推荐B), 2026.</i><br>
   </div>
 </div>
