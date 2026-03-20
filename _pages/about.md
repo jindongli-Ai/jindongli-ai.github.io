@@ -226,7 +226,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/HC-GLAD.png" alt="HC-GLAD" width="250">
+  <img src="/images/2026_NN_HC-GLAD.png" alt="HC-GLAD" width="250">
   <div>
     [5] <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Jiahong Liu, Qianli Xing, Qi Wang+, Irwin King.<br>
