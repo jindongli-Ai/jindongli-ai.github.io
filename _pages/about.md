@@ -69,7 +69,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       <td>
         <b>AAAI</b> (2026)<br>
         <b>IJCAI</b> (2024)<br>
-        <b>WCCI (IJCNN, 2026)<br>
+        <b>WCCI</b> (IJCNN, 2026)<br>
       </td>
     </tr>
     <tr>
