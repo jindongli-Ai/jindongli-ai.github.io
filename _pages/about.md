@@ -308,7 +308,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/2026_WCCI-IJCNN_HyGROVE.png" alt="HyGROVE" width="250">
   <div>
     [12] <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection</b><br>
-    Xiyu Hu, <b>Jindong Li</b>, Yali Fu, Qi Wang<br>
+    Xiyu Hu, <b>Jindong Li</b>, Yali Fu, Qi Wang+<br>
     <i>IEEE WCCI (IJCNN). (CCF-C, THU推荐B), 2026.</i><br>
   </div>
 </div>
