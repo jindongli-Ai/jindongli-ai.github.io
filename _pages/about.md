@@ -265,7 +265,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 </b><br>
     Yongguang Li, <b>Jindong Li</b>, Qi Wang+, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
     <i>Association for the Advancement of Artificial Intelligence Conference (AAAI, CCF-A), 2026.</i><br>
-    <a href="https://arxiv.org/abs/2504.14224">arXiv</a>
+    <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39495">AAAI</a> | <a href="https://arxiv.org/abs/2504.14224">arXiv</a>
   </div>
 </div>
 
