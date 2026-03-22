@@ -52,13 +52,13 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
     <tr>
       <td>1st author</td>
       <td>
-        <b>TPAMI</b> (2026 ×2)<br>
-        <b>Neural Networks (NN)</b> (2026)
+        <b>TPAMI</b> (CCF-A, IF≈20)  [2026 ×2]<br>
+        <b>Neural Networks</b> (NN, CCF-B)  [2026]
       </td>
       <td>
-        <b>ICLR</b> (2026)<br>
-        <b>ECML-PKDD</b> (2023, 2025)<br>
-        <b>AAAI Bridge</b> (2026)
+        <b>ICLR</b> (CCF-A)  [2026]<br>
+        <b>ECML-PKDD</b> (CCF-B) [2023, 2025]<br>
+        <b>AAAI Bridge</b> [2026]
       </td>
     </tr>
     <tr>
@@ -67,15 +67,15 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <b>J-STAR</b> (2025)
       </td>
       <td>
-        <b>AAAI</b> (2026)<br>
-        <b>IJCAI</b> (2024)<br>
-        <b>WCCI (IJCNN)</b> (2026)<br>
+        <b>AAAI</b> (CCF-A)  [2026]<br>
+        <b>IJCAI</b> (CCF-A) [2024]<br>
+        <b>WCCI (IJCNN)</b> (CCF-C, THU-B) [2026]<br>
       </td>
     </tr>
     <tr>
       <td>3rd author</td>
       <td>
-        <b>ESWA</b> (2026)
+        <b>ESWA</b> (CCF-C, CAS Q1 (中科院1区), IF: 7~8) [2026]
       </td>
       <td></td>
     </tr>
