@@ -182,6 +182,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [1] <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</b><br>
     <b>Jindong Li*</b>, Yali Fu*, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang+, Irwin King, Ming-Hsuan Yang.<br>
     <i>Transactions on Pattern Analysis and Machine Intelligence (TPAMI, CCF-A, IF≈20), 2026.</i><br>
+    <a href="https://ieeexplore.ieee.org/document/11455337">IEEE TPAMI</a> | 
     <a href="https://arxiv.org/abs/2507.22920">arXiv</a> | 
     <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">GitHub</a> |
     <a href="https://mp.weixin.qq.com/s/rDlzbRSEmQqBg-GRP0DTlA">机器之心</a> |
