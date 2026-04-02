@@ -55,37 +55,37 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <b>TPAMI</b> (CCF-A, IF≈20)  
         <span style="color:#FF6969;">[2026 ×2]</span><br>
         <b>Neural Networks</b> (NN, CCF-B)  
-        <span style="color:#1f77b4;">[2026]</span>
+        <span style="color:#FF6969;">[2026]</span>
       </td>
       <td>
         <b>ICLR</b> (CCF-A)  
-        <span style="color:#1f77b4;">[2026]</span><br>
+        <span style="color:#FF6969;">[2026]</span><br>
         <b>ECML-PKDD</b> (CCF-B) 
-        <span style="color:#1f77b4;">[2023, 2025]</span><br>
+        <span style="color:#FF6969;">[2023, 2025]</span><br>
         <b>AAAI Bridge</b> 
-        <span style="color:#1f77b4;">[2026]</span>
+        <span style="color:#FF6969;">[2026]</span>
       </td>
     </tr>
     <tr>
       <td>2nd author</td>
       <td>
         <b>J-STAR</b> (JCR Q1) 
-        <span style="color:#1f77b4;">[2025]</span>
+        <span style="color:#FF6969;">[2025]</span>
       </td>
       <td>
         <b>AAAI</b> (CCF-A)  
-        <span style="color:#1f77b4;">[2026]</span><br>
+        <span style="color:#FF6969;">[2026]</span><br>
         <b>IJCAI</b> (CCF-A) 
-        <span style="color:#1f77b4;">[2024]</span><br>
+        <span style="color:#FF6969;">[2024]</span><br>
         <b>WCCI (IJCNN)</b> (CCF-C, THU-B) 
-        <span style="color:#1f77b4;">[2026]</span><br>
+        <span style="color:#FF6969;">[2026]</span><br>
       </td>
     </tr>
     <tr>
       <td>3rd author</td>
       <td>
         <b>ESWA</b> (CCF-C, CAS Q1 (中科院1区), IF: 7~8) 
-        <span style="color:#1f77b4;">[2026]</span>
+        <span style="color:#FF6969;">[2026]</span>
       </td>
       <td></td>
     </tr>
