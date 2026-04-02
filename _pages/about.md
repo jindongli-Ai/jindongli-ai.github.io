@@ -53,7 +53,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       <td>1st author</td>
       <td>
         <b>TPAMI</b> (CCF-A, IF≈20)  
-        <span style="color:#1FF9999;">[2026 ×2]</span><br>
+        <span style="color:#FF9999;">[2026 ×2]</span><br>
         <b>Neural Networks</b> (NN, CCF-B)  
         <span style="color:#1f77b4;">[2026]</span>
       </td>
