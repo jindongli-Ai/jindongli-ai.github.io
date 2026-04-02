@@ -181,7 +181,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [1] <b style="color: #0A1624;">Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</b><br>
     <b>Jindong Li*</b>, Yali Fu*, Jiahong Liu, Linxiao Cao, Wei Ji, Menglin Yang+, Irwin King, Ming-Hsuan Yang.<br>
-    <i>Transactions on Pattern Analysis and Machine Intelligence (<span style="color:#FF9999;">TPAMI, CCF-A, IF≈20</span>), 2026.</i><br>
+    <i>Transactions on Pattern Analysis and Machine Intelligence (<span style="color:#FF8686;">TPAMI, CCF-A, IF≈20</span>), 2026.</i><br>
     <a href="https://ieeexplore.ieee.org/document/11455337">IEEE TPAMI</a> | 
     <a href="https://arxiv.org/abs/2507.22920">arXiv</a> | 
     <a href="https://github.com/jindongli-Ai/LLM-Discrete-Tokenization-Survey">GitHub</a> |
@@ -196,7 +196,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [2] <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
     <b>Jindong Li</b>, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang+, Irwin King.<br>
-    <i>Transactions on Pattern Analysis and Machine Intelligence (<span style="color:#FF9999;">TPAMI, CCF-A, IF≈20</span>), 2026.</i><br>
+    <i>Transactions on Pattern Analysis and Machine Intelligence (<span style="color:#FF8686;">TPAMI, CCF-A, IF≈20</span>), 2026.</i><br>
     <a href="https://ieeexplore.ieee.org/document/11342298/authors#authors">IEEE TPAMI</a> |
     <a href="https://arxiv.org/abs/2504.14280">arXiv</a> | 
     <a href="https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation">GitHub</a> |
@@ -212,7 +212,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [3] <b style="color: #0A1624;">PCB-Bench: Benchmarking LLMs for Printed Circuit Board Placement and Routing</b><br>
     <b>Jindong Li*</b>, Lianrong Chen*, Bin Yang*, Jiadong Zhu*, Ying Wang, Yuzhe Ma, Menglin Yang+.<br>
-    <i> International Conference on Learning Representations (<span style="color:#FF9999;">ICLR, CCF-A</span>), 2026.</i><br>
+    <i> International Conference on Learning Representations (<span style="color:#FF8686;">ICLR, CCF-A</span>), 2026.</i><br>
     <a href="https://openreview.net/forum?id=Q5QLu7XTWx&referrer">OpenReview</a> |
     <a href="https://github.com/digailab/PCB-Bench">GitHub</a> |
     <a href="https://digailab.github.io/PCB-Bench/">Project Page</a>
@@ -226,7 +226,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [4] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning
 </b><br>
     <b>Jindong Li*</b>, Yali Fu*, Fengxiang Cheng, Yang Yang, Jiahong Liu, Hongce Zhang, Yutao Yue, Mengling Yang+, Haoxuan Li, Liangming Pan, Zhouchen Lin.<br>
-    <i><span style="color:#FF9999;">AAAI Bridge</span>: Logical and Symbolic Reasoning in Language Models, 2026.</i><br>
+    <i><span style="color:#FF8686;">AAAI Bridge</span>: Logical and Symbolic Reasoning in Language Models, 2026.</i><br>
     <a href="https://openreview.net/forum?id=L3zwjjdI1x">OpenReview</a>
     <a href="https://www.techrxiv.org/users/1002499/articles/1367055-a-survey-on-llm-symbolic-reasoning">TechRxiv</a> | 
     <a href="https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey">GitHub</a> |
@@ -253,7 +253,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [6] <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Qi Wang+, Qianli Xing.<br>
-    <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<span style="color:#FF9999;">ECML PKDD, CCF-B</span>), 2025.</i><br>
+    <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<span style="color:#FF8686;">ECML PKDD, CCF-B</span>), 2025.</i><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-032-05962-8_3">Springer</a> | <a href="https://arxiv.org/abs/2503.17903">arXiv</a> | <a href="https://github.com/Yali-F/GLADMamba">GitHub</a>
   </div>
 </div>
@@ -264,7 +264,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [7] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
     <b>Jindong Li</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
-    <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<span style="color:#FF9999;">ECML PKDD, CCF-B</span>), 2023.</i><br>
+    <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<span style="color:#FF8686;">ECML PKDD, CCF-B</span>), 2023.</i><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11">Springer</a> | <a href="https://arxiv.org/abs/2405.02359">arXiv</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">GitHub</a> 
   </div>
 </div>
@@ -276,7 +276,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [8] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models
 </b><br>
     Yongguang Li, <b>Jindong Li</b>, Qi Wang+, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
-    <i>Association for the Advancement of Artificial Intelligence Conference (<span style="color:#FF9999;">AAAI, CCF-A</span>), 2026.</i><br>
+    <i>Association for the Advancement of Artificial Intelligence Conference (<span style="color:#FF8686;">AAAI, CCF-A</span>), 2026.</i><br>
     <a href="https://ojs.aaai.org/index.php/AAAI/article/view/39495">AAAI</a> | <a href="https://arxiv.org/abs/2504.14224">arXiv</a>
   </div>
 </div>
@@ -287,7 +287,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [9] <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang+.<br>
-    <i>International Joint Conference on Artificial Intelligence (<span style="color:#FF9999;">IJCAI, CCF-A</span>), 2024.</i><br>
+    <i>International Joint Conference on Artificial Intelligence (<span style="color:#FF8686;">IJCAI, CCF-A</span>), 2024.</i><br>
     <a href="https://www.ijcai.org/proceedings/2024/0711">IJCAI</a> | <a href="https://arxiv.org/abs/2402.07945">arXiv</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">GitHub</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
   </div>
 </div>
@@ -298,7 +298,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [10] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
     Yongguang Li*, Yueqi Cao*, <b>Jindong Li</b>, Qi Wang, Shengsheng Wang+.<br>
-    <i> Expert Systems With Applications (<span style="color:#FF9999;">ESWA, CCF-C, CAS Q1 (中科院1区), IF: 7~8</span>), 2026</i><br>
+    <i> Expert Systems With Applications (<span style="color:#FF8686;">ESWA, CCF-C, CAS Q1 (中科院1区), IF: 7~8</span>), 2026</i><br>
     <a href="https://doi.org/10.1016/j.eswa.2026.132075">ESWA</a> | <a href="https://arxiv.org/abs/2410.15811">arXiv</a> | <a href="https://github.com/ethanAiJLu/CDBN">GitHub</a>
   </div>
 </div>
@@ -309,7 +309,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [11] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
     Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+.<br>
-    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (<span style="color:#FF9999;">J-STAR, JCR Q1</span>), 2025.</i><br>
+    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (<span style="color:#FF8686;">J-STAR, JCR Q1</span>), 2025.</i><br>
     <a href="https://ieeexplore.ieee.org/document/10897814">IEEE</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">GitHub</a> 
   </div>
 </div>
@@ -321,7 +321,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [12] <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection</b><br>
     Xiyu Hu, <b>Jindong Li</b>, Yali Fu, Qi Wang+.<br>
-    <i>IEEE WCCI (IJCNN). (<span style="color:#FF9999;">IJCNN, CCF-C, THU推荐B</span>), 2026.</i><br>
+    <i>IEEE WCCI (IJCNN). (<span style="color:#FF8686;">IJCNN, CCF-C, THU推荐B</span>), 2026.</i><br>
   </div>
 </div>
 
