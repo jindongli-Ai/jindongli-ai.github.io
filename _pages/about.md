@@ -77,7 +77,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <span style="color:#FF6969;">[2026]</span><br>
         <b>IJCAI</b> (CCF-A) 
         <span style="color:#FF6969;">[2024]</span><br>
-        <b>WCCI (IJCNN)</b> (CCF-C, THU-B) 
+        <b>WCCI (IJCNN)</b> (CCF-C, THCPL-B) 
         <span style="color:#FF6969;">[2026]</span><br>
       </td>
     </tr>
@@ -321,7 +321,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [12] <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection</b><br>
     Xiyu Hu, <b>Jindong Li</b>, Yali Fu, Qi Wang+.<br>
-    <i>IEEE WCCI (IJCNN). (<span style="color:#FF8686;">IJCNN, CCF-C, THU推荐B</span>), 2026.</i><br>
+    <i>IEEE WCCI (IJCNN). (<span style="color:#FF8686;">IJCNN, CCF-C, THCPL-B</span>), 2026.</i><br>
   </div>
 </div>
 
