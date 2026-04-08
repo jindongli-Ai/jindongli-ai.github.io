@@ -17,6 +17,9 @@ I obtained a Bachelor's degree from NUDT.
 -->
 
 
+<font color="#FFA500">I am currently seeking an industry research internship with a primary focus on producing high-quality academic publications. （寻找企业科研实习，以产出论文为导向。）</font>
+
+
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs) ***<font color="#FFA500">(Seeking Collaborators)</font>***
   -  LLM Agent, Multi-Agent
