@@ -414,7 +414,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/CANNON.png" alt="CANNON" width="250">
   <div>
     [6] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
-    <b>Jindong Li</b>, Yixin Liu, Qianli Xing, Qi Wang+.<br>
+    <b>Jindong Li</b>, Yixin Liu, Qianli Xing, Qi Wang+, Shirui Pan.<br>
     <i>SSRN Preprint, 2023.</i><br>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">SSRN</a> | <a href="https://github.com/jindongli-Ai/CANNON">GitHub</a>
   </div>
