@@ -503,7 +503,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 | 1  | NUDT Intelligent Automobile Race | First Prize (1st place) |  |
 | 2  | Hunan Province Intelligent Automobile Race of College Students | Second Prize |  |
 | 3  | NUDT Electronic Design Competition Quadcopter Autonomous Aircraft Group | Third Prize (2nd place) |  |
-| 4  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (2nd place) |  |
+| 4  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (2nd place) | 2022 |
 | 5  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (11th place) | 2022 |
 | 6  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, Second Prize (5th place) | 2023 |
 | 7  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (3rd place) | 2024 |
