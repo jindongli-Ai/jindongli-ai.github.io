@@ -62,6 +62,8 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       <td>
         <b>ICLR</b> (CCF-A)  
         <span style="color:#FF6969;">[2026]</span><br>
+        <b>ACL (main conference)</b> (CCF-A)  
+        <span style="color:#FF6969;">[2026]</span><br>
         <b>ECML-PKDD</b> (CCF-B) 
         <span style="color:#FF6969;">[2023, 2025]</span><br>
         <b>AAAI Bridge</b> 
@@ -75,8 +77,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <span style="color:#FF6969;">[2025]</span>
       </td>
       <td>
-        <b>ACL (main conference)</b> (CCF-A)  
-        <span style="color:#FF6969;">[2026]</span><br>
         <b>AAAI</b> (CCF-A)  
         <span style="color:#FF6969;">[2026]</span><br>
         <b>IJCAI</b> (CCF-A) 
