@@ -246,7 +246,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/2026_ACL_HeLa-Mem.png" alt="HeLa-Mem" width="250">
   <div>
     [5] <b style="color: #0A1624;">HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents</b><br>
-    Jinchang Zhu, <b>Jindong Li</b>, Cheng Zhang, Jiahong Liu, Menglin Yang+.<br>
+    Jinchang Zhu*, <b>Jindong Li*</b>, Cheng Zhang*, Jiahong Liu, Menglin Yang+.<br>
     <i>The 64th Annual Meeting of the Association for Computational Linguistics (<span style="color:#FF8686;">ACL (main conference), CCF-A</span>), 2026.</i><br>
   </div>
 </div>
