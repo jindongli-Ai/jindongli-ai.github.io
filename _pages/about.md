@@ -11,7 +11,7 @@ redirect_from:
 I obtained a Master's degree in Computer Science and Technology from the School of Artificial Intelligence at JLU, and
 -->
 
-Hello! I am currently a Ph.D. student at AI Thrust, The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/)), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/). 
+Hello! I am currently a Ph.D. student at AI Thrust, The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/)), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/) (海外优青). 
 <!--
 I obtained a Bachelor's degree from NUDT.
 -->
