@@ -21,12 +21,11 @@ I obtained a Bachelor's degree from NUDT.
 <br>
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs) ***<font color="#FFA500">(Seeking Collaborators)</font>***
+  -  Memory
+  -  Reasoning (Implicit Reasoning, Symbolic Reasoning)
+  -  Personalization
   -  LLM Agent, Multi-Agent
   -  RAG, GraphRAG
-  -  LLM Implicit Reasoning
-  -  LLM Symbolic Reasoning
-  -  Memory
-  -  Personalization
   -  Safety (Jailbreak)
   -  others
 - Multimodal Learning (MM), Vision-Language model (VLM)
