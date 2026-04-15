@@ -290,7 +290,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <div>
     [9] <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Jiahong Liu, Qianli Xing, Qi Wang+, Irwin King.<br>
-    <i>Neural Networks ((<span style="color:#FF8686;">NN, CCF-B</span>), 2026.</i><br>
+    <i>Neural Networks (<span style="color:#FF8686;">NN, CCF-B</span>), 2026.</i><br>
     <a href="https://arxiv.org/abs/2407.02057">arXiv</a> | <a href="https://github.com/Yali-F/HC-GLAD">GitHub</a>
   </div>
 </div>
