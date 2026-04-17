@@ -217,6 +217,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
     [3] <b style="color: #0A1624;">PCB-Bench: Benchmarking LLMs for Printed Circuit Board Placement and Routing</b><br>
     <b>Jindong Li*</b>, Lianrong Chen*, Bin Yang*, Jiadong Zhu*, Ying Wang, Yuzhe Ma, Menglin Yang+.<br>
     <i> International Conference on Learning Representations (<span style="color:#FF8686;">ICLR, CCF-A</span>), 2026.</i><br>
+    <a hrer="https://iclr.cc/virtual/2026/poster/10009621">ICLR</a> |
     <a href="https://openreview.net/forum?id=Q5QLu7XTWx&referrer">OpenReview</a> |
     <a href="https://github.com/digailab/PCB-Bench">GitHub</a> |
     <a href="https://digailab.github.io/PCB-Bench/">Project Page</a>
