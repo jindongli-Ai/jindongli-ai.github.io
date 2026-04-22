@@ -46,7 +46,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
     <tr>
       <th></th>
       <th>Journal</th>
-      <th>Meeting</th>
+      <th>Conference</th>
     </tr>
   </thead>
   <tbody>
