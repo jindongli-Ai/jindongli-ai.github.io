@@ -70,7 +70,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <span style="color:#FF6969;">[2026]</span>
       </td>
       <td>
-        <b>arXiv</b> [x5]
+        arXiv [x5]
       </td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <span style="color:#FF6969;">[2026]</span><br>
       </td>
       <td>
-        <b>arXiv</b> [x2]
+        arXiv [x2]
       </td>
     </tr>
     <tr>
@@ -99,7 +99,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       </td>
       <td></td>
       <td>
-        <b>arXiv</b> [x2]
+        arXiv [x2]
       </td>
     </tr>
   </tbody>
