@@ -47,6 +47,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       <th></th>
       <th>Journal</th>
       <th>Conference</th>
+      <th>Preprint</th>
     </tr>
   </thead>
   <tbody>
@@ -68,6 +69,9 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <b>AAAI Bridge</b> 
         <span style="color:#FF6969;">[2026]</span>
       </td>
+      <td>
+        <b>arXiv</b> [x5]
+      </td>
     </tr>
     <tr>
       <td>2nd author</td>
@@ -83,6 +87,9 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <b>WCCI (IJCNN)</b> (CCF-C, THCPL-B) 
         <span style="color:#FF6969;">[2026]</span><br>
       </td>
+      <td>
+        <b>arXiv</b> [x2]
+      </td>
     </tr>
     <tr>
       <td>3rd author</td>
@@ -91,6 +98,9 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <span style="color:#FF6969;">[2026]</span>
       </td>
       <td></td>
+      <td>
+        <b>arXiv</b> [x2]
+      </td>
     </tr>
   </tbody>
 </table>
@@ -437,7 +447,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
   <img src="/images/DIPR.png" alt="DIPR" width="250">
   <div>
     [8] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
-    Yang Ai, <b>Jindong Li</b>, Qiang Bai, Xi Yang+.<br>
+    Yang Ai, Qiang Bai, , <b>Jindong Li</b>, Xi Yang+.<br>
     <i>arXiv Preprint, 2023.</i><br>
     <a href="https://arxiv.org/abs/2312.02877v2">arXiv</a> | <a href="https://github.com/Ruye-aa/DIPR">GitHub</a>
   </div>
