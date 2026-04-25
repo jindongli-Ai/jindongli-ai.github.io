@@ -11,7 +11,7 @@ redirect_from:
 I obtained a Master's degree in Computer Science and Technology from the School of Artificial Intelligence at JLU, and
 -->
 
-Hello! I am currently a Ph.D. student at AI Thrust, The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/)), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/) (海外优青). 
+Hello! I am currently a Ph.D. student at AI Thrust, The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/)), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/) (海优). 
 <!--
 I obtained a Bachelor's degree from NUDT.
 -->
@@ -110,7 +110,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 ## INFORMATION
 - **E-mail**: [jli839@connect.hkust-gz.edu.cn](mailto:jli839@connect.hkust-gz.edu.cn)
 - **WeChat**: alwaysbeakindperson &nbsp;&nbsp;*(means: always be a kind person)*
-- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#FFA500">308</font>
+- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#FFA500">316</font>
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jindongli-Ai)
 
 
