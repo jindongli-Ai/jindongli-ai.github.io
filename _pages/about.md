@@ -555,7 +555,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 ## SKILLS
 
 - **Language**: IELTS Overall Band Score 6.5 (Listening: 6.0, Reading: 7.0, Writing: 6.0, Speaking: 6.5) &nbsp;&nbsp;&nbsp; *2023.11*
-- **Programming Languages**: Proficient in Python, C++, Java. Also experienced with C, Go, MySQL.
+- **Programming Languages**: Python. Also experienced with C++, Java, C, Go, MySQL.
 - **Deep Learning Tools**: PyTorch, TensorFlow
 
 
