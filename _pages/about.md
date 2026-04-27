@@ -242,7 +242,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 </b><br>
     <b>Jindong Li*</b>, Yali Fu*, Fengxiang Cheng, Yang Yang, Jiahong Liu, Hongce Zhang, Yutao Yue, Mengling Yang+, Haoxuan Li, Liangming Pan, Zhouchen Lin.<br>
     <i><span style="color:#FF8686;">AAAI Bridge</span>: Logical and Symbolic Reasoning in Language Models, 2026.</i><br>
-    <a href="https://openreview.net/forum?id=L3zwjjdI1x">OpenReview</a>
+    <a href="https://openreview.net/forum?id=L3zwjjdI1x">OpenReview</a> |
     <a href="https://www.techrxiv.org/users/1002499/articles/1367055-a-survey-on-llm-symbolic-reasoning">TechRxiv</a> | 
     <a href="https://github.com/jindongli-Ai/LLM-Symbolic-Reasoning-Survey">GitHub</a> |
     <a href="https://mp.weixin.qq.com/s/UXKNw5P88doGXnTTeBkuKw">PaperWeekly</a>
