@@ -169,9 +169,9 @@ Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](http
 NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe) | CSDN: [HomePage](https://blog.csdn.net/weixin_46645827?spm=1000.2115.3001.5343)
 -->
 
-Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](https://leetcode.cn/u/xinghe_xinghe/) | LeetCode2: [HomePage](https://leetcode.cn/u/hanxin_hanxin/) | Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/)
----|---|---|---
-NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe)
+Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](https://leetcode.cn/u/xinghe_xinghe/) | LeetCode2: [HomePage](https://leetcode.cn/u/hanxin_hanxin/) 
+---|---|---
+Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe)
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/kaggle.png" alt="Kaggle" width="50%">
