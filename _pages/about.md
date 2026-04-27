@@ -99,7 +99,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       </td>
       <td></td>
       <td>
-        arXiv [x2]
+        arXiv [x3]
       </td>
     </tr>
   </tbody>
@@ -358,7 +358,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/LLM-Implicit-Reasoning-Survey.png" alt="LLM-Implicit-Reasoning-Survey" width="250">
+  <img src="/images/2025_arXiv_LLM-Implicit-Reasoning-Survey.png" alt="LLM-Implicit-Reasoning-Survey" width="250">
   <div>
     [1] <b style="color: #0A1624;">Implicit Reasoning in Large Language Models: A Comprehensive Survey</b><br>
     <b>Jindong Li*</b>, Yali Fu*, Li Fan, Jiahong Liu, Yao Shu, Chengwei Qin, Menglin Yang+, Irwin King, Rex Ying.<br>
@@ -372,9 +372,8 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 </div>
 
 
-
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/LLM-RecSys-Survey.png" alt="LLM-RecSys-Survey" width="250">
+  <img src="/images/2024_arXiv_LLM-RecSys-Survey.png" alt="LLM-RecSys-Survey" width="250">
   <div>
     [2] <b style="color: #0A1624;">Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond</b><br>
     Qi Wang*+, <b>Jindong Li*</b>, Shiqi Wang, Qianli Xing, Runliang Niu, He Kong, Rui Li, Guodong Long, Yi Chang, Chengqi Zhang.<br>
@@ -389,9 +388,20 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/HyperbolicRAG.png" alt="HyperbolicRAG" width="250">
+  <img src="/images/2026_arXiv_TurboEvolve.png" alt="TurboEvolve" width="250">
   <div>
-    [3] <b style="color: #0A1624;">HyperbolicRAG: Enhancing Retrieval-Augmented Generation with Hyperbolic Representations</b><br>
+    [3] <b style="color: #0A1624;">TurboEvolve: Towards Fast and Robust LLM-Driven Program Evolution</b><br>
+    Yang Yang*, Zining Zhong*, <b>Jindong Li</b>, Jiemin Wu, Kaishen Yuan, Wenshuo Chen, Menglin Yang, Yutao Yue+.<br>
+    <i>arXiv Preprint, 2026.</i><br>
+    <a href="https://arxiv.org/abs/2604.18607">arXiv</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2025_arXiv_HyperbolicRAG.png" alt="HyperbolicRAG" width="250">
+  <div>
+    [4] <b style="color: #0A1624;">HyperbolicRAG: Enhancing Retrieval-Augmented Generation with Hyperbolic Representations</b><br>
     Linxiao Cao, Ruitao Wang, <b>Jindong Li</b>, Zhipeng Zhou, Menglin Yang+.<br>
     <i>arXiv Preprint, 2025.</i><br>
     <a href="https://arxiv.org/abs/2511.18808">arXiv</a>
@@ -400,9 +410,9 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/AL-GNN.png" alt="AL-GNN" width="250">
+  <img src="/images/2025_arXiv_AL-GNN.png" alt="AL-GNN" width="250">
   <div>
-    [4] <b style="color: #0A1624;">AL-GNN: Privacy-Preserving and Replay-Free Continual Graph Learning via Analytic Learning</b><br>
+    [5] <b style="color: #0A1624;">AL-GNN: Privacy-Preserving and Replay-Free Continual Graph Learning via Analytic Learning</b><br>
     Xuling Zhang, <b>Jindong Li</b>, Yifei Zhang, Menglin Yang+.<br>
     <i>arXiv Preprint, 2025.</i><br>
     <a href="https://arxiv.org/abs/2512.18295">arXiv</a>
@@ -411,9 +421,9 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/Cogito.png" alt="Cogito" width="250">
+  <img src="/images/2025_arXiv_Cogito.png" alt="Cogito" width="250">
   <div>
-    [5] <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
+    [6] <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
     Yanlong Li, <b>Jindong Li</b>, Qi Wang+, Menglin Yang, He Kong, Shengsheng Wang.<br>
     <i>arXiv Preprint, 2025.</i><br>
     <a href="https://arxiv.org/abs/2501.18653">arXiv</a> | <a href="https://github.com/doc0318/Cogito">GitHub</a> | <a href="https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html">TechXplore</a>
@@ -422,9 +432,9 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/CANNON.png" alt="CANNON" width="250">
+  <img src="/images/2023_SSRN_CANNON.png" alt="CANNON" width="250">
   <div>
-    [6] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
+    [7] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
     <b>Jindong Li</b>, Yixin Liu, Qianli Xing, Qi Wang+, Shirui Pan.<br>
     <i>SSRN Preprint, 2023.</i><br>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">SSRN</a> | <a href="https://github.com/jindongli-Ai/CANNON">GitHub</a>
@@ -433,9 +443,9 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/FANFOLD.png" alt="FANFOLD" width="250">
+  <img src="/images/2024_arXiv_FANFOLD.png" alt="FANFOLD" width="250">
   <div>
-    [7] <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [8] <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
     Rui Cao*, Shijie Xue*, <b>Jindong Li*</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
     <i>arXiv Preprint, 2024.</i><br>
     <a href="https://arxiv.org/abs/2407.00383">arXiv</a> | <a href="https://github.com/Goldenhorns/FANFOLD">GitHub</a>
@@ -444,9 +454,9 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/DIPR.png" alt="DIPR" width="250">
+  <img src="/images/2023_arXiv_DIPR.png" alt="DIPR" width="250">
   <div>
-    [8] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
+    [9] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
     Yang Ai, Qiang Bai, , <b>Jindong Li</b>, Xi Yang+.<br>
     <i>arXiv Preprint, 2023.</i><br>
     <a href="https://arxiv.org/abs/2312.02877v2">arXiv</a> | <a href="https://github.com/Ruye-aa/DIPR">GitHub</a>
@@ -461,19 +471,6 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 -->
 
 
-<!--
-### In Preparation
-
-
-
-<!--
-[1] **A Multimodal Benchmark for PCB Placement and Routing.** <br>
-**Jindong Li**, Lianrong Chen, Bin Yang, Jiadong Zhu, Ying Wang, Yuzhe Ma, Mengling Yang+*. 
--->
-
-<!-- [2] **Jindong Li+**, Xiyu Hu+, Qi Wang\*. HyGROVE: HyperFormer and Generative-Contrastive Learning for Unsupervised Graph-Level Anomaly Detection. -->
-   
-
 
 ## Academic Service
 - Reviewer, International Conference on Learning Representations (ICLR, CCF-A)
@@ -483,11 +480,6 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 - Reviewer, International World Wide Web Conference (WWW, CCF-A)
 - Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD, CCF-A)
 - Reviewer, Pattern Recognition (PR, CCF-B)
-
-<!--
-- Reviewer, IEEE Transactions on Audio, Speech and Language Processing (TASLP, CCF-B, THU-A)
--->
-
 
 
 
