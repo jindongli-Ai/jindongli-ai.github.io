@@ -237,7 +237,7 @@ NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [Ho
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/LLM-Symbolic-Reasoning-Survey.png" alt="LLM-Symbolic-Reasoning-Survey" width="250">
+  <img src="/images/2026_AAAI-Bridge_LLM-Symbolic-Reasoning-Survey.png" alt="LLM-Symbolic-Reasoning-Survey" width="250">
   <div>
     [4] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning
 </b><br>
