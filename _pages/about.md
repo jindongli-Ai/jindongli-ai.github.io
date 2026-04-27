@@ -507,11 +507,11 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 | 1  | NUDT Intelligent Automobile Race | First Prize (1st place) |  |
 | 2  | Hunan Province Intelligent Automobile Race of College Students | Second Prize |  |
 | 3  | NUDT Electronic Design Competition Quadcopter Autonomous Aircraft Group | Third Prize (2nd place) |  |
-| 4  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (2nd place) | 2022 |
-| 5  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (11th place) | 2022 |
-| 6  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, Second Prize (5th place) | 2023 |
-| 7  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (3rd place) | 2024 |
-| 8  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (17th place) | 2024 |
+| 4  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (2nd place) (省一，第2名) | 2022 |
+| 5  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (11th place) (国二，第11名) | 2022 |
+| 6  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, Second Prize (5th place) (省一，第5名) | 2023 |
+| 7  | “LanQiao Cup” Programming Competition Graduate Group | Jilin, First Prize (3rd place) (省一，第3名) | 2024 |
+| 8  | “LanQiao Cup” Programming Competition Graduate Group | National Finals, Second Prize (17th place) (国二，第17名) | 2024 |
 | 9  | Kaggle | 1 Silver Medal, 3 Bronze Medals |  |
 | 10 | LeetCode | Contest Rating top 1% |  |
 
@@ -522,6 +522,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
 </div>
 
 
+<!--
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
   <img src="/images/蓝桥杯省一2022.jpg" alt="蓝桥杯省一2022" width="20%">
   <img src="/images/蓝桥杯国二2022.jpg" alt="蓝桥杯国二2022" width="20%">
@@ -529,7 +530,7 @@ Rui Cao, **Jindong Li\***, He Kong, Qi Wang, Yi Chang. <br>
   <img src="/images/蓝桥杯省一2024.jpg" alt="蓝桥杯省一2024" width="20%">
   <img src="/images/蓝桥杯国二2024.jpg" alt="蓝桥杯国二2024" width="20%">
 </div>
-
+-->
 
 
 
