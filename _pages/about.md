@@ -24,6 +24,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   -  Memory
   -  Reasoning (Implicit Reasoning, Symbolic Reasoning)
   -  Personalization
+  -  Self-Evolving
   -  LLM Agent, Multi-Agent
   -  RAG, GraphRAG
   -  Safety (Jailbreak)
