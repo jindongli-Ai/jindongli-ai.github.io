@@ -395,6 +395,17 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2026_arXiv_SRTJ.png" alt="SRTJ" width="250">
+  <div>
+    [3] <b style="color: #0A1624;">SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking</b><br>
+    <b>Jindong Li*</b>, Ying Liu*, Yali Fu, Jinjing Zhu, Leyao Wang, Menglin Yang+, Rex Ying.<br>
+    <i>arXiv Preprint, 2026.</i><br>
+    <a href="https://arxiv.org/abs/2605.00974">arXiv</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_TurboEvolve.png" alt="TurboEvolve" width="250">
   <div>
     [3] <b style="color: #0A1624;">TurboEvolve: Towards Fast and Robust LLM-Driven Program Evolution</b><br>
