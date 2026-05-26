@@ -271,6 +271,16 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
   </div>
 </div>
 
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2026_arXiv_SRTJ.png" alt="SRTJ" width="250">
+  <div>
+    [3] <b style="color: #0A1624;">SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking</b><br>
+    <b>Jindong Li*</b>, Ying Liu*, Yali Fu, Jinjing Zhu, Leyao Wang, Menglin Yang+, Rex Ying.<br>
+    <i>ICML Workshop, 2026.</i><br>
+    <a href="https://openreview.net/forum?id=iJ8t5nWrOM">OpenReview</a> | <a href="https://arxiv.org/abs/2605.00974">arXiv</a> | <a href="https://github.com/TheSolkatt/SRTJ">GitHub</a>
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
@@ -392,17 +402,6 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     <a href="https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA">机器学习与推荐算法</a> |
     <img src="https://img.shields.io/github/stars/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
     <img src="https://img.shields.io/github/forks/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2026_arXiv_SRTJ.png" alt="SRTJ" width="250">
-  <div>
-    [3] <b style="color: #0A1624;">SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking</b><br>
-    <b>Jindong Li*</b>, Ying Liu*, Yali Fu, Jinjing Zhu, Leyao Wang, Menglin Yang+, Rex Ying.<br>
-    <i>arXiv Preprint, 2026.</i><br>
-    <a href="https://arxiv.org/abs/2605.00974">arXiv</a>
   </div>
 </div>
 
