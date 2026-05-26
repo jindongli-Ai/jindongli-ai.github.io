@@ -407,6 +407,17 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2026_arXiv_CoSPlay.png" alt="TurboEvolve" width="250">
+  <div>
+    [3] <b style="color: #0A1624;">CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test</b><br>
+    Zhangyi Hu*, Chenhui Liu*, Tian Huang*, <b>Jindong Li</b>, Yang Yang, Jiemin Wu, Zining Zhong, Menglin Yang, Yutao Yue+.<br>
+    <i>arXiv Preprint, 2026.</i><br>
+    <a href="https://arxiv.org/abs/2605.23491">arXiv</a> | <a href="https://github.com/sanae-ai/CoSPlay">GitHub</a> | <a href="https://huggingface.co/datasets/yomi017/CosPlay">HuggingFace</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_TurboEvolve.png" alt="TurboEvolve" width="250">
   <div>
     [4] <b style="color: #0A1624;">TurboEvolve: Towards Fast and Robust LLM-Driven Program Evolution</b><br>
