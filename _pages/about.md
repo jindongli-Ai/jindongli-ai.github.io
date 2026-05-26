@@ -276,7 +276,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
   <div>
     [6] <b style="color: #0A1624;">SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking</b><br>
     <b>Jindong Li*</b>, Ying Liu*, Yali Fu, Jinjing Zhu, Leyao Wang, Menglin Yang+, Rex Ying.<br>
-    <i>ICML Workshop, 2026.</i><br>
+    <i><span style="color:#FF8686;">ICML Workshop</span>, 2026.</i><br>
     <a href="https://openreview.net/forum?id=iJ8t5nWrOM">OpenReview</a> | <a href="https://arxiv.org/abs/2605.00974">arXiv</a> | <a href="https://github.com/TheSolkatt/SRTJ">GitHub</a>
   </div>
 </div>
