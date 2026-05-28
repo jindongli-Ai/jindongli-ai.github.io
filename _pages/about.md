@@ -48,7 +48,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       <th></th>
       <th>Journal</th>
       <th>Conference</th>
-      <th>Preprint</th>
     </tr>
   </thead>
   <tbody>
@@ -72,9 +71,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <b>AAAI Bridge</b> 
         <span style="color:#FF6969;">[2026]</span>
       </td>
-      <td>
-        arXiv [x5]
-      </td>
     </tr>
     <tr>
       <td>2nd author</td>
@@ -90,9 +86,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <b>WCCI (IJCNN)</b> (CCF-C, THCPL-B) 
         <span style="color:#FF6969;">[2026]</span><br>
       </td>
-      <td>
-        arXiv [x2]
-      </td>
     </tr>
     <tr>
       <td>3rd author</td>
@@ -101,9 +94,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <span style="color:#FF6969;">[2026]</span>
       </td>
       <td></td>
-      <td>
-        arXiv [x3]
-      </td>
     </tr>
   </tbody>
 </table>
