@@ -371,7 +371,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2026_Scientific-Reports.png" alt="DiffRSG" width="250">
+  <img src="/images/2026_Scientific-Reports_DiffRSG.png" alt="DiffRSG" width="250">
   <div>
     [15] <b style="color: #0A1624;">DiffRSG: Rule-guided Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation</b><br>
     Rui Cao, <b>Jindong Li+</b>, He Kong, Qi Wang, Yi Chang.<br>
