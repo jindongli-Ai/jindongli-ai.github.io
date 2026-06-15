@@ -599,7 +599,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 | 3  | NUDT | Academic scholarship (student can only receive once during college) |
 | 4  | NUDT | Outstanding Graduate at the college level |
 | 5  | NUDT | Outstanding Graduate at the university level (0.2% in NUDT) |
-| 6  | NUDT | Citation of Class Three Merit (三等功) |
+| 6  | NUDT | Citation of Class Three Merit |
 
 <!--
 | 7  | JLU | Academic scholarship |
