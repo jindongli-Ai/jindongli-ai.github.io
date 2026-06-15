@@ -184,9 +184,11 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 ### Publications (including papers to appear)
 
+<!--
 - **1st author:** TPAMI (x2), ICLR, ECML-PKDD (x2), Neural Networks, ICML Workshop, AAAI Bridge
 - **2nd author:** ACL, AAAI, IJCAI, J-STAR, WCCI (IJCNN)
 - **3rd author:** ESWA
+-->
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
