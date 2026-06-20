@@ -534,6 +534,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 - Reviewer, International Conference on Machine Learning (ICML, CCF-A)
 - Reviewer, International Conference on Computer Vision (ICCV, CCF-A)
 - Reviewer, Artificial Intelligence Journal (AIJ, CCF-A)
+- Reviewer, Transactions on Machine Learning Research (TMLR)
 - Reviewer, International World Wide Web Conference (WWW, CCF-A)
 - Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD, CCF-A)
 - Reviewer, Pattern Recognition (PR, CCF-B)
