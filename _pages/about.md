@@ -532,6 +532,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 ## Academic Service
 - Reviewer, International Conference on Learning Representations (ICLR, CCF-A)
 - Reviewer, International Conference on Machine Learning (ICML, CCF-A)
+- Reviewer, Conference on Neural Information Processing Systems (NeurIPS, CCF-A)
 - Reviewer, International Conference on Computer Vision (ICCV, CCF-A)
 - Reviewer, Artificial Intelligence Journal (AIJ, CCF-A)
 - Reviewer, Transactions on Machine Learning Research (TMLR)
