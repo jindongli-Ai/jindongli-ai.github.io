@@ -213,7 +213,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     [2] <b style="color: #0A1624;">CLIP-Powered Domain Generalization and Domain Adaptation: A Comprehensive Survey</b><br>
     <b>Jindong Li</b>, Yongguang Li, Yali Fu, Jiahong Liu, Yixin Liu, Menglin Yang+, Irwin King.<br>
     <i>Transactions on Pattern Analysis and Machine Intelligence (<span style="color:#FF8686;">TPAMI, CCF-A, IF≈20</span>), 2026.</i><br>
-    <a href="https://ieeexplore.ieee.org/document/11342298/authors#authors">IEEE TPAMI</a> |
+    <a href="https://ieeexplore.ieee.org/document/11342298">IEEE TPAMI</a> |
     <a href="https://arxiv.org/abs/2504.14280">arXiv</a> | 
     <a href="https://github.com/jindongli-Ai/Survey_of_CLIP-Powered_Domain_Generalization_and_Adaptation">GitHub</a> |
     <a href="https://www.jiqizhixin.com/articles/2025-05-06-5">机器之心</a> |
