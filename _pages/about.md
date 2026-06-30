@@ -469,7 +469,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     [8] <b style="color: #0A1624;">HyBIRD: Hyperbolic Bridge Retrieval and Diagnosis for Methodology Inspiration Retrieval</b><br>
     Yang Yang, Boyun Xu, Hao Fu, <b>Jindong Li</b>, Zining Zhong, Bowen Tian, Jiemin Wu, Menglin Yang, Yutao Yue+.<br>
     <i>arXiv Preprint, 2026.</i><br>
-    <a href="https://arxiv.org/abs/">arXiv</a> 
+    <a href="https://arxiv.org/abs/2606.28336">arXiv</a> 
   </div>
 </div>
 
