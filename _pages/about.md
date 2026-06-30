@@ -260,9 +260,10 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     [5] <b style="color: #0A1624;">HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents</b><br>
     Jinchang Zhu*, <b>Jindong Li*</b>, Cheng Zhang*, Jiahong Liu, Menglin Yang+.<br>
     <i>The 64th Annual Meeting of the Association for Computational Linguistics (<span style="color:#FF8686;">ACL (main conference), CCF-A</span>), 2026.</i><br>
-    <a href="https://arxiv.org/abs/2604.16839">arXiv</a> | <a href="https://github.com/ReinerBRO/HeLa-Mem">GitHub</a>
+    <a href="https://aclanthology.org/2026.acl-long.625/">ACL</a> | <a href="https://arxiv.org/abs/2604.16839">arXiv</a> | <a href="https://github.com/ReinerBRO/HeLa-Mem">GitHub</a>
   </div>
 </div>
+
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_SRTJ.png" alt="SRTJ" width="250">
