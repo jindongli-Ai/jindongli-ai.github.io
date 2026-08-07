@@ -411,17 +411,17 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
   </div>
 </div>
 
-<!--
+
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_ConWriter.png" alt="ConWriter" width="250">
   <div>
     [3] <b style="color: #0A1624;">ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control</b><br>
     <b>Jindong Li</b>, Yang Yang, Zihao Liu, Yutao Yue, Menglin Yang+.<br>
     <i>arXiv Preprint, 2026.</i><br>
-    <a href="https://arxiv.org/abs/">arXiv</a> 
+    <a href="https://arxiv.org/abs/2608.05169">arXiv</a> 
   </div>
 </div>
--->
+
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_CoSPlay.png" alt="CosPlay" width="250">
