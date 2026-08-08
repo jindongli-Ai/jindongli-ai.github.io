@@ -536,7 +536,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 ## Academic Service
 ### 1. Journal
-- Reviewer, ACM Computing Surveys (CSUR)
+- Reviewer, ACM Computing Surveys (CSUR, IF≈28)
 - Reviewer, Artificial Intelligence Journal (AIJ, CCF-A)
 - Reviewer, Transactions on Machine Learning Research (TMLR)
 - Reviewer, Pattern Recognition (PR, CCF-B)
