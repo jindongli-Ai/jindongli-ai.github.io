@@ -463,7 +463,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     [7] <b style="color: #0A1624;">StorySpark: Module-wise Evolutionary Search for Story Premise Generation</b><br>
     Yang Yang, Zining Zhong, Qian Cao, <b>Jindong Li</b>, Boyun Xu, Kaishen Yuan, Menglin Yang, Yutao Yue+.<br>
     <i>arXiv Preprint, 2026.</i><br>
-    <a href="https://arxiv.org/abs/">arXiv</a> 
+    <a href="https://arxiv.org/abs/2608.12336">arXiv</a> 
   </div>
 </div>
 
