@@ -456,7 +456,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
   </div>
 </div>
 
-<!--
+
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_StorySpark.png" alt="StorySpark" width="250">
   <div>
@@ -466,7 +466,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     <a href="https://arxiv.org/abs/">arXiv</a> 
   </div>
 </div>
--->
+
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_HyBIRD.png" alt="HyBRID" width="250">
@@ -477,6 +477,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     <a href="https://arxiv.org/abs/2606.28336">arXiv</a> 
   </div>
 </div>
+
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_arXiv_AL-GNN.png" alt="AL-GNN" width="250">
