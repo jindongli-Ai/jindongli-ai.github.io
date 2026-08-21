@@ -85,6 +85,8 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       <td>
         <b>AAAI</b> (CCF-A)  
         <span style="color:#FF6969;">[2026]</span><br>
+        <b>EMNLP (findings)</b> (CCF-B, CAAI-A, THCPL-A)  
+        <span style="color:#FF6969;">[2026]</span><br>
         <b>IJCAI</b> (CCF-A) 
         <span style="color:#FF6969;">[2024]</span><br>
         <b>WCCI (IJCNN)</b> (CCF-C, THCPL-B) 
