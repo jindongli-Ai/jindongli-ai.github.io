@@ -64,6 +64,8 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <span style="color:#FF6969;">[2026]</span><br>
         <b>ACL (main conference)</b> (CCF-A)  
         <span style="color:#FF6969;">[2026]</span><br>
+        <b>EMNLP (findings)</b> (CCF-B, CAAI-A, THCPL-A)  
+        <span style="color:#FF6969;">[2026]</span><br>
         <b>ECML-PKDD</b> (CCF-B) 
         <span style="color:#FF6969;">[2023, 2025]</span><br>
         <b>ICML Workshop</b> 
@@ -267,9 +269,20 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2026_arXiv_ConWriter.png" alt="ConWriter" width="250">
+  <div>
+    [6] <b style="color: #0A1624;">ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control</b><br>
+    <b>Jindong Li</b>, Yang Yang, Zihao Liu, Yutao Yue, Menglin Yang+.<br>
+    <i>Empirical Methods in Natural Language Processing (<span style="color:#FF8686;">EMNLP (findings), CCF-B, CAAI-A, THCPL-A</span>), 2026.</i><br>
+    <a href="https://arxiv.org/abs/2608.05169">arXiv</a> 
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_SRTJ.png" alt="SRTJ" width="250">
   <div>
-    [6] <b style="color: #0A1624;">SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking</b><br>
+    [7] <b style="color: #0A1624;">SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking</b><br>
     <b>Jindong Li*</b>, Ying Liu*, Yali Fu, Jinjing Zhu, Leyao Wang, Menglin Yang+, Rex Ying.<br>
     <i><span style="color:#FF8686;">ICML Workshop (AIWILD)</span>, 2026.</i><br>
     <a href="https://openreview.net/forum?id=iJ8t5nWrOM">OpenReview</a> | <a href="https://arxiv.org/abs/2605.00974">arXiv</a> | <a href="https://github.com/TheSolkatt/SRTJ">GitHub</a>
@@ -280,7 +293,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
   <div>
-    [7] <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
+    [8] <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang+.<br>
     <i>International Joint Conference on Artificial Intelligence (<span style="color:#FF8686;">IJCAI, CCF-A</span>), 2024.</i><br>
     <a href="https://www.ijcai.org/proceedings/2024/0711">IJCAI</a> | <a href="https://arxiv.org/abs/2402.07945">arXiv</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">GitHub</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
@@ -291,7 +304,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_AAAI_CLIPXpert.png" alt="CLIPXpert" width="250">
   <div>
-    [8] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models
+    [9] <b style="color: #0A1624;">Beyond Retraining: Training-Free Unknown Class Filtering for Source-Free Open Set Domain Adaptation of Vision–Language Models
 </b><br>
     Yongguang Li, <b>Jindong Li</b>, Qi Wang+, Qianli Xing, Runliang Niu, Shengsheng Wang, Menglin Yang.<br>
     <i>Association for the Advancement of Artificial Intelligence Conference (<span style="color:#FF8686;">AAAI, CCF-A</span>), 2026.</i><br>
@@ -303,7 +316,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_ESWA_CDBN.png" alt="CDBN" width="250">
   <div>
-    [9] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
+    [10] <b style="color: #0A1624;">Data-Efficient CLIP-Powered Dual-Branch Networks for Source-Free Unsupervised Domain Adaptation</b><br>
     Yongguang Li*, Yueqi Cao*, <b>Jindong Li</b>, Qi Wang, Shengsheng Wang+.<br>
     <i> Expert Systems With Applications (<span style="color:#FF8686;">ESWA, CCF-C, CAS Q1 (中科院1区), IF: 7~8</span>), 2026</i><br>
     <a href="https://doi.org/10.1016/j.eswa.2026.132075">ESWA</a> | <a href="https://arxiv.org/abs/2410.15811">arXiv</a> | <a href="https://github.com/ethanAiJLu/CDBN">GitHub</a>
@@ -314,7 +327,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_NN_HC-GLAD.png" alt="HC-GLAD" width="250">
   <div>
-    [10] <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [11] <b style="color: #0A1624;">HC-GLAD: Dual Hyperbolic Contrastive Learning for Unsupervised Graph-Level Anomaly Detection</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Jiahong Liu, Qianli Xing, Qi Wang+, Irwin King.<br>
     <i>Neural Networks (<span style="color:#FF8686;">NN, CCF-B</span>), 2026.</i><br>
     <a href="https://doi.org/10.1016/j.neunet.2026.109009">Elsevier</a> | <a href="https://arxiv.org/abs/2407.02057">arXiv</a> | <a href="https://github.com/Yali-F/HC-GLAD">GitHub</a>
@@ -325,7 +338,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_WCCI-IJCNN_HyGROVE.png" alt="HyGROVE" width="250">
   <div>
-    [11] <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [12] <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection</b><br>
     Xiyu Hu, <b>Jindong Li</b>, Yali Fu, Qi Wang+.<br>
     <i>IEEE WCCI (IJCNN). (<span style="color:#FF8686;">IJCNN, CCF-C, THCPL-B</span>), 2026.</i><br>
     <a href="https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/YrBiC-ijcnn_pap2514s2.pdf">pdf</a>
@@ -336,7 +349,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_ECML-PKDD_GLADMamba.png" alt="GLADMamba" width="250">
   <div>
-    [12] <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
+    [13] <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Qi Wang+, Qianli Xing.<br>
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<span style="color:#FF8686;">ECML PKDD, CCF-B</span>), 2025.</i><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-032-05962-8_3">Springer</a> | <a href="https://arxiv.org/abs/2503.17903">arXiv</a> | <a href="https://github.com/Yali-F/GLADMamba">GitHub</a>
@@ -347,7 +360,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2023_ECML-PKDD_CVTGAD.png" alt="CVTGAD" width="250">
   <div>
-    [13] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [14] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
     <b>Jindong Li</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<span style="color:#FF8686;">ECML PKDD, CCF-B</span>), 2023.</i><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11">Springer</a> | <a href="https://arxiv.org/abs/2405.02359">arXiv</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">GitHub</a> 
@@ -358,7 +371,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
   <div>
-    [14] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
+    [15] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
     Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+.<br>
     <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (<span style="color:#FF8686;">J-STAR, JCR Q1</span>), 2025.</i><br>
     <a href="https://ieeexplore.ieee.org/document/10897814">IEEE</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">GitHub</a> 
@@ -369,7 +382,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_Scientific-Reports_DiffRSG.png" alt="DiffRSG" width="250">
   <div>
-    [15] <b style="color: #0A1624;">DiffRSG: Rule-guided Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation</b><br>
+    [16] <b style="color: #0A1624;">DiffRSG: Rule-guided Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation</b><br>
     Rui Cao, <b>Jindong Li+</b>, He Kong, Qi Wang, Yi Chang.<br>
     <i>Scientific Reports. (<span style="color:#FF8686;">JCR Q1</span>), 2026.</i><br>
     <a href="https://www.nature.com/articles/s41598-026-49379-1">Scientific Reports</a> | <a href="https://github.com/CAorvi/DiffRSG">GitHub</a> 
@@ -409,17 +422,6 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     <a href="https://mp.weixin.qq.com/s/2xM0Ax1P7ZprG5e6NL3WLA">机器学习与推荐算法</a> |
     <img src="https://img.shields.io/github/stars/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
     <img src="https://img.shields.io/github/forks/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2026_arXiv_ConWriter.png" alt="ConWriter" width="250">
-  <div>
-    [3] <b style="color: #0A1624;">ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control</b><br>
-    <b>Jindong Li</b>, Yang Yang, Zihao Liu, Yutao Yue, Menglin Yang+.<br>
-    <i>arXiv Preprint, 2026.</i><br>
-    <a href="https://arxiv.org/abs/2608.05169">arXiv</a> 
   </div>
 </div>
 
