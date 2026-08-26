@@ -120,7 +120,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 ### The Hong Kong University of Science and Technology (HKUST-GZ)
 - **Ph.D. in Artificial Intelligence**
-- Supervisor: Prof. [Menglin Yang](https://yangmenglinsite.github.io/) and Prof. [Hui Xiong](https://scholar.google.com/citations?hl=zh-CN&user=cVDF1tkAAAAJ)(Fellow of ACM, AAAS, AAAI and IEEE). 
+- Supervisor: Prof. [Menglin Yang](https://yangmenglinsite.github.io/) and Prof. [Hui Xiong](https://scholar.google.com/citations?hl=zh-CN&user=cVDF1tkAAAAJ) (Fellow of ACM, AAAS, AAAI and IEEE). 
 
 
 <!--
