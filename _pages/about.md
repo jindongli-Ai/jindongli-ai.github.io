@@ -287,7 +287,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     [7] <b style="color: #0A1624;">FCPRAG: Fusion-Controller Parametric Retrieval-Augmented Generation for Stable Multi-Passage LoRA Injection</b><br>
     Jinchang Zhu, <b>Jindong Li</b>, Yi Ding, Xiaojian Nie, Rong Fu, Shuangyang Song, Haowei He, Menglin Yang+.<br>
     <i>Empirical Methods in Natural Language Processing (<span style="color:#FF8686;">EMNLP (findings), CCF-B, CAAI-A, THCPL-A</span>), 2026.</i><br>
-    <a href="">arXiv</a> 
+    <a href="https://arxiv.org/abs/2608.21750">arXiv</a> 
   </div>
 </div>
 
