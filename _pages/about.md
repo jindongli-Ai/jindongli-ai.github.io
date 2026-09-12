@@ -418,6 +418,8 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 ### arXiv Preprint
 
 
+***<font color="#FFA500">(a) LLM Basic</font>***
+
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_arXiv_LLM-Implicit-Reasoning-Survey.png" alt="LLM-Implicit-Reasoning-Survey" width="250">
   <div>
@@ -447,6 +449,8 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
   </div>
 </div>
 
+
+***<font color="#FFA500">(b) LLM/Agent Memory/RAG/Self-Evolving</font>***
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_CoSPlay.png" alt="CosPlay" width="250">
@@ -502,25 +506,27 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
   </div>
 </div>
 
-
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2025_arXiv_AL-GNN.png" alt="AL-GNN" width="250">
+  <img src="/images/2025_arXiv_Cogito.png" alt="Cogito" width="250">
   <div>
-    [8] <b style="color: #0A1624;">AL-GNN: Privacy-Preserving and Replay-Free Continual Graph Learning via Analytic Learning</b><br>
-    Xuling Zhang, <b>Jindong Li</b>, Yifei Zhang, Menglin Yang+.<br>
+    [8] <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
+    Yanlong Li, <b>Jindong Li</b>, Qi Wang+, Menglin Yang, He Kong, Shengsheng Wang.<br>
     <i>arXiv Preprint, 2025.</i><br>
-    <a href="https://arxiv.org/abs/2512.18295">arXiv</a>
+    <a href="https://arxiv.org/abs/2501.18653">arXiv</a> | <a href="https://github.com/doc0318/Cogito">GitHub</a> | <a href="https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html">TechXplore</a>
   </div>
 </div>
 
 
+
+***<font color="#FFA500">(c) Graph Learning</font>***
+
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2025_arXiv_Cogito.png" alt="Cogito" width="250">
+  <img src="/images/2025_arXiv_AL-GNN.png" alt="AL-GNN" width="250">
   <div>
-    [9] <b style="color: #0A1624;">Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation</b><br>
-    Yanlong Li, <b>Jindong Li</b>, Qi Wang+, Menglin Yang, He Kong, Shengsheng Wang.<br>
+    [9] <b style="color: #0A1624;">AL-GNN: Privacy-Preserving and Replay-Free Continual Graph Learning via Analytic Learning</b><br>
+    Xuling Zhang, <b>Jindong Li</b>, Yifei Zhang, Menglin Yang+.<br>
     <i>arXiv Preprint, 2025.</i><br>
-    <a href="https://arxiv.org/abs/2501.18653">arXiv</a> | <a href="https://github.com/doc0318/Cogito">GitHub</a> | <a href="https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html">TechXplore</a>
+    <a href="https://arxiv.org/abs/2512.18295">arXiv</a>
   </div>
 </div>
 
@@ -545,6 +551,9 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
     <a href="https://arxiv.org/abs/2407.00383">arXiv</a> | <a href="https://github.com/Goldenhorns/FANFOLD">GitHub</a>
   </div>
 </div>
+
+
+***<font color="#FFA500">(d) 3D Point Cloud</font>***
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
