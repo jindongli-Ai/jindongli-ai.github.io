@@ -197,6 +197,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 - **3rd author:** ESWA
 -->
 
+#### (a) LLM Basic
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_TPAMI_LLM-Discrete-Tokenization-Survey.png" alt="LLM-Discrete-Tokenization-Survey" width="250">
@@ -261,6 +262,8 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 </div>
 
 
+#### (b) LLM/Agent Memory/RAG/Self-Evolving
+
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_ACL_HeLa-Mem.png" alt="HeLa-Mem" width="250">
   <div>
@@ -305,6 +308,8 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 </div>
 
 
+#### (c) Multi-Modal Learning
+
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
   <div>
@@ -338,6 +343,8 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
   </div>
 </div>
 
+
+#### (d) Graph Learning
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_NN_HC-GLAD.png" alt="HC-GLAD" width="250">
@@ -384,17 +391,6 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
-  <div>
-    [16] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
-    Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+.<br>
-    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (<span style="color:#FF8686;">J-STAR, JCR Q1</span>), 2025.</i><br>
-    <a href="https://ieeexplore.ieee.org/document/10897814">IEEE</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">GitHub</a> 
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_Scientific-Reports_DiffRSG.png" alt="DiffRSG" width="250">
   <div>
     [17] <b style="color: #0A1624;">DiffRSG: Rule-guided Skip-GCN in Neural Latent Information Diffusion Network for Social Recommendation</b><br>
@@ -405,6 +401,17 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 </div>
 
 
+##### (e) Computer Vision
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
+  <div>
+    [16] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
+    Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+.<br>
+    <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (<span style="color:#FF8686;">J-STAR, JCR Q1</span>), 2025.</i><br>
+    <a href="https://ieeexplore.ieee.org/document/10897814">IEEE</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">GitHub</a> 
+  </div>
+</div>
 
 
 
