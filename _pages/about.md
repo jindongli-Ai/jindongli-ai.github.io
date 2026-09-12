@@ -262,7 +262,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 </div>
 
 
-***<font color="#FFA500">(b) LLM/Agent Memory/RAG/Self-Evolving</b>***
+***<font color="#FFA500">(b) LLM/Agent Memory/RAG/Self-Evolving</font>***
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_ACL_HeLa-Mem.png" alt="HeLa-Mem" width="250">
