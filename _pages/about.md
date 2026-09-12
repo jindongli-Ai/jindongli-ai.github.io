@@ -197,7 +197,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 - **3rd author:** ESWA
 -->
 
-#### (a) LLM Basic
+#### <font color="#FFA500">(a) LLM Basic</font>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_TPAMI_LLM-Discrete-Tokenization-Survey.png" alt="LLM-Discrete-Tokenization-Survey" width="250">
