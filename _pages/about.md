@@ -197,7 +197,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 - **3rd author:** ESWA
 -->
 
-<b><font color="#FFA500">(a) LLM Basic</font></b>
+***<font color="#FFA500">(a) LLM Basic</font>***
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_TPAMI_LLM-Discrete-Tokenization-Survey.png" alt="LLM-Discrete-Tokenization-Survey" width="250">
@@ -262,7 +262,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 </div>
 
 
-#### (b) LLM/Agent Memory/RAG/Self-Evolving
+***<font color="#FFA500">(b) LLM/Agent Memory/RAG/Self-Evolving</b>***
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_ACL_HeLa-Mem.png" alt="HeLa-Mem" width="250">
@@ -308,7 +308,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 </div>
 
 
-#### (c) Multi-Modal Learning
+***<font color="#FFA500">(c) Multi-Modal Learning</font>***
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
@@ -344,7 +344,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 </div>
 
 
-#### (d) Graph Learning
+***<font color="#FFA500">(d) Graph Learning</font>***
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_NN_HC-GLAD.png" alt="HC-GLAD" width="250">
@@ -401,7 +401,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 </div>
 
 
-##### (e) Computer Vision
+***<font color="#FFA500">(e) Computer Vision</font>***
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
