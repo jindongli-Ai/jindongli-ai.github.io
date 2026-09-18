@@ -29,7 +29,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   -  Safety (Jailbreak)
   -  others
 - Multimodal Learning (MM)
-- Vision-Language-Action model (VLM) (Embodied Intelligence), World Model ***<font color="#FFA500">(Seeking Collaborators)</font>***
+- Vision-Language-Action model (VLA), World Model ***<font color="#FFA500">(Seeking Collaborators)</font>***
 - Electronic Design Automation (EDA) 
 - Geometric Learning with LLM, Geometric Foundation Model, Geometric Alignment
 - Graph Learning (GNNs)
