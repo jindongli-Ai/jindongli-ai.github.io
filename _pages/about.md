@@ -428,13 +428,13 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
   <img src="/images/2026_A-Survey-of-Non-Euclidean-Geometric-Learning.png" alt="Non-Euclidean-Geometric-Learning-Survey" width="250">
   <div>
     [1] <b style="color: #0A1624;">A Survey of Non-Euclidean Geometric Learning from Hyperbolic to Mixed-Curvature Spaces.</b><br>
-    <b>Menglin Yang+, Zihao Liu, Jiahong Liu, Jindong Li, Linxiao Cao, Buze Zhang, Irwin King.<br>
+    <b>Menglin Yang+, Zihao Liu, Jiahong Liu, <b>Jindong Li</b>, Linxiao Cao, Buze Zhang, Irwin King.<br>
     <i>Preprint, 2026.</i><br>
     <a href="https://openreview.net/forum?id=cpqHCXXZcr">OpenReview</a> | 
     <a href="https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning/">GitHub</a> |
     <a href="https://hyperboliclearning.github.io/survey/">Project Page</a> |
     <img src="https://img.shields.io/github/stars/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
-    <img src="https://img.shields.io/github/forks/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning/?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
+    <img src="https://img.shields.io/github/forks/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
 </div>
 
