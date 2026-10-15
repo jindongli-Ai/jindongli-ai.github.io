@@ -425,7 +425,7 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/" alt="Non-Euclidean-Geometric-Learning-Survey" width="250">
+  <img src="/images/2026_A-Survey-of-Non-Euclidean-Geometric-Learning.png" alt="Non-Euclidean-Geometric-Learning-Survey" width="250">
   <div>
     [1] <b style="color: #0A1624;">A Survey of Non-Euclidean Geometric Learning from Hyperbolic to Mixed-Curvature Spaces.</b><br>
     <b>Menglin Yang+, Zihao Liu, Jiahong Liu, Jindong Li, Linxiao Cao, Buze Zhang, Irwin King.<br>
