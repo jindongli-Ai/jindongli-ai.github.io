@@ -422,6 +422,25 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 <p align="center"><b><i><font color="#FFA500">(a) LLM Basic</font></i></b></p>
 
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/" alt="Non-Euclidean-Geometric-Learning-Survey" width="250">
+  <div>
+    [1] <b style="color: #0A1624;">A Survey of Non-Euclidean Geometric Learning from Hyperbolic to Mixed-Curvature Spaces.</b><br>
+    <b>Menglin Yang+, Zihao Liu, Jiahong Liu, Jindong Li, Linxiao Cao, Buze Zhang, Irwin King.<br>
+    <i>Preprint, 2026.</i><br>
+    <a href="https://openreview.net/forum?id=cpqHCXXZcr">OpenReview</a> | 
+    <a href="https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning/">GitHub</a> |
+    <a href="https://hyperboliclearning.github.io/survey/">Project Page</a> |
+    <img src="https://img.shields.io/github/stars/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning?color=yellow" alt="GitHub Stars" style="vertical-align: middle;"> 
+    <img src="https://img.shields.io/github/forks/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning/?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
+  </div>
+</div>
+
+
+
+
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_arXiv_LLM-Implicit-Reasoning-Survey.png" alt="LLM-Implicit-Reasoning-Survey" width="250">
   <div>
