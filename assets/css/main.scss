@@ -39,3 +39,46 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Wider homepage content and two-column paper lists. */
+@media (min-width: 1024px) {
+  #main {
+    max-width: 1600px;
+  }
+
+  .page {
+    width: 82%;
+    float: right;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+}
+
+.papers-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  align-items: start;
+}
+
+.papers-grid > div {
+  min-width: 0;
+  margin-bottom: 0 !important;
+}
+
+.papers-grid > p {
+  grid-column: 1 / -1;
+  margin-bottom: 0;
+}
+
+.papers-grid > div > img {
+  width: 150px;
+  max-width: 38%;
+  height: auto;
+}
+
+@media (max-width: 700px) {
+  .papers-grid {
+    grid-template-columns: 1fr;
+  }
+}
