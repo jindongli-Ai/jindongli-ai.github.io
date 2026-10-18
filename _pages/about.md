@@ -187,6 +187,11 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 *(\*: co-first author, \+: corresponding author)*
 
 <style>
+  /* Use more of the desktop content area for the long publication list. */
+  @media (min-width: 701px) {
+    .page__content { max-width: none; }
+    .page__inner-wrap { max-width: none; }
+  }
   .papers-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: start; }
   .papers-grid > div { min-width: 0; margin-bottom: 0 !important; }
   .papers-grid > p { grid-column: 1 / -1; margin-bottom: 0; }
