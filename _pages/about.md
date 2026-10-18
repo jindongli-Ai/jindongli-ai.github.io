@@ -173,7 +173,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - **3rd author:** ESWA
 -->
 
-<p align="center"><b><i><font color="#FFA500">(a) Survey (LLM Basic)</font></i></b></p>
+<p align="center"><b><i><font color="#FFA500">(a) Survey (LLM related)</font></i></b></p>
 
 <div class="papers-grid">
 
@@ -412,7 +412,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 <div class="papers-grid">
 
 
-<p align="center"><b><i><font color="#FFA500">(a) LLM Basic</font></i></b></p>
+<p align="center"><b><i><font color="#FFA500">(a) Survey (LLM related)</font></i></b></p>
 
 
 
