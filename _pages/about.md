@@ -173,7 +173,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - **3rd author:** ESWA
 -->
 
-<p align="center"><b><i><font color="#FFA500">(a) LLM Basic</font></i></b></p>
+<p align="center"><b><i><font color="#FFA500">(a) Survey (LLM Basic)</font></i></b></p>
 
 <div class="papers-grid">
 
@@ -208,25 +208,10 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   </div>
 </div>
 
-
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2026_ICLR_PCB-Bench.png" alt="PCB-Bench" width="250">
-  <div>
-    [3] <b style="color: #0A1624;">PCB-Bench: Benchmarking LLMs for Printed Circuit Board Placement and Routing</b><br>
-    <b>Jindong Li*</b>, Lianrong Chen*, Bin Yang*, Jiadong Zhu*, Ying Wang, Yuzhe Ma, Menglin Yang+.<br>
-    <i> International Conference on Learning Representations (<span style="color:#FF8686;">ICLR, CCF-A</span>), 2026.</i><br>
-    <a href="https://iclr.cc/virtual/2026/poster/10009621">ICLR</a> |
-    <a href="https://openreview.net/forum?id=Q5QLu7XTWx&referrer">OpenReview</a> |
-    <a href="https://github.com/digailab/PCB-Bench">GitHub</a> |
-    <a href="https://digailab.github.io/PCB-Bench/">Project Page</a>
-  </div>
-</div>
-
-
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_AAAI-Bridge_LLM-Symbolic-Reasoning-Survey.png" alt="LLM-Symbolic-Reasoning-Survey" width="250">
   <div>
-    [4] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning
+    [3] <b style="color: #0A1624;">A Survey on LLM Symbolic Reasoning
 </b><br>
     <b>Jindong Li*</b>, Yali Fu*, Fengxiang Cheng, Yang Yang, Jiahong Liu, Hongce Zhang, Yutao Yue, Mengling Yang+, Haoxuan Li, Liangming Pan, Zhouchen Lin.<br>
     <i><span style="color:#FF8686;">AAAI Bridge</span>: Logical and Symbolic Reasoning in Language Models, 2026.</i><br>
@@ -240,7 +225,25 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 </div>
 
 
-<p align="center"><b><i><font color="#FFA500">(b) LLM/Agent Memory/RAG/Self-Evolving</font></i></b></p>
+
+<p align="center"><b><i><font color="#FFA500">(b) Benchmark</font></i></b></p>
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2026_ICLR_PCB-Bench.png" alt="PCB-Bench" width="250">
+  <div>
+    [4] <b style="color: #0A1624;">PCB-Bench: Benchmarking LLMs for Printed Circuit Board Placement and Routing</b><br>
+    <b>Jindong Li*</b>, Lianrong Chen*, Bin Yang*, Jiadong Zhu*, Ying Wang, Yuzhe Ma, Menglin Yang+.<br>
+    <i> International Conference on Learning Representations (<span style="color:#FF8686;">ICLR, CCF-A</span>), 2026.</i><br>
+    <a href="https://iclr.cc/virtual/2026/poster/10009621">ICLR</a> |
+    <a href="https://openreview.net/forum?id=Q5QLu7XTWx&referrer">OpenReview</a> |
+    <a href="https://github.com/digailab/PCB-Bench">GitHub</a> |
+    <a href="https://digailab.github.io/PCB-Bench/">Project Page</a>
+  </div>
+</div>
+
+
+
+<p align="center"><b><i><font color="#FFA500">(c) LLM/Agent Memory/RAG/Self-Evolving</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_ACL_HeLa-Mem.png" alt="HeLa-Mem" width="250">
@@ -287,7 +290,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(c) Multi-Modal Learning</font></i></b></p>
+<p align="center"><b><i><font color="#FFA500">(d) Multi-Modal Learning</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
@@ -324,7 +327,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(d) Graph Learning</font></i></b></p>
+<p align="center"><b><i><font color="#FFA500">(e) Graph Learning</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_NN_HC-GLAD.png" alt="HC-GLAD" width="250">
@@ -382,7 +385,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(e) Computer Vision</font></i></b></p>
+<p align="center"><b><i><font color="#FFA500">(f) Computer Vision</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
@@ -637,8 +640,8 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/Car.jpg" alt="Car" width="35%">
-  <img src="/images/quadrotor.jpg" alt="Quadrotor" width="35%">
+  <img src="/images/Car.jpg" alt="Car" width="25%">
+  <img src="/images/quadrotor.jpg" alt="Quadrotor" width="25%">
 </div>
 
 
@@ -690,13 +693,13 @@ Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](http
 Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe)
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/kaggle.png" alt="Kaggle" width="50%">
-  <img src="/images/leetcode-2.png" alt="LeetCode" width="27%">
+  <img src="/images/kaggle.png" alt="Kaggle" width="40%">
+  <img src="/images/leetcode-2.png" alt="LeetCode" width="20%">
 </div>
 
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/leetcode.png" alt="LeetCode" width="55%">
-  <img src="/images/leetcode-2-1.png" alt="LeetCode" width="18%">
+  <img src="/images/leetcode.png" alt="LeetCode" width="40%">
+  <img src="/images/leetcode-2-1.png" alt="LeetCode" width="15%">
 </div>
 
 
