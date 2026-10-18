@@ -186,6 +186,14 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 *(\*: co-first author, \+: corresponding author)*
 
+<style>
+  .papers-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-items: start; }
+  .papers-grid > div { min-width: 0; margin-bottom: 0 !important; }
+  .papers-grid > p { grid-column: 1 / -1; margin-bottom: 0; }
+  .papers-grid > div > img { width: 150px; max-width: 38%; height: auto; }
+  @media (max-width: 700px) { .papers-grid { grid-template-columns: 1fr; } }
+</style>
+
 ### Publications (including papers to appear)
 
 <!--
@@ -195,6 +203,8 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 -->
 
 <p align="center"><b><i><font color="#FFA500">(a) LLM Basic</font></i></b></p>
+
+<div class="papers-grid">
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_TPAMI_LLM-Discrete-Tokenization-Survey.png" alt="LLM-Discrete-Tokenization-Survey" width="250">
@@ -421,7 +431,11 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 
 
+ </div>
+
 ### arXiv Preprint
+
+<div class="papers-grid">
 
 
 <p align="center"><b><i><font color="#FFA500">(a) LLM Basic</font></i></b></p>
@@ -597,7 +611,10 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 
 
 
+ </div>
+
 ## Academic Service
+
 ### 1. Journal
 - Reviewer, ACM Computing Surveys (CSUR, IF≈28)
 - Reviewer, Artificial Intelligence Journal (AIJ, CCF-A)
