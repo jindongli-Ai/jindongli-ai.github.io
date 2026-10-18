@@ -158,27 +158,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-## TECHNICAL ACCOUNTS
-
-<!--
-Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](https://leetcode.cn/u/xinghe_xinghe/) | LeetCode2: [HomePage](https://leetcode.cn/u/hanxin_hanxin/) | Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/)
----|---|---|---
-NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe) | CSDN: [HomePage](https://blog.csdn.net/weixin_46645827?spm=1000.2115.3001.5343)
--->
-
-Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](https://leetcode.cn/u/xinghe_xinghe/) | LeetCode2: [HomePage](https://leetcode.cn/u/hanxin_hanxin/) 
----|---|---
-Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe)
-
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/kaggle.png" alt="Kaggle" width="50%">
-  <img src="/images/leetcode-2.png" alt="LeetCode" width="27%">
-</div>
-
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
-  <img src="/images/leetcode.png" alt="LeetCode" width="55%">
-  <img src="/images/leetcode-2-1.png" alt="LeetCode" width="18%">
-</div>
 
 
 
@@ -691,6 +670,40 @@ Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder
 | 7  | JLU | Academic scholarship |
 | 8  | JLU | Academic scholarship |
 -->
+
+
+
+
+
+
+
+## TECHNICAL ACCOUNTS
+
+<!--
+Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](https://leetcode.cn/u/xinghe_xinghe/) | LeetCode2: [HomePage](https://leetcode.cn/u/hanxin_hanxin/) | Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/)
+---|---|---|---
+NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe) | CSDN: [HomePage](https://blog.csdn.net/weixin_46645827?spm=1000.2115.3001.5343)
+-->
+
+Kaggle: [HomePage](https://www.kaggle.com/ac123321) | LeetCode1: [HomePage](https://leetcode.cn/u/xinghe_xinghe/) | LeetCode2: [HomePage](https://leetcode.cn/u/hanxin_hanxin/) 
+---|---|---
+Acwing: [HomePage](https://www.acwing.com/user/myspace/record/94000/) | NowCoder: [HomePage](https://www.nowcoder.com/users/116877070) | CodeForces: [HomePage](https://codeforces.com/profile/XingHe_XingHe)
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/kaggle.png" alt="Kaggle" width="50%">
+  <img src="/images/leetcode-2.png" alt="LeetCode" width="27%">
+</div>
+
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+  <img src="/images/leetcode.png" alt="LeetCode" width="55%">
+  <img src="/images/leetcode-2-1.png" alt="LeetCode" width="18%">
+</div>
+
+
+
+
+
+
 
 ## SKILLS
 
