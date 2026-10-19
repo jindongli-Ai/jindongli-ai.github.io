@@ -592,6 +592,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 ### 1. Journal
 - Reviewer, ACM Computing Surveys (CSUR, IF≈28)
 - Reviewer, Artificial Intelligence Journal (AIJ, CCF-A)
+- Reviewer, Transactions on Image Processing (TIP, CCF-A)
 - Reviewer, Transactions on Machine Learning Research (TMLR)
 - Reviewer, Pattern Recognition (PR, CCF-B)
   
