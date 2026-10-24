@@ -262,10 +262,9 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
     [6] <b style="color: #0A1624;">ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control</b><br>
     <b>Jindong Li</b>, Yang Yang, Zihao Liu, Yutao Yue, Menglin Yang+.<br>
     <i>Empirical Methods in Natural Language Processing (<span style="color:#FF8686;">EMNLP (findings), CCF-B, CAAI-A, THCPL-A</span>), 2026.</i><br>
-    <a href="https://arxiv.org/abs/2608.05169">arXiv</a> | <a href="https://github.com/jindongli-Ai/ConWriter">GitHub</a> 
+    <a href="https://aclanthology.org/2026.findings-emnlp.359/">EMNLP</a> | <a href="https://arxiv.org/abs/2608.05169">arXiv</a> | <a href="https://github.com/jindongli-Ai/ConWriter">GitHub</a> 
   </div>
 </div>
-
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_EMNLP_FCPRAG.png" alt="FCPRAG" width="250">
