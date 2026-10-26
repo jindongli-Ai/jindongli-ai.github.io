@@ -12,12 +12,9 @@ I obtained a Master's degree in Computer Science and Technology from the School 
 -->
 
 Hello! I am currently a Ph.D. student at AI Thrust, The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/)), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/) and Prof. [Hui Xiong](https://scholar.google.com/citations?hl=zh-CN&user=cVDF1tkAAAAJ) (Fellow of ACM, AAAS, AAAI and IEEE). 
-<!--
-I obtained a Bachelor's degree from NUDT.
--->
 
 
-<font color="#FFA500">I am currently seeking an industry research internship with a primary focus on producing high-quality academic publications. （寻找企业科研实习，以产出论文为导向。）</font>
+<font color="#FFA500">I am also a Research Intern at AI² Robotics (XLab), focusing on Embodied Intelligence and Vision-Language-Action (VLA) models.</font>
 <br>
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs) ***<font color="#FFA500">(Seeking Collaborators)</font>***
