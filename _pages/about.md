@@ -19,7 +19,7 @@ Hello! I am currently a Ph.D. student at AI Thrust, The Hong Kong University of 
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs) ***<font color="#FFA500">(Seeking Collaborators)</font>***
   -  Memory, RAG, Skill-related
-  -  Reasoning (Implicit Reasoning, Symbolic Reasoning)
+  -  Reasoning (Latent Reasoning, Symbolic Reasoning)
   -  Self-Evolving
   -  Personalization
   -  Text Generation (Long-Form Story Generation)
