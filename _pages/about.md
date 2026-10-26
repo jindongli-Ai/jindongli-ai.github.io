@@ -584,8 +584,37 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-
  </div>
+
+
+
+
+
+
+## WORK EXPERIENCE
+
+### 1. AI² Robotics, XLab (智平方) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2026.10-*
+- **Research Intern (技术实习生)**
+- Mentor: [Weiyu Guo](https://weiyuguo.com/)
+- Topic: Embodied Intelligence, Vision-Language-Action (VLA)
+
+### 2. Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab)  (上海人工智能实验室) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2023.09-2023.12*
+- **Research Intern (见习研究员)**
+- Mentor: [Bin Wang](https://wangbindl.github.io/) and [Linke Ouyang](https://scholar.google.com/citations?user=rDaVSiAAAAAJ&hl=zh-CN)
+- Topic: Multimodal Large Language Models (MLLMs), Data Engine
+- Responsibilities:
+  - Evaluation of MLLMs
+  - Multimodal (OCR mainly) models/approaches
+ 
+
+<!--
+### 2. Jilin University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2024.07-2024.11*
+- **Research Assistant**
+- Mentor: Yi Chang and Qi Wang
+-->
+
+
+
 
 ## Academic Service
 
@@ -607,21 +636,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-## WORK EXPERIENCE
 
-### 1. Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2023.09-2023.12*
-- **Research Intern (见习研究员)**
-- Mentor: [Bin Wang](https://wangbindl.github.io/) and [Linke Ouyang](https://scholar.google.com/citations?user=rDaVSiAAAAAJ&hl=zh-CN)
-- Topic: Multimodal Large Language Models (MLLMs), Data Engine
-- Responsibilities:
-  - Evaluation of MLLMs
-  - Multimodal (OCR mainly) models/approaches
-
-<!--
-### 2. Jilin University &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2024.07-2024.11*
-- **Research Assistant**
-- Mentor: Yi Chang and Qi Wang
--->
 
 
 ## COMPETITION EXPERIENCE
