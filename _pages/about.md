@@ -14,10 +14,10 @@ I obtained a Master's degree in Computer Science and Technology from the School 
 Hello! I am currently a Ph.D. student at AI Thrust, The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/)), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/) and Prof. [Hui Xiong](https://scholar.google.com/citations?hl=zh-CN&user=cVDF1tkAAAAJ) (Fellow of ACM, AAAS, AAAI and IEEE). 
 
 
-<font color="#FFA500">I am also a Research Intern at AI² Robotics (XLab), focusing on Embodied Intelligence and Vision-Language-Action (VLA) models.</font>
+<font color="#7C3AED">I am also a Research Intern at AI² Robotics (XLab), focusing on Embodied Intelligence and Vision-Language-Action (VLA) models.</font>
 <br>
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
-- Large Language Models (LLMs) ***<font color="#FFA500">(Seeking Collaborators)</font>***
+- Large Language Models (LLMs) ***<font color="#7C3AED">(Seeking Collaborators)</font>***
   -  Memory, RAG, Skill-related
   -  Reasoning (Latent Reasoning, Symbolic Reasoning)
   -  Self-Evolving
@@ -26,7 +26,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   -  Safety (Jailbreak)
   -  others
 - Multimodal Learning (MM)
-- Vision-Language-Action model (VLA), Embodied Intelligence, World Model ***<font color="#FFA500">(Seeking Collaborators)</font>***
+- Vision-Language-Action model (VLA), Embodied Intelligence, World Model ***<font color="#7C3AED">(Seeking Collaborators)</font>***
 - Electronic Design Automation (EDA) 
 - Geometric Learning with LLM, Geometric Foundation Model, Geometric Alignment
 - Graph Learning (GNNs)
