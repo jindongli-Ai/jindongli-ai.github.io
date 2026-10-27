@@ -106,7 +106,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 ## INFORMATION
 - **E-mail**: [jli839@connect.hkust-gz.edu.cn](mailto:jli839@connect.hkust-gz.edu.cn)
 - **WeChat**: alwaysbeakindperson &nbsp;&nbsp;*(means: always be a kind person)*
-- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#FFA500">549</font>
+- **Google Scholar**: [![Google Scholar](https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=w-ZGDjMAAAAJ&hl=zh-CN) <font color="#7C3AED">549</font>
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jindongli-Ai)
 
 
@@ -170,7 +170,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - **3rd author:** ESWA
 -->
 
-<p align="center"><b><i><font color="#FFA500">(a) Survey (LLM related)</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(a) Survey (LLM related)</font></i></b></p>
 
 <div class="papers-grid">
 
@@ -223,7 +223,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(b) Benchmark</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(b) Benchmark</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_ICLR_PCB-Bench.png" alt="PCB-Bench" width="250">
@@ -240,7 +240,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(c) LLM/Agent Memory/RAG/Self-Evolving</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(c) LLM/Agent Memory/RAG/Self-Evolving</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_ACL_HeLa-Mem.png" alt="HeLa-Mem" width="250">
@@ -287,7 +287,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(d) Multi-Modal Learning</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(d) Multi-Modal Learning</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2024_IJCAI_ScreenAgent.png" alt="ScreenAgent" width="250">
@@ -324,7 +324,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(e) Graph Learning</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(e) Graph Learning</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_NN_HC-GLAD.png" alt="HC-GLAD" width="250">
@@ -382,7 +382,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(f) Computer Vision</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(f) Computer Vision</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
@@ -409,7 +409,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 <div class="papers-grid">
 
 
-<p align="center"><b><i><font color="#FFA500">(a) Survey (LLM related)</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(a) Survey (LLM related)</font></i></b></p>
 
 
 
@@ -461,7 +461,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(b) LLM/Agent Memory/RAG/Self-Evolving</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(b) LLM/Agent Memory/RAG/Self-Evolving</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_arXiv_CoSPlay.png" alt="CosPlay" width="250">
@@ -530,7 +530,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(c) Graph Learning</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(c) Graph Learning</font></i></b></p>
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_arXiv_AL-GNN.png" alt="AL-GNN" width="250">
@@ -566,7 +566,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 
-<p align="center"><b><i><font color="#FFA500">(d) 3D Point Cloud</font></i></b></p>
+<p align="center"><b><i><font color="#7C3AED">(d) 3D Point Cloud</font></i></b></p>
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
