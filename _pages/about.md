@@ -11,7 +11,7 @@ redirect_from:
 I obtained a Master's degree in Computer Science and Technology from the School of Artificial Intelligence at JLU, and
 -->
 
-Hello! I am currently a Ph.D. student at AI Thrust, The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/)), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/) and Prof. [Hui Xiong](https://scholar.google.com/citations?hl=zh-CN&user=cVDF1tkAAAAJ) (Fellow of ACM, AAAS, AAAI and IEEE). 
+Hello! I am currently a 2nd-year PhD student at AI Thrust, The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/)), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/) and Prof. [Hui Xiong](https://scholar.google.com/citations?hl=zh-CN&user=cVDF1tkAAAAJ) (Fellow of ACM, AAAS, AAAI and IEEE). 
 
 
 <font color="#7C3AED">I am also a Research Intern at AI² Robotics (XLab), focusing on Embodied Intelligence and Vision-Language-Action (VLA) models.</font>
