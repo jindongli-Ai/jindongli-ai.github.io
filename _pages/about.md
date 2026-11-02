@@ -76,8 +76,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
       <td>
         <b>J-STAR</b> (JCR Q1) 
         <span style="color:#FF6969;">[2025]</span><br>
-        Scientific Reports (JCR Q1)
-        <span style="color:#FF6969;">[2026]</span>
       </td>
       <td>
         <b>AAAI</b> (CCF-A)  
