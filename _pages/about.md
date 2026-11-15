@@ -629,6 +629,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - Reviewer, International Conference on Machine Learning (ICML, CCF-A)
 - Reviewer, Conference on Neural Information Processing Systems (NeurIPS, CCF-A)
 - Reviewer, International Conference on Computer Vision (ICCV, CCF-A)
+- Reviewer, International Conference on Computer Vision (CVPR, CCF-A)
 - Reviewer, International World Wide Web Conference (WWW, CCF-A)
 - Reviewer, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD, CCF-A)
 
