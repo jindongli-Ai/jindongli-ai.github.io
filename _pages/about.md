@@ -55,6 +55,8 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
         <span style="color:#FF6969;">[2026 ×2]</span><br>
         <b>Neural Networks</b> (NN, CCF-B)  
         <span style="color:#FF6969;">[2026]</span><br>
+        <b>TGINA</b>
+        <span style="color:#FF6969;">[2026]</span><br>
       </td>
       <td>
         <b>ICLR</b> (CCF-A)  
@@ -336,9 +338,20 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
+  <img src="/images/2023_SSRN_CANNON.png" alt="CANNON" width="250">
+  <div>
+    [13] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
+    <b>Jindong Li</b>, Yixin Liu, Qianli Xing, Qi Wang+, Shirui Pan.<br>
+    <i>Transactions on Graph Intelligence and Network Applications(<span style="color:#FF8686;">TGINA</span>), 2026.</i><br>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">SSRN</a> | <a href="https://github.com/jindongli-Ai/CANNON">GitHub</a>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2026_WCCI-IJCNN_HyGROVE.png" alt="HyGROVE" width="250">
   <div>
-    [13] <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [14] <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection</b><br>
     Xiyu Hu, <b>Jindong Li</b>, Yali Fu, Qi Wang+.<br>
     <i>IEEE WCCI (IJCNN). (<span style="color:#FF8686;">IJCNN, CCF-C, THCPL-B</span>), 2026.</i><br>
     <a href="https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/YrBiC-ijcnn_pap2514s2.pdf">pdf</a>
@@ -349,7 +362,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_ECML-PKDD_GLADMamba.png" alt="GLADMamba" width="250">
   <div>
-    [14] <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
+    [15] <b style="color: #0A1624;">GLADMamba: Unsupervised Graph-Level Anomaly Detection Powered by Selective State Space Model</b><br>
     Yali Fu*, <b>Jindong Li*</b>, Qi Wang+, Qianli Xing.<br>
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<span style="color:#FF8686;">ECML PKDD, CCF-B</span>), 2025.</i><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-032-05962-8_3">Springer</a> | <a href="https://arxiv.org/abs/2503.17903">arXiv</a> | <a href="https://github.com/Yali-F/GLADMamba">GitHub</a>
@@ -360,7 +373,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2023_ECML-PKDD_CVTGAD.png" alt="CVTGAD" width="250">
   <div>
-    [15] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [16] <b style="color: #0A1624;">CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection</b><br>
     <b>Jindong Li</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
     <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (<span style="color:#FF8686;">ECML PKDD, CCF-B</span>), 2023.</i><br>
     <a href="https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11">Springer</a> | <a href="https://arxiv.org/abs/2405.02359">arXiv</a> | <a href="https://github.com/jindongli-Ai/CVTGAD">GitHub</a> 
@@ -388,7 +401,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_J-STAR_LCD-Net.png" alt="LCD-Net" width="250">
   <div>
-    [16] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
+    [17] <b style="color: #0A1624;">LCD-Net: A Lightweight Remote Sensing Change Detection Network Combining Feature Fusion and Gating Mechanism</b><br>
     Wenyu Liu, <b>Jindong Li</b>, Haoji Wang, Run Tan, Yali Fu, Qichuan Tian+.<br>
     <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (<span style="color:#FF8686;">J-STAR, JCR Q1</span>), 2025.</i><br>
     <a href="https://ieeexplore.ieee.org/document/10897814">IEEE</a> | <a href="https://github.com/WenyuLiu6/LCD-Net">GitHub</a> 
@@ -429,8 +442,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 </div>
 
 
-
-
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_arXiv_LLM-Implicit-Reasoning-Survey.png" alt="LLM-Implicit-Reasoning-Survey" width="250">
   <div>
@@ -459,7 +470,6 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
     <img src="https://img.shields.io/github/forks/jindongli-Ai/Next-Generation-LLM-based-Recommender-Systems-Survey?color=lightblue" alt="GitHub Forks" style="vertical-align: middle;">
   </div>
 </div>
-
 
 
 <p align="center"><b><i><font color="#7C3AED">(b) LLM/Agent Memory/RAG/Self-Evolving</font></i></b></p>
@@ -518,6 +528,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   </div>
 </div>
 
+
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2025_arXiv_Cogito.png" alt="Cogito" width="250">
   <div>
@@ -527,6 +538,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
     <a href="https://arxiv.org/abs/2501.18653">arXiv</a> | <a href="https://github.com/doc0318/Cogito">GitHub</a> | <a href="https://techxplore.com/news/2025-02-neuro-ai-framework-reverse-code.html">TechXplore</a>
   </div>
 </div>
+
 
 
 
@@ -545,20 +557,9 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
-  <img src="/images/2023_SSRN_CANNON.png" alt="CANNON" width="250">
-  <div>
-    [11] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
-    <b>Jindong Li</b>, Yixin Liu, Qianli Xing, Qi Wang+, Shirui Pan.<br>
-    <i>SSRN Preprint, 2023.</i><br>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">SSRN</a> | <a href="https://github.com/jindongli-Ai/CANNON">GitHub</a>
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2024_arXiv_FANFOLD.png" alt="FANFOLD" width="250">
   <div>
-    [12] <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
+    [11] <b style="color: #0A1624;">FANFOLD: Graph Normalization Flows-driven Asymmetric Network for Unsupervised Graph-Level Anomaly Detection</b><br>
     Rui Cao*, Shijie Xue*, <b>Jindong Li*</b>, Qianli Xing, Qi Wang+, Yi Chang.<br>
     <i>arXiv Preprint, 2024.</i><br>
     <a href="https://arxiv.org/abs/2407.00383">arXiv</a> | <a href="https://github.com/Goldenhorns/FANFOLD">GitHub</a>
@@ -573,7 +574,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 <div style="display: flex; align-items: center; gap: 15px;margin-bottom: 20px;">
   <img src="/images/2023_arXiv_DIPR.png" alt="DIPR" width="250">
   <div>
-    [13] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
+    [12] <b style="color: #0A1624;">DIRP: Efficient Point Cloud Registration via Dynamic Iteration</b><br>
     Yang Ai, Qiang Bai, , <b>Jindong Li</b>, Xi Yang+.<br>
     <i>arXiv Preprint, 2023.</i><br>
     <a href="https://arxiv.org/abs/2312.02877v2">arXiv</a> | <a href="https://github.com/Ruye-aa/DIPR">GitHub</a>
