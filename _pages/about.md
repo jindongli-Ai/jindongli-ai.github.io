@@ -149,7 +149,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 - Academic performance: rank Top 1.7%
 - **B.E. in Management**
 - Academic performance: rank: Top 3.1%
-- *(I have a valid passport and successfully traveled to Europe in 2023, with no issues obtaining a visa)*
+- *(I have a valid passport and successfully traveled to Europe, with no issues obtaining a visa)*
 
 
 
