@@ -14,7 +14,7 @@ I obtained a Master's degree in Computer Science and Technology from the School 
 Hello! I am currently a 2nd-year PhD student at AI Thrust, The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/)), under the supervision of Prof. [Menglin Yang](https://yangmenglinsite.github.io/) and Prof. [Hui Xiong](https://scholar.google.com/citations?hl=zh-CN&user=cVDF1tkAAAAJ) (Fellow of ACM, AAAS, AAAI and IEEE). 
 
 
-<font color="#7C3AED">I am also a Research Intern at AI² Robotics (XLab), focusing on Embodied Intelligence and Vision-Language-Action (VLA) models.</font>
+<font color="#7C3AED">I am also a Research Intern at AI² Robotics (X-Lab), focusing on Embodied Intelligence and Vision-Language-Action (VLA) models.</font>
 <br>
 My research interests include Machine Learning (ML) and Deep Learning (DL), with a focus on:
 - Large Language Models (LLMs) ***<font color="#7C3AED">(Seeking Collaborators)</font>***
@@ -592,7 +592,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
 
 ## WORK EXPERIENCE
 
-### 1. AI² Robotics, XLab (智平方) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2026.10-*
+### 1. AI² Robotics, X-Lab (智平方) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *2026.10-*
 - **Research Intern (技术实习生)**
 - Mentor: [Weiyu Guo](https://weiyuguo.com/)
 - Topic: Embodied Intelligence, Vision-Language-Action (VLA)
