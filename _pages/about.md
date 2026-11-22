@@ -354,7 +354,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
     [14] <b style="color: #0A1624;">HyGROVE: Generative View Learning with Hypergraph Transformation for Unsupervised Graph-Level Anomaly Detection</b><br>
     Xiyu Hu, <b>Jindong Li</b>, Yali Fu, Qi Wang+.<br>
     <i>IEEE WCCI (IJCNN). (<span style="color:#FF8686;">IJCNN, CCF-C, THCPL-B</span>), 2026.</i><br>
-    <a href="https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/YrBiC-ijcnn_pap2514s2.pdf">pdf</a>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11729453">IEEE</a>
   </div>
 </div>
 
