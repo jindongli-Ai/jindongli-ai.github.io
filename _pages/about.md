@@ -295,7 +295,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
     [9] <b style="color: #0A1624;">ScreenAgent: A Vision Language Model-driven Computer Control Agent</b><br>
     Runliang Niu, <b>Jindong Li</b>, Shiqi Wang, Yali Fu, Xiyu Hu, Xueyuan Leng, He Kong, Yi Chang, Qi Wang+.<br>
     <i>International Joint Conference on Artificial Intelligence (<span style="color:#FF8686;">IJCAI, CCF-A</span>), 2024.</i><br>
-    <a href="https://www.ijcai.org/proceedings/2024/0711">IJCAI</a> | <a href="https://arxiv.org/abs/2402.07945">arXiv</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">GitHub</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
+    <a href="https://ijcai.org/proceedings/2024/711">IJCAI</a> | <a href="https://arxiv.org/abs/2402.07945">arXiv</a> | <a href="https://github.com/niuzaisheng/ScreenAgent">GitHub</a> | <a href="https://mp.weixin.qq.com/s/MNsRNr40vDqXdvoQ1_R-4Q">机器之心</a>
   </div>
 </div>
 
