@@ -342,7 +342,7 @@ My research interests include Machine Learning (ML) and Deep Learning (DL), with
   <div>
     [13] <b style="color: #0A1624;">No Fear of Representation Bias: Graph Contrastive Learning with Calibration and Fusion</b><br>
     <b>Jindong Li</b>, Yixin Liu, Qianli Xing, Qi Wang+.<br>
-    <i>Transactions on Graph Intelligence and Network Applications(<span style="color:#FF8686;">TGINA</span>), 2026.</i><br>
+    <i>Transactions on Graph Intelligence and Network Applications (<span style="color:#FF8686;">TGINA</span>), 2026.</i><br>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4774833">SSRN</a> | <a href="https://github.com/jindongli-Ai/CANNON">GitHub</a>
   </div>
 </div>
